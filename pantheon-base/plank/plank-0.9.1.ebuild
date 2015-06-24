@@ -4,28 +4,28 @@
 
 EAPI=5
 
-VALA_MIN_API_VERSION=0.22
+VALA_MIN_API_VERSION=0.20
 VALA_USE_DEPEND=vapigen
 
-inherit fdo-mime gnome2-utils vala autotools-utils bzr
+inherit fdo-mime gnome2-utils vala autotools-utils
 
 DESCRIPTION="The dock for elementary Pantheon, stupidly simple"
 HOMEPAGE="https://launchpad.net/plank https://launchpad.net/pantheon-dock"
-EBZR_REPO_URI="lp:plank"
+SRC_URI="https://launchpad.net/plank/1.0/${PV}/+download/${P}.tar.xz"
 
 LICENSE="GPL-3"
 SLOT="0"
-KEYWORDS=""
+KEYWORDS="amd64 x86"
 IUSE="debug nls static-libs"
 
 CDEPEND="
-	dev-libs/glib:2
 	dev-libs/libgee:0.8
 	dev-libs/libunique:1
 	x11-libs/libX11
 	x11-libs/libwnck:3
-	x11-libs/bamf
-	x11-libs/gtk+:3"
+	>=x11-libs/bamf-0.2.58
+	>=dev-libs/glib-2.32.0:2
+	>=x11-libs/gtk+-3.4.0:3"
 RDEPEND="${CDEPEND}
 	x11-themes/plank-theme-pantheon"
 DEPEND="${CDEPEND}
@@ -41,6 +41,7 @@ AUTOTOOLS_IN_SOURCE_BUILD=yes
 DOCS=( AUTHORS COPYING COPYRIGHT NEWS README )
 
 src_prepare() {
+#	epatch "${FILESDIR}/${PN}-0.7.1-pantheon-support.patch"
 	epatch_user
 
 	autotools-utils_src_prepare
