@@ -26,6 +26,7 @@ net-libs/webkit-gtk:geoloc - Enable geolocation support through app-misc/geoclue
 net-libs/webkit-gtk:gles2 - Enable GLESv2 support.
 net-libs/webkit-gtk:libsecret - Enable libsecret support to store login credentials
 net-libs/webkit-gtk:webgl - Build support for the WebGL HTML API using virtual/opengl
+net-misc/taxi:adwaita - Fixes for Adwaita theme users
 pantheon-base/pantheon-files:gvfs - Pull in gnome-base/gvfs to enable various virtual filesystems
 pantheon-base/pantheon-shell:lightdm - Install and use the Pantheon greeter for LightDM.
 pantheon-base/pantheon-shell:screensaver - Install a screensaver
