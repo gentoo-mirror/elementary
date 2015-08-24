@@ -16,11 +16,11 @@ gnome-base/gnome-session 3.14.0-r1 3.14.0-r2 3.16.0: Gnome session manager
 gnome-base/gnome-settings-daemon 3.14.2 3.14.4 3.16.2-r1: Gnome Settings Daemon
 gnome-base/gsettings-desktop-schemas 3.12.2 3.14.1 3.14.2 3.16.1: Collection of GSettings schemas for GNOME desktop
 gnome-extra/gnome-screensaver 3.6.1: Replaces xscreensaver, integrating with the desktop
-mail-client/geary 9999: A lightweight, easy-to-use, feature-rich email client
+mail-client/geary 0.10.0 9999: A lightweight, easy-to-use, feature-rich email client
 media-fonts/raleway 2.1: Raleway is an elegant sans-serif typeface, designed in a single thin weight.
 media-sound/indicator-sound 12.10.2_p20141010: A unified sound menu
 media-sound/noise 0.3.1 9999: Noise is the official music player of elementary OS
-media-video/audience 0.1.0.1 9999: A simple, modern media player
+media-video/audience 0.1.0.2 9999: A simple, modern media player
 media-video/eidete 9999: Simple screencasting app for the elementary project
 media-video/snap 0.2 9999: A fast photo booth application designed for the Pantheon desktop
 net-libs/webkit-gtk 2.6.5: Open source web browser engine
@@ -35,7 +35,7 @@ pantheon-base/pantheon-greeter 2.0.2 9999: Pantheon Login Screen for LightDM
 pantheon-base/pantheon-settings 0.2 9999: Default settings for the Pantheon Desktop Environment
 pantheon-base/pantheon-shell 0.2 0.3_pre 9999: Elementary's desktop environment
 pantheon-base/plank 0.7.1 0.9.1 9999: The dock for elementary Pantheon, stupidly simple
-pantheon-base/slingshot 0.8.1 9999: A lightweight and stylish app launcher for Pantheon and other DEs
+pantheon-base/slingshot 0.8.1.1 9999: A lightweight and stylish app launcher for Pantheon and other DEs
 pantheon-base/switchboard 2.0.1 9999: Modular desktop settings hub
 pantheon-base/switchboard-plug-about 0.1.2 9999: Switchboard plug to show system information.
 pantheon-base/switchboard-plug-default-applications 0.2.0 9999: Configure what applications do what using Switchboard.
@@ -45,7 +45,7 @@ pantheon-base/switchboard-plug-pantheon-shell 0.1.2 9999: Configure various aspe
 pantheon-base/switchboard-plug-power 0.2.0 9999: Control system power consumption using Switchboard.
 pantheon-base/switchboard-plug-security-privacy 9999: Configure various aspects of the security of the system.
 pantheon-base/switchboard-plug-startup-applications 0.1 9999: Configure startup applications using Switchboard.
-pantheon-base/wingpanel 0.3.0.1 9999: Stylish top panel that holds indicators and spawns an application launcher
+pantheon-base/wingpanel 0.3.0.2 9999: Stylish top panel that holds indicators and spawns an application launcher
 pantheon-extra/elementary-tweaks 9999: Tweak elementary OS
 sys-apps/accountsservice 0.6.39 0.6.40: D-Bus interfaces for querying and manipulating user account information
 sys-power/indicator-power 12.10.6_p20141015: The Power Indicator
@@ -61,8 +61,8 @@ x11-misc/light-locker 1.6.0: A simple locker using lightdm
 x11-misc/lightdm 1.10.3 1.10.5 1.12.3 1.13.2 1.14.1 1.15.0: A lightweight display manager
 x11-misc/overlay-scrollbar 0.2.16_p20131129: Overlay Scrollbars use an overlay to ensure that scrollbars take up no active screen real-estate.
 x11-terms/pantheon-terminal 0.3.1.3 9999: The terminal of the 21st century
-x11-themes/elementary-icon-theme 3.2.1 4.0_p1500 9999: Elementary icon theme is designed to be smooth, sexy, clear, and efficient
-x11-themes/elementary-theme 3.4 4.0.4 9999: The official elementary GTK theme designed to be smooth, attractive, fast, and usable
+x11-themes/elementary-icon-theme 3.2.2 4.0_p1520 9999: Elementary icon theme is designed to be smooth, sexy, clear, and efficient
+x11-themes/elementary-theme 3.4 4.0.5.1 9999: The official elementary GTK theme designed to be smooth, attractive, fast, and usable
 x11-themes/elementary-wallpapers 0.2 9999: A set of wallpapers used by the elementary OS
 x11-themes/plank-theme-pantheon 0.1 9999: Plank theme for elementary OS, created to compliment the Pantheon desktop environment
 x11-wm/gala 0.2.0 9999: Pantheon's Window Manager
