@@ -49,13 +49,10 @@ src_install() {
 	doins xsessions/*
 
 	insinto /usr/share/wayland-sessions
-	doins wasyland-sessions/*
+	doins wayland-sessions/*
 
 	insinto /etc/xdg/autostart
 	doins autostart/*
-
-	insinto /usr/share/gconf
-	doins gconf/*
 
 	insinto /usr/share/pantheon
 	doins -r applications
