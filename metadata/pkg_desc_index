@@ -1,5 +1,5 @@
 app-dicts/lingo 0.8_p183 9999: The sexiest dictionary on Earth and Jupiter
-app-editors/scratch 2.2.0 9999: Scratch is a text editor written for the Pantheon desktop
+app-editors/scratch 2.2.1 9999: Scratch is a text editor written for the Pantheon desktop
 app-office/dexter 0.1 9999: Dexter is a sexy, simple address book with end users in mind
 app-office/footnote 9999: Beautiful, fast, and simple note taking app in the style of elementary
 app-office/markmywords 9999: A minimal markdown editor
@@ -30,7 +30,7 @@ net-misc/taxi 9999: A simple to use FTP client, designed for elementary OS.
 net-misc/webcontracts 9999: Collection of contracts for various web services
 net-news/feedler 9999: Awesome RSS reader
 pantheon-base/cerbere 0.2-r1 0.2.1 9999: A simple service to relaunch pantheon applications
-pantheon-base/pantheon-files 0.2.2.1 9999: A simple, powerful, sexy file manager for the Pantheon desktop
+pantheon-base/pantheon-files 0.2.3 9999: A simple, powerful, sexy file manager for the Pantheon desktop
 pantheon-base/pantheon-greeter 2.0.2 9999: Pantheon Login Screen for LightDM
 pantheon-base/pantheon-settings 0.2 9999: Default settings for the Pantheon Desktop Environment
 pantheon-base/pantheon-shell 0.2 0.3_pre 9999: Elementary's desktop environment
