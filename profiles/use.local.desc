@@ -30,6 +30,7 @@ net-misc/taxi:adwaita - Fixes for Adwaita theme users
 pantheon-base/pantheon-files:gvfs - Pull in gnome-base/gvfs to enable various virtual filesystems
 pantheon-base/pantheon-shell:lightdm - Install and use the Pantheon greeter for LightDM.
 pantheon-base/pantheon-shell:screensaver - Install a screensaver
+pantheon-base/wingpanel:power - Include the power indicator
 sys-apps/accountsservice:introspection - Use dev-libs/gobject-introspection for introspection
 sys-apps/accountsservice:systemd - Use sys-apps/systemd instead of sys-auth/consolekit for session tracking
 sys-apps/accountsservice:vala - Enable bindings for dev-lang/vala
