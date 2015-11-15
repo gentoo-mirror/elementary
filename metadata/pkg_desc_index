@@ -33,16 +33,18 @@ pantheon-base/pantheon-shell 0.2 0.3_pre 9999: Elementary's desktop environment
 pantheon-base/plank 0.10.1 9999: The dock for elementary Pantheon, stupidly simple
 pantheon-base/slingshot 0.8.1.1 9999: A lightweight and stylish app launcher for Pantheon and other DEs
 pantheon-base/switchboard 2.0.1 9999: Modular desktop settings hub
-pantheon-base/switchboard-plug-about 0.1.2 9999: Switchboard plug to show system information.
+pantheon-base/switchboard-plug-about 0.2.0.1 9999: Switchboard plug to show system information.
 pantheon-base/switchboard-plug-default-applications 0.2.0 9999: Configure what applications do what using Switchboard.
-pantheon-base/switchboard-plug-keyboard 0.1.1 9999: This plug can be used to change several keyboard settings
+pantheon-base/switchboard-plug-keyboard 0.2.1 9999: This plug can be used to change several keyboard settings
 pantheon-base/switchboard-plug-locale 0.2 9999: Adjust Locale settings using Switchboard.
 pantheon-base/switchboard-plug-pantheon-shell 0.1.2 9999: Configure various aspects of the Pantheon desktop environment using Switchboard.
-pantheon-base/switchboard-plug-power 0.2.1 9999: Control system power consumption using Switchboard.
-pantheon-base/switchboard-plug-security-privacy 9999: Configure various aspects of the security of the system.
+pantheon-base/switchboard-plug-power 0.2.2 9999: Control system power consumption using Switchboard.
+pantheon-base/switchboard-plug-security-privacy 0.1.0.1 9999: Configure various aspects of the security of the system.
 pantheon-base/switchboard-plug-startup-applications 0.1 9999: Configure startup applications using Switchboard.
 pantheon-base/wingpanel 0.3.0.2 9999: Stylish top panel that holds indicators and spawns an application launcher
 pantheon-extra/elementary-tweaks 9999: Tweak elementary OS
+pantheon-extra/pantheon-calculator 0.1 9999: A tiny, simple calculator written in GTK+ and Vala
+pantheon-extra/pantheon-print 0.1.2 9999: Small utility to print documents
 sys-apps/accountsservice 0.6.39 0.6.40: D-Bus interfaces for querying and manipulating user account information
 sys-power/indicator-power 12.10.6_p20141015: The Power Indicator
 www-client/midori 0.5.10 9999: A lightweight web browser based on WebKitGTK+
@@ -58,7 +60,7 @@ x11-misc/lightdm 1.10.5 1.12.3 1.14.3 1.15.3 1.16.5 1.17.1: A lightweight displa
 x11-misc/overlay-scrollbar 0.2.16_p20131129: Overlay Scrollbars use an overlay to ensure that scrollbars take up no active screen real-estate.
 x11-terms/pantheon-terminal 0.3.1.3 9999: The terminal of the 21st century
 x11-themes/elementary-icon-theme 3.2.2 4.0_p1520 9999: Elementary icon theme is designed to be smooth, sexy, clear, and efficient
-x11-themes/elementary-theme 3.4 4.0.5.1 9999: The official elementary GTK theme designed to be smooth, attractive, fast, and usable
+x11-themes/elementary-theme 3.4 4.0.6 9999: The official elementary GTK theme designed to be smooth, attractive, fast, and usable
 x11-themes/elementary-wallpapers 0.2 9999: A set of wallpapers used by the elementary OS
 x11-themes/plank-theme-pantheon 0.1 9999: Plank theme for elementary OS, created to compliment the Pantheon desktop environment
 x11-wm/gala 0.2.0 9999: Pantheon's Window Manager
