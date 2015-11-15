@@ -26,9 +26,9 @@ pantheon-base/pantheon-shell:screensaver - Install a screensaver
 pantheon-base/wingpanel:power - Include the power indicator
 sys-apps/accountsservice:systemd - Use sys-apps/systemd instead of sys-auth/consolekit for session tracking
 x11-libs/granite:demo - Build the Granite demo application (to present all available UI features provided by the library)
+x11-libs/gtk+:broadway - Enable the GDK Broadway backend.
+x11-libs/gtk+:cloudprint - Enable printing via Google Cloud Print.
 x11-libs/gtk+:colord - Use x11-misc/colord for color management in printing
-x11-libs/gtk+:packagekit - Enable support for the distro-neutral package manager GUI app-admin/packagekit in application chooser
-x11-libs/gtk+:ubuntu - Apply patches from Ubuntu
 x11-misc/lightdm:gtk - Pull in the gtk+ greeter
 x11-misc/lightdm:introspection - Use dev-libs/gobject-introspection for introspection
 x11-misc/lightdm:kde - Pull in the kde greeter
