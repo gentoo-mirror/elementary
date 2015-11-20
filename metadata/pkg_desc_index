@@ -19,7 +19,6 @@ media-sound/noise 0.3.1 9999: Noise is the official music player of elementary O
 media-video/audience 0.1.0.2 9999: A simple, modern media player
 media-video/eidete 9999: Simple screencasting app for the elementary project
 media-video/snap 0.2 9999: A fast photo booth application designed for the Pantheon desktop
-net-libs/webkit-gtk 2.6.5: Open source web browser engine
 net-misc/indicator-bluetooth 0.0.6_p20140207: The bluetooth menu
 net-misc/indicator-network 0.3.8: Network Menu for controlling network connections
 net-misc/taxi 9999: A simple to use FTP client, designed for elementary OS.

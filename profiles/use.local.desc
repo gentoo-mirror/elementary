@@ -13,12 +13,6 @@ gnome-base/gnome-session:gconf - Optional support for gnome-base/gconf configura
 gnome-base/gnome-settings-daemon:colord - Support color management using x11-misc/colord
 gnome-base/gnome-settings-daemon:openrc-force - Skip systemd dependency (#480336), enabling this flag will become your setup to be fully unsupported by upstream and downstream Gnome team. Do not try to enable it unless completely needed
 gnome-base/gnome-settings-daemon:short-touchpad-timeout - Change the touchpad timeout so that it's effective for fast typists
-net-libs/webkit-gtk:coverage - Enable code coverage support
-net-libs/webkit-gtk:egl - Enable EGL support.
-net-libs/webkit-gtk:geoloc - Enable geolocation support through app-misc/geoclue
-net-libs/webkit-gtk:gles2 - Enable GLESv2 support.
-net-libs/webkit-gtk:libsecret - Enable libsecret support to store login credentials
-net-libs/webkit-gtk:webgl - Build support for the WebGL HTML API using virtual/opengl
 net-misc/taxi:adwaita - Fixes for Adwaita theme users
 pantheon-base/pantheon-files:gvfs - Pull in gnome-base/gvfs to enable various virtual filesystems
 pantheon-base/pantheon-shell:lightdm - Install and use the Pantheon greeter for LightDM.
