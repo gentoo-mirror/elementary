@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile configure install postinst postrm preinst prepare test unpack
+DEPEND=dev-libs/glib:2 dbus? ( dev-libs/libdbusmenu:3 ) dev-libs/libgee:0.8 x11-libs/cairo x11-libs/libX11 x11-libs/libwnck:3 x11-libs/bamf x11-libs/gtk+:3 || ( dev-lang/vala:0.30[vapigen(+)] dev-lang/vala:0.28[vapigen(+)] dev-lang/vala:0.26[vapigen(+)] dev-lang/vala:0.24[vapigen(+)] ) dev-util/intltool virtual/pkgconfig gnome-base/gnome-common nls? ( sys-devel/gettext ) >=sys-apps/sed-4 >=dev-vcs/bzr-2.0.1
+DESCRIPTION=The dock for elementary Pantheon, stupidly simple
+EAPI=5
+HOMEPAGE=https://launchpad.net/plank https://launchpad.net/pantheon-dock
+IUSE=+dbus debug nls static-libs
+LICENSE=GPL-3
+RDEPEND=dev-libs/glib:2 dbus? ( dev-libs/libdbusmenu:3 ) dev-libs/libgee:0.8 x11-libs/cairo x11-libs/libX11 x11-libs/libwnck:3 x11-libs/bamf x11-libs/gtk+:3 x11-themes/plank-theme-pantheon
+SLOT=0
+_eclass_exported_funcs=pkg_preinst:- pkg_postrm:- pkg_postinst:- src_unpack:bzr src_prepare:- src_configure:- src_compile:autotools-utils src_test:autotools-utils src_install:autotools-utils
+_eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	autotools-utils	419811142edf3516b0d0cf1a254d93cb	bzr	745bed5705ae699c707ba26ca9e8929a	eutils	f20548a2f7b0128068388cd2ec26708a	fdo-mime	92d07846ea8ea54172f8c0112a47ae3d	gnome2-utils	588052cacdf74572e68bdfeaece20534	libtool	b75230758539a7da029e24afdb693960	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	vala	15f7a43101d2ff0c6dcdab272c02f469
+_md5_=ca7e3e618239720ae90738e6568ea8c8

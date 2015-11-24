@@ -1,0 +1,14 @@
+DEFINED_PHASES=compile configure install postinst postrm preinst prepare test
+DEPEND=dev-libs/libdbusmenu:3[gtk] dev-libs/libindicator:3 x11-libs/gtk+:3 virtual/pkgconfig nls? ( sys-devel/gettext ) >=sys-apps/sed-4
+DESCRIPTION=An indicator which shows active print jobs
+EAPI=5
+HOMEPAGE=https://launchpad.net/indicator-printers
+IUSE=nls static-libs
+KEYWORDS=~amd64
+LICENSE=GPL-3
+RDEPEND=dev-libs/libdbusmenu:3[gtk] dev-libs/libindicator:3 x11-libs/gtk+:3
+SLOT=0
+SRC_URI=http://launchpad.net/indicator-printers/0.1/0.1.6/+download/indicator-printers-0.1.6.tar.gz
+_eclass_exported_funcs=pkg_preinst:- pkg_postrm:- pkg_postinst:- src_prepare:autotools-utils src_configure:autotools-utils src_compile:autotools-utils src_test:autotools-utils src_install:autotools-utils
+_eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	autotools-utils	419811142edf3516b0d0cf1a254d93cb	eutils	f20548a2f7b0128068388cd2ec26708a	gnome2-utils	588052cacdf74572e68bdfeaece20534	libtool	b75230758539a7da029e24afdb693960	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=8bff172b18b45606df0252c0f59ead1e

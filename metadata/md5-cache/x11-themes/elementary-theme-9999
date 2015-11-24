@@ -1,0 +1,13 @@
+DEFINED_PHASES=compile configure install prepare unpack
+DEPEND=x11-themes/vanilla-dmz-aa-xcursors >=dev-vcs/bzr-2.0.1
+DESCRIPTION=The official elementary GTK theme designed to be smooth, attractive, fast, and usable
+EAPI=5
+HOMEPAGE=https://launchpad.net/egtk
+IUSE=+gtk +gtk3 +icons +wallpapers
+LICENSE=GPL-3
+RDEPEND=x11-themes/vanilla-dmz-aa-xcursors media-fonts/droid gtk? ( x11-libs/gtk+:2 x11-themes/gtk-engines-murrine ) gtk3? ( x11-libs/gtk+:3 x11-themes/gtk-engines-unico ) icons? ( x11-themes/elementary-icon-theme x11-themes/hicolor-icon-theme ) wallpapers? ( x11-themes/elementary-wallpapers )
+RESTRICT=binchecks mirror strip
+SLOT=0
+_eclass_exported_funcs=src_unpack:bzr src_prepare:- src_configure:base src_compile:base src_install:-
+_eclasses_=base	3fe4f8980633fd7bc69e9887209ba2fe	bzr	745bed5705ae699c707ba26ca9e8929a	eutils	f20548a2f7b0128068388cd2ec26708a	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=cbfd288fa01e4ea208a74b74a086dbce

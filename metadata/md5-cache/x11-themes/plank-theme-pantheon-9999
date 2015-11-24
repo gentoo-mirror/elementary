@@ -1,0 +1,11 @@
+DEFINED_PHASES=compile configure install prepare unpack
+DEPEND=>=dev-vcs/bzr-2.0.1
+DESCRIPTION=Plank theme for elementary OS, created to compliment the Pantheon desktop environment
+EAPI=5
+HOMEPAGE=https://launchpad.net/plank-theme-pantheon
+LICENSE=GPL-3
+RDEPEND=pantheon-base/plank
+SLOT=0
+_eclass_exported_funcs=src_unpack:bzr src_prepare:bzr src_configure:base src_compile:base src_install:-
+_eclasses_=base	3fe4f8980633fd7bc69e9887209ba2fe	bzr	745bed5705ae699c707ba26ca9e8929a	eutils	f20548a2f7b0128068388cd2ec26708a	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=c1997a5eb2b89a66e54b3fa2f8619dd3

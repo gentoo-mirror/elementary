@@ -1,65 +1,65 @@
-app-editors/scratch 2.2.1 9999: 
-app-office/footnote 9999: 
-app-office/markmywords 9999: 
-app-office/maya 0.3.1.1 9999: 
-dev-db/sqlheavy 0.1.1 0.2_p20121114 9999: 
-dev-libs/contractor 0.3_p136 0.3.1 9999: 
+app-editors/scratch 2.2.1 9999: Scratch is a text editor written for the Pantheon desktop
+app-office/footnote 9999: Beautiful, fast, and simple note taking app in the style of elementary
+app-office/markmywords 9999: A minimal markdown editor
+app-office/maya 0.3.1.1 9999: Slim, lightweight, GCal-syncing GTK+ Calendar application
+dev-db/sqlheavy 0.1.1 0.2_p20121114 9999: GObject SQLite wrapper
+dev-libs/contractor 0.3_p136 0.3.1 9999: A sharing service that allows source apps to send their data to registered destination apps
 dev-libs/libappindicator 12.10.0 9999: A library to allow applications to export a menu into the Unity Menu bar
-dev-libs/libdbusmenu 12.10.3_p20130619 12.10.3_p20131125 12.10.3_p20140612: 
-dev-libs/libindicator 12.10.2_p20141007-r300: 
-dev-libs/properties-cpp 0.0.1_p20140730 9999: 
-gnome-base/gnome-desktop 3.14.2 3.16.2 3.18.2: 
-gnome-base/gnome-session 3.14.0-r1 3.14.0-r2 3.16.0 3.18.1.2: 
-gnome-base/gnome-settings-daemon 3.14.4 3.16.2-r1 3.16.3 3.18.2: 
-gnome-base/gsettings-desktop-schemas 3.12.2 3.14.1 3.14.2 3.16.1 3.18.1: 
-mail-client/geary 0.10.0 9999: 
-media-fonts/raleway 2.1: 
-media-sound/indicator-sound 12.10.2_p20141010: 
-media-sound/noise 0.3.1 9999: 
-media-video/audience 0.1.0.2 9999: 
-media-video/eidete 9999: 
-media-video/snap 0.2 9999: 
-net-misc/indicator-bluetooth 0.0.6_p20140207: 
-net-misc/indicator-network 0.3.8: 
-net-misc/taxi 9999: 
-net-misc/webcontracts 9999: 
-net-news/feedler 9999: 
-pantheon-base/cerbere 0.2-r1 0.2.1 9999: 
-pantheon-base/pantheon-files 0.2.4 9999: 
-pantheon-base/pantheon-greeter 2.0.2 9999: 
-pantheon-base/pantheon-settings 0.2 9999: 
-pantheon-base/pantheon-shell 0.2 0.3_pre 9999: 
-pantheon-base/plank 0.10.1 9999: 
-pantheon-base/slingshot 0.8.1.1 9999: 
-pantheon-base/switchboard 2.0.1 9999: 
-pantheon-base/switchboard-plug-about 0.2.0.1 9999: 
-pantheon-base/switchboard-plug-default-applications 0.2.0 9999: 
-pantheon-base/switchboard-plug-keyboard 0.2.1 9999: 
-pantheon-base/switchboard-plug-locale 0.2 9999: 
-pantheon-base/switchboard-plug-pantheon-shell 0.1.2 9999: 
-pantheon-base/switchboard-plug-power 0.2.2 9999: 
-pantheon-base/switchboard-plug-security-privacy 0.1.0.1 9999: 
-pantheon-base/switchboard-plug-startup-applications 0.1 9999: 
-pantheon-base/wingpanel 0.3.0.2 9999: 
-pantheon-extra/elementary-tweaks 9999: 
-pantheon-extra/pantheon-calculator 0.1 9999: 
-pantheon-extra/pantheon-print 0.1.2 9999: 
-sys-apps/accountsservice 0.6.39 0.6.40: 
-sys-power/indicator-power 12.10.6_p20141015: 
-www-client/midori 0.5.10 0.5.11 9999: 
-x11-libs/bamf 0.5.0 9999: 
-x11-libs/granite 0.3.1 9999: 
-x11-libs/gtk+ 2.24.28-r1 3.14.13 3.16.6 3.16.7 3.18.5: 
-x11-libs/libido 13.10.0_p20140423: 
-x11-misc/indicator-datetime 13.10.0_p20140415 13.10.0_p20141009: 
-x11-misc/indicator-printers 0.1.6 0.1.7_p20130301 9999: 
-x11-misc/indicator-session 12.10.5_p20141009: 
-x11-misc/light-locker 1.6.0: 
-x11-misc/lightdm 1.10.5 1.12.3 1.14.3 1.15.3 1.16.5 1.17.1: 
-x11-misc/overlay-scrollbar 0.2.16_p20131129: 
-x11-terms/pantheon-terminal 0.3.1.3 9999: 
-x11-themes/elementary-icon-theme 3.2.2 4.0_p1520 9999: 
-x11-themes/elementary-theme 3.4 4.0.6 9999: 
-x11-themes/elementary-wallpapers 0.2 9999: 
-x11-themes/plank-theme-pantheon 0.1 9999: 
-x11-wm/gala 0.2.0 9999: 
+dev-libs/libdbusmenu 12.10.3_p20130619 12.10.3_p20131125 12.10.3_p20140612: Library to pass menu structure across DBus
+dev-libs/libindicator 12.10.2_p20141007-r300: A set of symbols and convience functions that all indicators would like to use
+dev-libs/properties-cpp 0.0.1_p20140730 9999: A very simple convenience library for handling properties and signals in C++11
+gnome-base/gnome-desktop 3.14.2 3.16.2 3.18.2: Libraries for the gnome desktop that are not part of the UI
+gnome-base/gnome-session 3.14.0-r1 3.14.0-r2 3.16.0 3.18.1.2: Gnome session manager
+gnome-base/gnome-settings-daemon 3.14.4 3.16.2-r1 3.16.3 3.18.2: Gnome Settings Daemon
+gnome-base/gsettings-desktop-schemas 3.12.2 3.14.1 3.14.2 3.16.1 3.18.1: Collection of GSettings schemas for GNOME desktop
+mail-client/geary 0.10.0 9999: A lightweight, easy-to-use, feature-rich email client
+media-fonts/raleway 2.1: Raleway is an elegant sans-serif typeface, designed in a single thin weight.
+media-sound/indicator-sound 12.10.2_p20141010: A unified sound menu
+media-sound/noise 0.3.1 9999: Noise is the official music player of elementary OS
+media-video/audience 0.1.0.2 9999: A simple, modern media player
+media-video/eidete 9999: Simple screencasting app for the elementary project
+media-video/snap 0.2 9999: A fast photo booth application designed for the Pantheon desktop
+net-misc/indicator-bluetooth 0.0.6_p20140207: The bluetooth menu
+net-misc/indicator-network 0.3.8: Network Menu for controlling network connections
+net-misc/taxi 9999: A simple to use FTP client, designed for elementary OS.
+net-misc/webcontracts 9999: Collection of contracts for various web services
+net-news/feedler 9999: Awesome RSS reader
+pantheon-base/cerbere 0.2-r1 0.2.1 9999: A simple service to relaunch pantheon applications
+pantheon-base/pantheon-files 0.2.4 9999: A simple, powerful, sexy file manager for the Pantheon desktop
+pantheon-base/pantheon-greeter 2.0.2 9999: Pantheon Login Screen for LightDM
+pantheon-base/pantheon-settings 0.2 9999: Default settings for the Pantheon Desktop Environment
+pantheon-base/pantheon-shell 0.2 0.3_pre 9999: Elementary's desktop environment
+pantheon-base/plank 0.10.1 9999: The dock for elementary Pantheon, stupidly simple
+pantheon-base/slingshot 0.8.1.1 9999: A lightweight and stylish app launcher for Pantheon and other DEs
+pantheon-base/switchboard 2.0.1 9999: Modular desktop settings hub
+pantheon-base/switchboard-plug-about 0.2.0.1 9999: Switchboard plug to show system information.
+pantheon-base/switchboard-plug-default-applications 0.2.0 9999: Configure what applications do what using Switchboard.
+pantheon-base/switchboard-plug-keyboard 0.2.1 9999: This plug can be used to change several keyboard settings
+pantheon-base/switchboard-plug-locale 0.2 9999: Adjust Locale settings using Switchboard.
+pantheon-base/switchboard-plug-pantheon-shell 0.1.2 9999: Configure various aspects of the Pantheon desktop environment using Switchboard.
+pantheon-base/switchboard-plug-power 0.2.2 9999: Control system power consumption using Switchboard.
+pantheon-base/switchboard-plug-security-privacy 0.1.0.1 9999: Configure various aspects of the security of the system.
+pantheon-base/switchboard-plug-startup-applications 0.1 9999: Configure startup applications using Switchboard.
+pantheon-base/wingpanel 0.3.0.2 9999: Stylish top panel that holds indicators and spawns an application launcher
+pantheon-extra/elementary-tweaks 9999: Tweak elementary OS
+pantheon-extra/pantheon-calculator 0.1 9999: A tiny, simple calculator written in GTK+ and Vala
+pantheon-extra/pantheon-print 0.1.2 9999: Small utility to print documents
+sys-apps/accountsservice 0.6.39 0.6.40: D-Bus interfaces for querying and manipulating user account information
+sys-power/indicator-power 12.10.6_p20141015: The Power Indicator
+www-client/midori 0.5.10 0.5.11 9999: A lightweight web browser based on WebKitGTK+
+x11-libs/bamf 0.5.0 9999: BAMF Application Matching Framework
+x11-libs/granite 0.3.1 9999: A development library for elementary development
+x11-libs/gtk+ 2.24.28-r1 3.14.13 3.16.6 3.16.7 3.18.5: Gimp ToolKit +
+x11-libs/libido 13.10.0_p20140423: Widgets and other objects used for indicators
+x11-misc/indicator-datetime 13.10.0_p20140415 13.10.0_p20141009: The Date and Time Indicator - A very, very simple clock
+x11-misc/indicator-printers 0.1.6 0.1.7_p20130301 9999: An indicator which shows active print jobs
+x11-misc/indicator-session 12.10.5_p20141009: Session indicator
+x11-misc/light-locker 1.6.0: A simple locker using lightdm
+x11-misc/lightdm 1.10.5 1.12.3 1.14.3 1.15.3 1.16.5 1.17.1: A lightweight display manager
+x11-misc/overlay-scrollbar 0.2.16_p20131129: Overlay Scrollbars use an overlay to ensure that scrollbars take up no active screen real-estate.
+x11-terms/pantheon-terminal 0.3.1.3 9999: The terminal of the 21st century
+x11-themes/elementary-icon-theme 3.2.2 4.0_p1520 9999: Elementary icon theme is designed to be smooth, sexy, clear, and efficient
+x11-themes/elementary-theme 3.4 4.0.6 9999: The official elementary GTK theme designed to be smooth, attractive, fast, and usable
+x11-themes/elementary-wallpapers 0.2 9999: A set of wallpapers used by the elementary OS
+x11-themes/plank-theme-pantheon 0.1 9999: Plank theme for elementary OS, created to compliment the Pantheon desktop environment
+x11-wm/gala 0.2.0 9999: Pantheon's Window Manager
