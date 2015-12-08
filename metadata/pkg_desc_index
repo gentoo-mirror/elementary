@@ -57,7 +57,7 @@ x11-misc/indicator-session 12.10.5_p20141009: Session indicator
 x11-misc/light-locker 1.6.0: A simple locker using lightdm
 x11-misc/lightdm 1.10.5 1.12.3 1.14.4 1.15.3 1.16.6 1.17.2: A lightweight display manager
 x11-misc/overlay-scrollbar 0.2.16_p20131129: Overlay Scrollbars use an overlay to ensure that scrollbars take up no active screen real-estate.
-x11-terms/pantheon-terminal 0.3.1.3 9999: The terminal of the 21st century
+x11-terms/pantheon-terminal 0.3.2 9999: The terminal of the 21st century
 x11-themes/elementary-icon-theme 3.2.2 4.0_p1520 9999: Elementary icon theme is designed to be smooth, sexy, clear, and efficient
 x11-themes/elementary-theme 3.4 4.0.6 9999: The official elementary GTK theme designed to be smooth, attractive, fast, and usable
 x11-themes/elementary-wallpapers 0.2 9999: A set of wallpapers used by the elementary OS
