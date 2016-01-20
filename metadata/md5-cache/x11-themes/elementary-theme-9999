@@ -9,5 +9,5 @@ RDEPEND=x11-themes/vanilla-dmz-aa-xcursors media-fonts/droid gtk? ( x11-libs/gtk
 RESTRICT=binchecks mirror strip
 SLOT=0
 _eclass_exported_funcs=src_unpack:bzr src_prepare:- src_configure:base src_compile:base src_install:-
-_eclasses_=base	3fe4f8980633fd7bc69e9887209ba2fe	bzr	745bed5705ae699c707ba26ca9e8929a	eutils	d9bd2ddd85a58e470b49ca997e255a4c	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_eclasses_=base	3fe4f8980633fd7bc69e9887209ba2fe	bzr	745bed5705ae699c707ba26ca9e8929a	eutils	7332d4dd366dcd51c0014dde21f21897	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
 _md5_=cbfd288fa01e4ea208a74b74a086dbce

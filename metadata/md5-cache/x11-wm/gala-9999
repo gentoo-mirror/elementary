@@ -8,5 +8,5 @@ LICENSE=GPL-3
 RDEPEND=>=dev-libs/glib-2.32:2 dev-libs/libgee:0.8 media-libs/clutter-gtk >=pantheon-base/plank-0.3 >=x11-libs/granite-0.3 x11-libs/bamf >=x11-libs/gtk+-3.4:3 >=x11-wm/mutter-3.8.4 gnome-base/gnome-desktop:3
 SLOT=0
 _eclass_exported_funcs=pkg_preinst:- pkg_postrm:- pkg_postinst:- src_unpack:bzr src_prepare:- src_configure:- src_compile:autotools-utils src_test:autotools-utils src_install:autotools-utils
-_eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	autotools-utils	419811142edf3516b0d0cf1a254d93cb	bzr	745bed5705ae699c707ba26ca9e8929a	eutils	d9bd2ddd85a58e470b49ca997e255a4c	gnome2-utils	2a93a5fe31c2295077e190059f4cf88d	libtool	b75230758539a7da029e24afdb693960	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	vala	15f7a43101d2ff0c6dcdab272c02f469	xdg-utils	e2b2bd56125ce8cf59ce30c642b59d48
+_eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	autotools-utils	419811142edf3516b0d0cf1a254d93cb	bzr	745bed5705ae699c707ba26ca9e8929a	eutils	7332d4dd366dcd51c0014dde21f21897	gnome2-utils	2a93a5fe31c2295077e190059f4cf88d	libtool	b75230758539a7da029e24afdb693960	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	vala	15f7a43101d2ff0c6dcdab272c02f469	xdg-utils	e2b2bd56125ce8cf59ce30c642b59d48
 _md5_=77d3aaa1a182b3a3b69791a79e6a35dc
