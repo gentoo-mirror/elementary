@@ -2,36 +2,7 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-app-editors/scratch:contractor - Build the Contractor extension (to share your files with Contractor)
-app-editors/scratch:files - Build the File Manager plugin (to browse files and folders)
-app-editors/scratch:pastebin - Build the Pastebin extension (to share files with pastebin service)
-app-editors/scratch:terminal - Build the Terminal plugin (to get a terminal in your text editor)
-app-editors/scratch:webkit - Build the Browser Preview extension (to preview your work in a web page)
-dev-libs/libappindicator:introspection - Use dev-libs/gobject-introspection for introspection
-dev-libs/libdbusmenu:introspection - Use dev-libs/gobject-introspection for introspection
-gnome-base/gnome-session:gconf - Optional support for gnome-base/gconf configuration storage system
-gnome-base/gnome-settings-daemon:colord - Support color management using x11-misc/colord
-gnome-base/gnome-settings-daemon:openrc-force - Skip systemd dependency (#480336), enabling this flag will become your setup to be fully unsupported by upstream and downstream Gnome team. Do not try to enable it unless completely needed
-gnome-base/gnome-settings-daemon:short-touchpad-timeout - Change the touchpad timeout so that it's effective for fast typists
-net-misc/taxi:adwaita - Fixes for Adwaita theme users
 pantheon-base/pantheon-files:gvfs - Pull in gnome-base/gvfs to enable various virtual filesystems
 pantheon-base/pantheon-shell:lightdm - Install and use the Pantheon greeter for LightDM.
 pantheon-base/pantheon-shell:screensaver - Install a screensaver
 pantheon-base/wingpanel:power - Include the power indicator
-sys-apps/accountsservice:systemd - Use sys-apps/systemd instead of sys-auth/consolekit for session tracking
-x11-libs/granite:demo - Build the Granite demo application (to present all available UI features provided by the library)
-x11-libs/gtk+:broadway - Enable the GDK Broadway backend.
-x11-libs/gtk+:cloudprint - Enable printing via Google Cloud Print.
-x11-libs/gtk+:colord - Use x11-misc/colord for color management in printing
-x11-misc/lightdm:gtk - Pull in the gtk+ greeter
-x11-misc/lightdm:introspection - Use dev-libs/gobject-introspection for introspection
-x11-misc/lightdm:kde - Pull in the kde greeter
-x11-misc/lightdm:pantheon - Pull in the pantheon greeter
-x11-misc/lightdm:razor - Pull in the razorqt greeter
-x11-misc/overlay-scrollbar:gtk2 - Build the overlay-scrollbar for GTK+ 2
-x11-misc/overlay-scrollbar:gtk3 - Build the overlay scrollbar for GTK+ 3
-x11-themes/elementary-theme:dark - Include the 'dark' theme
-x11-themes/elementary-theme:gtk3 - Pull in the Gtk+ 3 theme engines
-x11-themes/elementary-theme:icons - Include elementary icons
-x11-themes/elementary-theme:wallpapers - Include elementary wallpapers
-x11-wm/gala:mutter38 - Build the new Gala based on Mutter 3.8
