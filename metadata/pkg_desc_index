@@ -3,7 +3,7 @@ pantheon-base/pantheon-files 0.2.4 9999: A simple, powerful, sexy file manager f
 pantheon-base/pantheon-greeter 2.0.2 9999: Pantheon Login Screen for LightDM
 pantheon-base/pantheon-settings 0.2 9999: Default settings for the Pantheon Desktop Environment
 pantheon-base/pantheon-shell 0.2 0.3_pre 9999: Elementary's desktop environment
-pantheon-base/plank 0.11.1 9999: The dock for elementary Pantheon, stupidly simple
+pantheon-base/plank 0.10.2 0.11.1 9999: The dock for elementary Pantheon, stupidly simple
 pantheon-base/slingshot 0.8.1.1 9999: A lightweight and stylish app launcher for Pantheon and other DEs
 pantheon-base/switchboard 2.0.1 9999: Modular desktop settings hub
 pantheon-base/switchboard-plug-about 0.2.0.1 9999: Switchboard plug to show system information.
