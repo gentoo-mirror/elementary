@@ -8,5 +8,5 @@ LICENSE=GPL-3
 RDEPEND=lightdm? ( >=pantheon-base/pantheon-greeter-1.0 ) >=gnome-base/gnome-session-3.0 >=gnome-base/gnome-settings-daemon-3.0 >=pantheon-base/cerbere-0.2 pantheon-base/plank >=pantheon-base/slingshot-0.7 >=pantheon-base/wingpanel-0.2 pantheon-base/pantheon-settings >=x11-themes/elementary-theme-3.4 x11-wm/gala screensaver? ( || ( x11-misc/light-locker gnome-extra/gnome-screensaver x11-misc/xscreensaver ) )
 SLOT=0
 _eclass_exported_funcs=src_unpack:bzr src_prepare:- src_install:-
-_eclasses_=bzr	745bed5705ae699c707ba26ca9e8929a	eutils	792f83d5ec9536cb5ccef375469d8bde	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	e886935aae2b45a545665444ab0667cf
+_eclasses_=bzr	745bed5705ae699c707ba26ca9e8929a	eutils	792f83d5ec9536cb5ccef375469d8bde	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	82165206dedb2075f9a0fb8f9b1f9441
 _md5_=7b5048d9977190bbc546d99ca5244612
