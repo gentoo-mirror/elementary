@@ -4,46 +4,46 @@
 
 EAPI=6
 
-VALA_MIN_API_VERSION=0.22
+VALA_MIN_VERSION=0.22
 
 inherit gnome2-utils vala cmake-utils bzr
 
-DESCRIPTION="Modular desktop settings hub"
-HOMEPAGE="http://launchpad.net/switchboard"
-EBZR_REPO_URI="lp:switchboard"
+DESCRIPTION="Sound indicator for Wingpanel"
+HOMEPAGE="https://launchpad.net/wingpanel-indicator-sound"
+EBZR_REPO_URI="lp:${PN}"
 
 LICENSE="GPL-3"
 SLOT="0"
 KEYWORDS=""
-IUSE="nls"
+IUSE=""
 
 RDEPEND="
 	dev-libs/glib:2
-	dev-libs/libgee:0.8
-	media-libs/clutter-gtk
+	media-libs/libcanberra[gtk]
+	media-sound/pulseaudio[glib]
+	pantheon-base/wingpanel
 	x11-libs/gtk+:3
-	>=x11-libs/granite-0.3"
+	x11-libs/granite
+	x11-libs/libnotify
+"
 DEPEND="${RDEPEND}
-	$(vala_depend)
 	virtual/pkgconfig
-	nls? ( sys-devel/gettext )"
+"
 
 src_prepare() {
 	eapply_user
 
-	# Disable generation of the translations (if needed)
-	use nls || sed -i '/add_subdirectory(po)/d' CMakeLists.txt
-
-	cmake-utils_src_prepare
 	vala_src_prepare
+	cmake-utils_src_prepare
 }
 
+
 src_configure() {
-	local mycmakeargs=(
-		-DUSE_UNITY=OFF
+	mycmakeargs=(
 		-DGSETTINGS_COMPILE=OFF
-		-DVALA_EXECUTABLE="${VALAC}"
+		-DVALA_EXECUTABLE=${VALAC}
 	)
+
 	cmake-utils_src_configure
 }
 
