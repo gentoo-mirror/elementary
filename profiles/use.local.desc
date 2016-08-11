@@ -24,7 +24,12 @@ net-misc/taxi:adwaita - Fixes for Adwaita theme users
 pantheon-base/pantheon-files:gvfs - Pull in gnome-base/gvfs to enable various virtual filesystems
 pantheon-base/pantheon-shell:lightdm - Install and use the Pantheon greeter for LightDM.
 pantheon-base/pantheon-shell:screensaver - Install a screensaver
+pantheon-base/wingpanel:accessibility - Include the accessibility indicator
+pantheon-base/wingpanel:bluetooth - Include the bluetooth indicator
+pantheon-base/wingpanel:keyboard - Include the keyboard indicator
+pantheon-base/wingpanel:network - Include the network indicator
 pantheon-base/wingpanel:power - Include the power indicator
+pantheon-base/wingpanel:sound - Include the sound indicator
 sys-apps/accountsservice:systemd - Use sys-apps/systemd instead of sys-auth/consolekit for session tracking
 x11-libs/granite:demo - Build the Granite demo application (to present all available UI features provided by the library)
 x11-libs/gtk+:broadway - Enable the GDK Broadway backend.
@@ -41,4 +46,3 @@ x11-themes/elementary-theme:dark - Include the 'dark' theme
 x11-themes/elementary-theme:gtk3 - Pull in the Gtk+ 3 theme engines
 x11-themes/elementary-theme:icons - Include elementary icons
 x11-themes/elementary-theme:wallpapers - Include elementary wallpapers
-x11-wm/gala:mutter38 - Build the new Gala based on Mutter 3.8

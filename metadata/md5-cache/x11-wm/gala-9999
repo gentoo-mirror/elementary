@@ -1,12 +1,11 @@
-DEFINED_PHASES=compile configure install postinst postrm preinst prepare test unpack
-DEPEND=>=dev-libs/glib-2.32:2 dev-libs/libgee:0.8 media-libs/clutter-gtk >=pantheon-base/plank-0.3 >=x11-libs/granite-0.3 x11-libs/bamf >=x11-libs/gtk+-3.4:3 >=x11-wm/mutter-3.8.4 gnome-base/gnome-desktop:3 || ( dev-lang/vala:0.32 dev-lang/vala:0.30 dev-lang/vala:0.28 dev-lang/vala:0.26 ) virtual/pkgconfig >=sys-apps/sed-4 >=dev-vcs/bzr-2.0.1
+DEFINED_PHASES=configure postinst postrm preinst prepare unpack
+DEPEND=>=dev-libs/glib-2.32:2 dev-libs/libgee:0.8 >=media-libs/clutter-1.12 media-libs/clutter-gtk >=pantheon-base/plank-0.3 x11-libs/bamf >=x11-libs/granite-0.3 >=x11-libs/gtk+-3.4:3 >=x11-wm/mutter-3.14.4 gnome-base/gnome-desktop:3 || ( dev-lang/vala:0.32[vapigen(+)] dev-lang/vala:0.30[vapigen(+)] dev-lang/vala:0.28[vapigen(+)] ) virtual/pkgconfig >=sys-apps/sed-4 !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.15:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4 >=dev-vcs/bzr-2.0.1
 DESCRIPTION=Pantheon's Window Manager
-EAPI=5
+EAPI=6
 HOMEPAGE=https://launchpad.net/gala
-IUSE=debug
 LICENSE=GPL-3
-RDEPEND=>=dev-libs/glib-2.32:2 dev-libs/libgee:0.8 media-libs/clutter-gtk >=pantheon-base/plank-0.3 >=x11-libs/granite-0.3 x11-libs/bamf >=x11-libs/gtk+-3.4:3 >=x11-wm/mutter-3.8.4 gnome-base/gnome-desktop:3
+RDEPEND=>=dev-libs/glib-2.32:2 dev-libs/libgee:0.8 >=media-libs/clutter-1.12 media-libs/clutter-gtk >=pantheon-base/plank-0.3 x11-libs/bamf >=x11-libs/granite-0.3 >=x11-libs/gtk+-3.4:3 >=x11-wm/mutter-3.14.4 gnome-base/gnome-desktop:3
 SLOT=0
-_eclass_exported_funcs=pkg_preinst:- pkg_postrm:- pkg_postinst:- src_unpack:bzr src_prepare:- src_configure:- src_compile:autotools-utils src_test:autotools-utils src_install:autotools-utils
-_eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	autotools-utils	419811142edf3516b0d0cf1a254d93cb	bzr	745bed5705ae699c707ba26ca9e8929a	eutils	792f83d5ec9536cb5ccef375469d8bde	gnome2-utils	c6dcdf3a2c22b578b16adb945dc85c35	libtool	4890219c51da247200223277f993e054	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	6198c04daba0e1307bd844df7d37f423	vala	764817a25b405b65269d8619e203a52f	xdg-utils	e2b2bd56125ce8cf59ce30c642b59d48
-_md5_=77d3aaa1a182b3a3b69791a79e6a35dc
+_eclass_exported_funcs=pkg_preinst:- pkg_postrm:- pkg_postinst:- src_unpack:bzr src_prepare:- src_configure:-
+_eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	bzr	745bed5705ae699c707ba26ca9e8929a	eutils	792f83d5ec9536cb5ccef375469d8bde	gnome2-utils	c6dcdf3a2c22b578b16adb945dc85c35	libtool	4890219c51da247200223277f993e054	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	6198c04daba0e1307bd844df7d37f423	vala	764817a25b405b65269d8619e203a52f	xdg-utils	e2b2bd56125ce8cf59ce30c642b59d48
+_md5_=ca39faa8c1bbbc2817a60be377b9a705
