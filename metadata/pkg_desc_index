@@ -42,7 +42,7 @@ pantheon-base/switchboard-plug-pantheon-shell 0.1.2 9999: Configure various aspe
 pantheon-base/switchboard-plug-power 0.2.2 9999: Control system power consumption using Switchboard.
 pantheon-base/switchboard-plug-security-privacy 0.1.0.2 9999: Configure various aspects of the security of the system.
 pantheon-base/switchboard-plug-startup-applications 0.1 9999: Configure startup applications using Switchboard.
-pantheon-base/wingpanel 0.3.0.2 0.4 9999: Stylish top panel that holds indicators and spawns an application launcher
+pantheon-base/wingpanel 0.3.0.2 0.4 2.0.1 9999: Stylish top panel that holds indicators and spawns an application launcher
 pantheon-base/wingpanel-indicator-accessibility 9999: Accessibility indicator for Wingpanel
 pantheon-base/wingpanel-indicator-bluetooth 9999: Bluetooth indicator for Wingpanel
 pantheon-base/wingpanel-indicator-datetime 9999: Date & Time indicator for Wingpanel
