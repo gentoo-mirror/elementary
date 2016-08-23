@@ -17,7 +17,7 @@ mail-client/geary 9999: A lightweight, easy-to-use, feature-rich email client
 media-fonts/raleway 2.1 3.0: Raleway is an elegant sans-serif typeface, designed in a single thin weight.
 media-sound/indicator-sound 12.10.2_p20140401 12.10.2_p20150915: A unified sound menu
 media-sound/noise 0.3.1 0.4 9999: Noise is the official music player of elementary OS
-media-video/audience 0.1.0.2 9999: A simple, modern media player
+media-video/audience 0.1.0.2 0.2 9999: A simple, modern media player
 media-video/eidete 9999: Simple screencasting app for the elementary project
 media-video/snap 0.2 9999: A fast photo booth application designed for the Pantheon desktop
 net-libs/libgsignon-glib 9999: GLib-based client library for applications handling account authentication through the Online Accounts Single Sign-On service
@@ -44,15 +44,15 @@ pantheon-base/switchboard-plug-power 0.2.2 9999: Control system power consumptio
 pantheon-base/switchboard-plug-security-privacy 0.1.0.2 9999: Configure various aspects of the security of the system.
 pantheon-base/switchboard-plug-startup-applications 0.1 9999: Configure startup applications using Switchboard.
 pantheon-base/wingpanel 0.3.0.2 2.0.1 9999: Stylish top panel that holds indicators and spawns an application launcher
-pantheon-base/wingpanel-indicator-accessibility 2.0 9999: Accessibility indicator for Wingpanel
-pantheon-base/wingpanel-indicator-bluetooth 9999: Bluetooth indicator for Wingpanel
-pantheon-base/wingpanel-indicator-datetime 9999: Date & Time indicator for Wingpanel
-pantheon-base/wingpanel-indicator-keyboard 9999: Keyboard indicator for Wingpanel
-pantheon-base/wingpanel-indicator-network 9999: Network indicator for Wingpanel
-pantheon-base/wingpanel-indicator-notifications 9999: Notifications indicator for Wingpanel
-pantheon-base/wingpanel-indicator-power 9999: Power indicator for Wingpanel
-pantheon-base/wingpanel-indicator-session 9999: Session indicator for Wingpanel
-pantheon-base/wingpanel-indicator-sound 9999: Sound indicator for Wingpanel
+pantheon-base/wingpanel-indicator-accessibility 9999: Accessibility indicator for Wingpanel
+pantheon-base/wingpanel-indicator-bluetooth 2.0 9999: Bluetooth indicator for Wingpanel
+pantheon-base/wingpanel-indicator-datetime 2.0 9999: Date & Time indicator for Wingpanel
+pantheon-base/wingpanel-indicator-keyboard 2.0 9999: Keyboard indicator for Wingpanel
+pantheon-base/wingpanel-indicator-network 2.0 9999: Network indicator for Wingpanel
+pantheon-base/wingpanel-indicator-notifications 2.0 9999: Notifications indicator for Wingpanel
+pantheon-base/wingpanel-indicator-power 2.0 9999: Power indicator for Wingpanel
+pantheon-base/wingpanel-indicator-session 2.0 9999: Session indicator for Wingpanel
+pantheon-base/wingpanel-indicator-sound 2.0 9999: Sound indicator for Wingpanel
 pantheon-extra/elementary-tweaks 9999: Tweak elementary OS
 pantheon-extra/pantheon-calculator 0.1.1 9999: A tiny, simple calculator written in GTK+ and Vala
 pantheon-extra/pantheon-print 0.1.2 9999: Small utility to print documents
