@@ -1,13 +1,13 @@
 DEFINED_PHASES=compile configure install postinst postrm preinst prepare test unpack
-DEPEND=dev-libs/glib:2 dev-libs/libgee:0.8 x11-libs/granite x11-libs/gtk+:3[ubuntu] x11-libs/libnotify x11-wm/gala || ( dev-lang/vala:0.32 dev-lang/vala:0.30 dev-lang/vala:0.28 dev-lang/vala:0.26 ) virtual/pkgconfig nls? ( sys-devel/gettext ) >=sys-apps/sed-4 sys-devel/make >=dev-util/cmake-2.8.12 >=dev-vcs/bzr-2.0.1
+DEPEND=dev-libs/glib:2 dev-libs/libgee:0.8 x11-libs/granite x11-libs/gtk+:3 x11-libs/libnotify x11-wm/gala || ( dev-lang/vala:0.32 dev-lang/vala:0.30 dev-lang/vala:0.28 dev-lang/vala:0.26 ) virtual/pkgconfig nls? ( sys-devel/gettext ) >=sys-apps/sed-4 sys-devel/make >=dev-util/cmake-2.8.12 >=dev-vcs/bzr-2.0.1
 DESCRIPTION=Stylish top panel that holds indicators and spawns an application launcher
 EAPI=6
 HOMEPAGE=https://launchpad.net/wingpanel
-IUSE=bluetooth power sound nls
+IUSE=accessibility bluetooth keyboard network power sound nls
 LICENSE=GPL-3
-PDEPEND=>=x11-misc/indicator-datetime-13.10.0_p20131023 >=x11-misc/indicator-session-12.10.5_p20131125 bluetooth? ( >=net-misc/indicator-bluetooth-0.0.6_p20131029 ) power? ( >=sys-power/indicator-power-12.10.6_p20131129 ) sound? ( >=media-sound/indicator-sound-12.10.2_p20131125 )
-RDEPEND=dev-libs/glib:2 dev-libs/libgee:0.8 x11-libs/granite x11-libs/gtk+:3[ubuntu] x11-libs/libnotify x11-wm/gala
+PDEPEND=pantheon-base/wingpanel-indicator-datetime pantheon-base/wingpanel-indicator-notifications pantheon-base/wingpanel-indicator-session accessibility? ( pantheon-base/wingpanel-indicator-accessibility ) bluetooth? ( pantheon-base/wingpanel-indicator-bluetooth ) keyboard? ( pantheon-base/wingpanel-indicator-keyboard ) network? ( pantheon-base/wingpanel-indicator-network ) power? ( pantheon-base/wingpanel-indicator-power ) sound? ( pantheon-base/wingpanel-indicator-sound )
+RDEPEND=dev-libs/glib:2 dev-libs/libgee:0.8 x11-libs/granite x11-libs/gtk+:3 x11-libs/libnotify x11-wm/gala
 SLOT=0
 _eclass_exported_funcs=pkg_preinst:- pkg_postrm:- pkg_postinst:- src_unpack:bzr src_prepare:- src_configure:- src_compile:cmake-utils src_test:cmake-utils src_install:cmake-utils
 _eclasses_=bzr	745bed5705ae699c707ba26ca9e8929a	cmake-utils	022d8ca5c8887ca2d21e83b57f5c75ff	eutils	792f83d5ec9536cb5ccef375469d8bde	fdo-mime	92d07846ea8ea54172f8c0112a47ae3d	flag-o-matic	8632fcd33a047954f007dee9a137bdcc	gnome2-utils	c6dcdf3a2c22b578b16adb945dc85c35	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	6198c04daba0e1307bd844df7d37f423	vala	764817a25b405b65269d8619e203a52f	versionator	99ae9d758cbe7cfed19170e7d48f5a9c	xdg-utils	e2b2bd56125ce8cf59ce30c642b59d48
-_md5_=22929cab55b846149e6898fa8f22360e
+_md5_=2cd21aabec054f9facaab4906642f045
