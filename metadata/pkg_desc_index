@@ -27,7 +27,7 @@ net-misc/networkmanager 1.2.4: A set of co-operative tools that make networking 
 net-misc/taxi 9999: A simple to use FTP client, designed for elementary OS.
 net-misc/webcontracts 9999: Collection of contracts for various web services
 net-news/feedler 9999: Awesome RSS reader
-pantheon-base/cerbere 0.2-r1 0.2.1 9999: A simple service to relaunch pantheon applications
+pantheon-base/cerbere 0.2.1 0.2.2 9999: A simple service to relaunch pantheon applications
 pantheon-base/pantheon-files 0.2.4 0.3 9999: A simple, powerful, sexy file manager for the Pantheon desktop
 pantheon-base/pantheon-greeter 2.0.2 3.0 9999: Pantheon Login Screen for LightDM
 pantheon-base/pantheon-settings 0.2 9999: Default settings for the Pantheon Desktop Environment
@@ -35,14 +35,18 @@ pantheon-base/pantheon-shell 0.2 0.3_pre 9999: Elementary's desktop environment
 pantheon-base/plank 0.10.2 0.11.2 9999: The dock for elementary Pantheon, stupidly simple
 pantheon-base/slingshot 0.8.1.1 2.0 9999: A lightweight and stylish app launcher for Pantheon and other DEs
 pantheon-base/switchboard 2.0.1 2.1.0 9999: Modular desktop settings hub
-pantheon-base/switchboard-plug-about 0.2.0.1 9999: Switchboard plug to show system information.
-pantheon-base/switchboard-plug-default-applications 0.2.0 9999: Configure what applications do what using Switchboard.
-pantheon-base/switchboard-plug-keyboard 0.2.1 9999: This plug can be used to change several keyboard settings
-pantheon-base/switchboard-plug-locale 0.2.0.1 9999: Adjust Locale settings using Switchboard.
+pantheon-base/switchboard-plug-about 0.2.0.1 0.2.1 9999: Switchboard plug to show system information
+pantheon-base/switchboard-plug-accessibility 0.1 9999: Switchboard plug to show system information.
+pantheon-base/switchboard-plug-applications 0.1.1 9999: Application configuration management
+pantheon-base/switchboard-plug-datetime 0.1.1 9999: Configure the date & time of the user
+pantheon-base/switchboard-plug-display 0.1.2 9999: Switchboard plug to show displays information
+pantheon-base/switchboard-plug-keyboard 0.3 9999: Adjust keyboard settings from Switchboard
+pantheon-base/switchboard-plug-locale 0.2.0.1 0.2.1 9999: Adjust Locale settings using Switchboard.
+pantheon-base/switchboard-plug-mouse-touchpad 0.1.1 9999: Mouse and touchpad settings
+pantheon-base/switchboard-plug-network 0.1.0.1 9999: Configure all available networks
 pantheon-base/switchboard-plug-pantheon-shell 0.1.2 9999: Configure various aspects of the Pantheon desktop environment using Switchboard.
 pantheon-base/switchboard-plug-power 0.2.2 9999: Control system power consumption using Switchboard.
 pantheon-base/switchboard-plug-security-privacy 0.1.0.2 9999: Configure various aspects of the security of the system.
-pantheon-base/switchboard-plug-startup-applications 0.1 9999: Configure startup applications using Switchboard.
 pantheon-base/wingpanel 0.3.0.2 2.0.1 9999: Stylish top panel that holds indicators and spawns an application launcher
 pantheon-base/wingpanel-indicator-accessibility 9999: Accessibility indicator for Wingpanel
 pantheon-base/wingpanel-indicator-bluetooth 2.0 9999: Bluetooth indicator for Wingpanel
