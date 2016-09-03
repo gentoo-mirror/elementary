@@ -7,5 +7,5 @@ LICENSE=GPL-3
 RDEPEND=pantheon-base/plank
 SLOT=0
 _eclass_exported_funcs=src_unpack:bzr src_prepare:bzr src_configure:base src_compile:base src_install:-
-_eclasses_=base	3fe4f8980633fd7bc69e9887209ba2fe	bzr	745bed5705ae699c707ba26ca9e8929a	eutils	b83a2420b796f7c6eff682679d08fe25	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	6198c04daba0e1307bd844df7d37f423
+_eclasses_=base	3fe4f8980633fd7bc69e9887209ba2fe	bzr	745bed5705ae699c707ba26ca9e8929a	eutils	b83a2420b796f7c6eff682679d08fe25	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	6198c04daba0e1307bd844df7d37f423
 _md5_=c1997a5eb2b89a66e54b3fa2f8619dd3
