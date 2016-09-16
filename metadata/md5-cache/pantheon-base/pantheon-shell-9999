@@ -9,4 +9,4 @@ RDEPEND=lightdm? ( >=pantheon-base/pantheon-greeter-1.0 ) >=gnome-base/gnome-ses
 SLOT=0
 _eclass_exported_funcs=src_unpack:bzr src_prepare:- src_install:-
 _eclasses_=bzr	745bed5705ae699c707ba26ca9e8929a	eutils	b83a2420b796f7c6eff682679d08fe25	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	6198c04daba0e1307bd844df7d37f423
-_md5_=7b5048d9977190bbc546d99ca5244612
+_md5_=4a8c4467ad4c9dc8e1e47b101ce1fa5d
