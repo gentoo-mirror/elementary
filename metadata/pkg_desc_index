@@ -1,7 +1,7 @@
 app-editors/scratch 2.2.1 2.3 9999: Scratch is a text editor written for the Pantheon desktop
 app-office/footnote 9999: Beautiful, fast, and simple note taking app in the style of elementary
 app-office/markmywords 9999: A minimal markdown editor
-app-office/maya 0.3.1.1 0.4.0.1 9999: Slim, lightweight, GCal-syncing GTK+ Calendar application
+app-office/maya 0.3.1.1 0.4.0.2 9999: Slim, lightweight, GCal-syncing GTK+ Calendar application
 dev-db/sqlheavy 0.1.1 0.2_p20121114 9999: GObject SQLite wrapper
 dev-libs/contractor 0.3_p136 0.3.1 9999: A sharing service that allows source apps to send their data to registered destination apps
 dev-libs/libappindicator 12.10.0 9999: A library to allow applications to export a menu into the Unity Menu bar
@@ -44,12 +44,12 @@ pantheon-base/switchboard-plug-display 0.1.2 9999: Switchboard plug to show disp
 pantheon-base/switchboard-plug-keyboard 0.3 9999: Adjust keyboard settings from Switchboard
 pantheon-base/switchboard-plug-locale 0.2.0.1 0.2.1 9999: Adjust Locale settings using Switchboard.
 pantheon-base/switchboard-plug-mouse-touchpad 0.1.1.1 9999: Mouse and touchpad settings
-pantheon-base/switchboard-plug-network 0.1.0.1 9999: Configure all available networks
+pantheon-base/switchboard-plug-network 0.1.0.2 9999: Configure all available networks
 pantheon-base/switchboard-plug-onlineaccounts 0.3.0.1 9999: Switchboard plug for Online Accounts management
-pantheon-base/switchboard-plug-pantheon-shell 0.1.2 9999: Configure various aspects of the Pantheon desktop environment using Switchboard.
+pantheon-base/switchboard-plug-pantheon-shell 0.1.2 0.2.3 9999: Configure various aspects of the Pantheon desktop environment using Switchboard.
 pantheon-base/switchboard-plug-parental-controls 0.1.1 9999: Switchboard plug to manage parental controls
-pantheon-base/switchboard-plug-power 0.2.2 9999: Control system power consumption using Switchboard.
-pantheon-base/switchboard-plug-security-privacy 0.1.0.2 9999: Configure various aspects of the security of the system.
+pantheon-base/switchboard-plug-power 0.2.2 0.3 9999: Control system power consumption using Switchboard.
+pantheon-base/switchboard-plug-security-privacy 0.1.1 9999: Configure various aspects of the security of the system.
 pantheon-base/wingpanel 0.3.0.2 2.0.1 9999: Stylish top panel that holds indicators and spawns an application launcher
 pantheon-base/wingpanel-indicator-accessibility 9999: Accessibility indicator for Wingpanel
 pantheon-base/wingpanel-indicator-bluetooth 2.0 9999: Bluetooth indicator for Wingpanel
@@ -76,7 +76,7 @@ x11-misc/indicator-session 12.10.5_p20151021: Session indicator
 x11-misc/lightdm 1.10.5 1.16.7 1.17.6 1.18.1 1.18.2 1.19.3 1.19.4: A lightweight display manager
 x11-misc/overlay-scrollbar 0.2.16_p20131129: Overlay Scrollbars use an overlay to ensure that scrollbars take up no active screen real-estate.
 x11-terms/pantheon-terminal 0.3.2 0.4 9999: The terminal of the 21st century
-x11-themes/elementary-icon-theme 3.2.2 4.0 9999: Elementary icon theme is designed to be smooth, sexy, clear, and efficient
+x11-themes/elementary-icon-theme 3.2.2 4.0.1 9999: Elementary icon theme is designed to be smooth, sexy, clear, and efficient
 x11-themes/elementary-theme 3.4 4.0.6 5.0 5.0.1 9999: The official elementary GTK theme designed to be smooth, attractive, fast, and usable
 x11-themes/elementary-wallpapers 0.2 9999: A set of wallpapers used by the elementary OS
 x11-themes/plank-theme-pantheon 0.1 9999: Plank theme for elementary OS, created to compliment the Pantheon desktop environment
