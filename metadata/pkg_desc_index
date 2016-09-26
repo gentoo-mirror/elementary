@@ -81,7 +81,7 @@ x11-misc/lightdm 1.10.5 1.16.7 1.17.6 1.18.1 1.18.2 1.19.3 1.19.4: A lightweight
 x11-misc/overlay-scrollbar 0.2.16_p20131129: Overlay Scrollbars use an overlay to ensure that scrollbars take up no active screen real-estate.
 x11-terms/pantheon-terminal 0.3.2 0.4 9999: The terminal of the 21st century
 x11-themes/elementary-icon-theme 3.2.2 4.0.1 9999: Elementary icon theme is designed to be smooth, sexy, clear, and efficient
-x11-themes/elementary-theme 3.4 4.0.6 5.0 5.0.1 9999: The official elementary GTK theme designed to be smooth, attractive, fast, and usable
+x11-themes/elementary-theme 3.4 4.0.6 5.0.2 9999: The official elementary GTK theme designed to be smooth, attractive, fast, and usable
 x11-themes/elementary-wallpapers 0.2 9999: A set of wallpapers used by the elementary OS
 x11-themes/plank-theme-pantheon 0.1 9999: Plank theme for elementary OS, created to compliment the Pantheon desktop environment
 x11-wm/gala 0.2.0 9999: Pantheon's Window Manager
