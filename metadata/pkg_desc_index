@@ -2,7 +2,7 @@ app-editors/scratch 2.2.1 2.3 9999: Scratch is a text editor written for the Pan
 app-office/footnote 9999: Beautiful, fast, and simple note taking app in the style of elementary
 app-office/markmywords 9999: A minimal markdown editor
 app-office/maya 0.3.1.1 0.4.0.2 9999: Slim, lightweight, GCal-syncing GTK+ Calendar application
-dev-db/sqlheavy 0.1.1 0.2_p20121114 9999: GObject SQLite wrapper
+dev-db/sqlheavy 0.1.1: GObject SQLite wrapper
 dev-libs/contractor 0.3_p136 0.3.2 9999: A sharing service that allows source apps to send their data to registered destination apps
 dev-libs/libappindicator 12.10.0 9999: A library to allow applications to export a menu into the Unity Menu bar
 dev-libs/libdbusmenu 12.10.3_p20130619 12.10.3_p20131125 12.10.3_p20140612 16.04.0: Library to pass menu structure across DBus
