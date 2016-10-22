@@ -29,7 +29,7 @@ net-misc/taxi 9999: A simple to use FTP client, designed for elementary OS.
 net-misc/webcontracts 9999: Collection of contracts for various web services
 net-news/feedler 9999: Awesome RSS reader
 pantheon-base/cerbere 0.2.1 0.2.2 9999: A simple service to relaunch pantheon applications
-pantheon-base/pantheon-files 0.2.4 0.3.0.2 9999: A simple, powerful, sexy file manager for the Pantheon desktop
+pantheon-base/pantheon-files 0.2.4 0.3.0.3.1 9999: A simple, powerful, sexy file manager for the Pantheon desktop
 pantheon-base/pantheon-greeter 2.0.2 3.0 9999: Pantheon Login Screen for LightDM
 pantheon-base/pantheon-settings 0.2 9999: Default settings for the Pantheon Desktop Environment
 pantheon-base/pantheon-shell 0.2 0.3_pre 9999: Elementary's desktop environment
@@ -63,7 +63,7 @@ pantheon-base/wingpanel-indicator-network 2.0.1 9999: Network indicator for Wing
 pantheon-base/wingpanel-indicator-notifications 2.0 9999: Notifications indicator for Wingpanel
 pantheon-base/wingpanel-indicator-power 2.0 9999: Power indicator for Wingpanel
 pantheon-base/wingpanel-indicator-session 2.0 9999: Session indicator for Wingpanel
-pantheon-base/wingpanel-indicator-sound 2.0.1 9999: Sound indicator for Wingpanel
+pantheon-base/wingpanel-indicator-sound 2.0.2 9999: Sound indicator for Wingpanel
 pantheon-extra/elementary-tweaks 9999: Tweak elementary OS
 pantheon-extra/pantheon-calculator 0.1.1.1 9999: A tiny, simple calculator written in GTK+ and Vala
 pantheon-extra/pantheon-print 0.1.2 9999: Small utility to print documents
