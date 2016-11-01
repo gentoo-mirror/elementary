@@ -40,7 +40,7 @@ pantheon-base/switchboard-plug-about 0.2.0.1 0.2.1.1 9999: Switchboard plug to s
 pantheon-base/switchboard-plug-accessibility 0.1 9999: Switchboard plug to show system information.
 pantheon-base/switchboard-plug-applications 0.1.1 9999: Application configuration management
 pantheon-base/switchboard-plug-datetime 0.1.1.1 9999: Configure the date & time of the user
-pantheon-base/switchboard-plug-display 0.1.2 9999: Switchboard plug to show displays information
+pantheon-base/switchboard-plug-display 0.1.2.1 9999: Switchboard plug to show displays information
 pantheon-base/switchboard-plug-keyboard 0.3 9999: Adjust keyboard settings from Switchboard
 pantheon-base/switchboard-plug-locale 0.2.0.1 0.2.1 9999: Adjust Locale settings using Switchboard.
 pantheon-base/switchboard-plug-mouse-touchpad 0.1.1.1 9999: Mouse and touchpad settings
@@ -63,7 +63,7 @@ pantheon-base/wingpanel-indicator-network 2.0.1 9999: Network indicator for Wing
 pantheon-base/wingpanel-indicator-notifications 2.0 9999: Notifications indicator for Wingpanel
 pantheon-base/wingpanel-indicator-power 2.0 9999: Power indicator for Wingpanel
 pantheon-base/wingpanel-indicator-session 2.0 9999: Session indicator for Wingpanel
-pantheon-base/wingpanel-indicator-sound 2.0.2 9999: Sound indicator for Wingpanel
+pantheon-base/wingpanel-indicator-sound 2.0.3 9999: Sound indicator for Wingpanel
 pantheon-extra/elementary-tweaks 9999: Tweak elementary OS
 pantheon-extra/pantheon-calculator 0.1.1.1 9999: A tiny, simple calculator written in GTK+ and Vala
 pantheon-extra/pantheon-print 0.1.2 9999: Small utility to print documents
