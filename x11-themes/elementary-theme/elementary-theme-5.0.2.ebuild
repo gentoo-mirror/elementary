@@ -4,13 +4,13 @@
 
 EAPI=6
 
-DESCRIPTION="The official elementary GTK theme designed to be smooth, attractive, fast, and usable"
+DESCRIPTION="The official elementary GTK theme"
 HOMEPAGE="https://launchpad.net/egtk"
 SRC_URI="https://launchpad.net/egtk/5.x/${PV}/+download/elementary.tar.xz -> ${P}.tar.xz"
 
 LICENSE="GPL-3"
 SLOT="0"
-KEYWORDS="amd64 x86"
+KEYWORDS="~amd64 ~x86"
 IUSE="+gtk +gtk3 +icons +wallpapers"
 
 DEPEND="

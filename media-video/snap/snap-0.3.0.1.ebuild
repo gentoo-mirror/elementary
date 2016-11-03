@@ -14,7 +14,7 @@ SRC_URI="https://launchpad.net/${PN}-elementary/0.3.x/${PV}/+download/${PN}-phot
 
 LICENSE="GPL-3"
 SLOT="0"
-KEYWORDS="amd64 arm x86"
+KEYWORDS="~amd64 ~x86"
 IUSE="nls"
 
 RDEPEND="

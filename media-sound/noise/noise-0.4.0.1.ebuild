@@ -14,7 +14,7 @@ SRC_URI="https://launchpad.net/${PN}/0.4.x/${PV}/+download/${P}.tar.xz"
 
 LICENSE="GPL-3"
 SLOT="0"
-KEYWORDS="amd64 arm x86"
+KEYWORDS="~amd64 ~x86"
 IUSE="mpris ipod lastfm libnotify nls zeitgeist"
 
 RDEPEND="

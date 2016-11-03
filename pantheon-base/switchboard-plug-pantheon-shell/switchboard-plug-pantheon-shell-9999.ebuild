@@ -6,15 +6,22 @@ EAPI=5
 
 VALA_MIN_API_VERSION=0.20
 
-inherit vala cmake-utils bzr
+inherit vala cmake-utils
 
-DESCRIPTION="Configure various aspects of the Pantheon desktop environment using Switchboard."
-HOMEPAGE="http://launchpad.net/switchboard-plug-pantheon-shell"
-EBZR_REPO_URI="lp:switchboard-plug-pantheon-shell"
+if [[ "${PV}" == "9999" ]]; then
+	inherit bzr
+	EBZR_REPO_URI="lp:${PN}"
+	KEYWORDS=""
+else
+	SRC_URI="https://launchpad.net/${PN}/loki/${PV}/+download/${P}.tar.xz"
+	KEYWORDS="~amd64"
+fi
+
+DESCRIPTION="Configure the Pantheon desktop environment using Switchboard"
+HOMEPAGE="http://launchpad.net/${PN}"
 
 LICENSE="GPL-3"
 SLOT="0"
-KEYWORDS=""
 IUSE="nls"
 
 RDEPEND="

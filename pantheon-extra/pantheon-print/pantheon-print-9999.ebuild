@@ -2,17 +2,24 @@
 # Distributed under the terms of the GNU General Public License v2
 # $Id$
 
-EAPI=5
+EAPI=6
 
-inherit cmake-utils vala bzr
+inherit cmake-utils vala
+
+if [[ "${PV}" == "9999" ]]; then
+	inherit bzr
+	EBZR_REPO_URI="lp:${PN}"
+	KEYWORDS=""
+else
+	SRC_URI="https://launchpad.net/${PN}/loki/${PV}/+download/${P}.tar.xz"
+	KEYWORDS="~amd64"
+fi
 
 DESCRIPTION="Small utility to print documents"
-HOMEPAGE="https://launchpad.net/pantheon-print"
-EBZR_REPO_URI="lp:pantheon-print"
+HOMEPAGE="https://launchpad.net/${PN}"
 
 LICENSE="GPL-3"
 SLOT="0"
-KEYWORDS=""
 IUSE=""
 
 RDEPEND="
@@ -21,7 +28,7 @@ DEPEND="${RDEPEND}
 	$(vala_depend)"
 
 src_prepare() {
-	epatch_user
+	eapply_user
 
 	cmake-utils_src_prepare
 	vala_src_prepare

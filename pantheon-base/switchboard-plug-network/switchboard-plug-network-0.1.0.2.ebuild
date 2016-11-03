@@ -14,7 +14,7 @@ SRC_URI="http://launchpad.net/switchboard-plug-networking/loki/${PV}/+download/s
 
 LICENSE="GPL-3"
 SLOT="0"
-KEYWORDS="amd64 ~arm x86"
+KEYWORDS="~amd64 ~x86"
 IUSE="nls"
 
 RDEPEND="

@@ -8,13 +8,13 @@ VALA_MIN_API_VERSION=0.20
 
 inherit vala cmake-utils
 
-DESCRIPTION="A sharing service that allows source apps to send their data to registered destination apps"
+DESCRIPTION="A desktop-wide extension service"
 HOMEPAGE="https://launchpad.net/contractor"
 SRC_URI="https://launchpad.net/${PN}/loki/${PV}/+download/${P}.tar.xz"
 
 LICENSE="GPL-3"
 SLOT="0"
-KEYWORDS="amd64 ~arm x86"
+KEYWORDS="~amd64 ~x86"
 IUSE=""
 
 RDEPEND="

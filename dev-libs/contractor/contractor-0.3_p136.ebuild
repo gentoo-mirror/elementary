@@ -10,14 +10,14 @@ inherit versionator vala cmake-utils bzr
 
 MY_PV=$(get_version_component_range 3)
 
-DESCRIPTION="A sharing service that allows source apps to send their data to registered destination apps"
+DESCRIPTION="A desktop-wide extension service"
 HOMEPAGE="https://launchpad.net/contractor"
 EBZR_REPO_URI="lp:contractor"
 EBZR_REVISION=${MY_PV:1}
 
 LICENSE="GPL-3"
 SLOT="0"
-KEYWORDS="~amd64 ~arm ~x86"
+KEYWORDS="~amd64 ~x86"
 IUSE=""
 
 RDEPEND="

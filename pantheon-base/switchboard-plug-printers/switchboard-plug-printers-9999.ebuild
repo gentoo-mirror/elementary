@@ -1,26 +1,33 @@
-# Copyright 1999-2015 Gentoo Foundation
+# Copyright 1999-2016 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
 # $Id$
 
 EAPI=5
 
-VALA_MIN_API_VERSION=0.20
+VALA_MIN_API_VERSION=0.22
 
-inherit vala cmake-utils bzr
+inherit vala cmake-utils
 
-DESCRIPTION="Switchboard plug to show system information."
-HOMEPAGE="http://launchpad.net/switchboard-plug-about"
-EBZR_REPO_URI="lp:switchboard-plug-about"
+if [[ "${PV}" == "9999" ]]; then
+	inherit bzr
+	EBZR_REPO_URI="lp:${PN}"
+else
+	SRC_URI="https://launchpad.net/${PN}/loki/${PV}/+download/${P}.tar.xz"
+	KEYWORDS="~amd64"
+fi
+
+DESCRIPTION="Control printers using Switchboard."
+HOMEPAGE="https://launchpad.net/${PN}"
 
 LICENSE="GPL-3"
 SLOT="0"
-KEYWORDS=""
 IUSE="nls"
 
 RDEPEND="
+	dev-libs/glib:2
+	>=pantheon-base/switchboard-2
 	x11-libs/granite
-	x11-libs/gtk+:3
-	>=pantheon-base/switchboard-2"
+	x11-libs/gtk+:3"
 DEPEND="${RDEPEND}
 	$(vala_depend)
 	virtual/pkgconfig
