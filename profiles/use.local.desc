@@ -8,6 +8,7 @@ app-editors/scratch:pastebin - Build the Pastebin extension (to share files with
 app-editors/scratch:terminal - Build the Terminal plugin (to get a terminal in your text editor)
 app-editors/scratch:webkit - Build the Browser Preview extension (to preview your work in a web page)
 dev-libs/libappindicator:introspection - Use dev-libs/gobject-introspection for introspection
+dev-libs/libdbusmenu:gtk2 - Support GTK+ 2.x instead of GTK+ 3.x
 dev-libs/libdbusmenu:introspection - Use dev-libs/gobject-introspection for introspection
 gnome-base/gnome-desktop:license-docs - Install help files documenting GNOME's licenses
 gnome-base/gnome-session:gconf - Optional support for gnome-base/gconf configuration storage system
@@ -20,6 +21,8 @@ gnome-extra/libgda:json - Enable support for JSON format
 gnome-extra/libgda:mdb - Enable support for Microsoft Access database using app-office/mdbtools
 gnome-extra/libgda:reports - Install tools for generating graphical reports
 gnome-extra/libgda:sourceview - Enable support for x11-libs/gtksourceview
+media-sound/noise:lastfm - Enable LastFM support
+media-sound/noise:mpris - Enable MPRIS support
 net-misc/networkmanager:connection-sharing - Use net-dns/dnsmasq and net-firewall/iptables for connection sharing
 net-misc/networkmanager:consolekit - Use sys-auth/consolekit for session tracking
 net-misc/networkmanager:dhclient - Use dhclient from net-misc/dhcp for getting ip
@@ -32,6 +35,9 @@ net-misc/networkmanager:teamd - Enable Teamd control support
 net-misc/networkmanager:wext - Enable support for the deprecated Wext (Wireless Extensions) API; needed for some older drivers (e.g. ipw2200, ndiswrapper)
 net-misc/networkmanager:wifi - Enable support for wifi and 802.1x security using net-wireless/wpa_supplicant
 net-misc/taxi:adwaita - Fixes for Adwaita theme users
+pantheon-base/pantheon:lightdm - Install and use the Pantheon greeter for LightDM.
+pantheon-base/pantheon:screensaver - Install a screensaver
+pantheon-base/pantheon:web - Install the www-client/epiphany package
 pantheon-base/pantheon-files:gvfs - Pull in gnome-base/gvfs to enable various virtual filesystems
 pantheon-base/pantheon-shell:lightdm - Install and use the Pantheon greeter for LightDM.
 pantheon-base/pantheon-shell:screensaver - Install a screensaver

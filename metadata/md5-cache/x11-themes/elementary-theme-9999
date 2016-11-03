@@ -1,6 +1,6 @@
 DEFINED_PHASES=compile configure install prepare unpack
 DEPEND=x11-themes/vanilla-dmz-aa-xcursors >=dev-vcs/bzr-2.0.1
-DESCRIPTION=The official elementary GTK theme designed to be smooth, attractive, fast, and usable
+DESCRIPTION=The official elementary GTK theme
 EAPI=5
 HOMEPAGE=https://launchpad.net/egtk
 IUSE=+gtk +gtk3 +icons +wallpapers
@@ -10,4 +10,4 @@ RESTRICT=binchecks mirror strip
 SLOT=0
 _eclass_exported_funcs=src_unpack:bzr src_prepare:- src_configure:base src_compile:base src_install:-
 _eclasses_=base	3fe4f8980633fd7bc69e9887209ba2fe	bzr	745bed5705ae699c707ba26ca9e8929a	eutils	b83a2420b796f7c6eff682679d08fe25	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
-_md5_=0c06e94646e9336bf069bd22e6aea4da
+_md5_=dc6951f0ebe9656cec7fd2ec830664f2
