@@ -15,12 +15,6 @@ gnome-base/gnome-session:gconf - Optional support for gnome-base/gconf configura
 gnome-base/gnome-settings-daemon:colord - Support color management using x11-misc/colord
 gnome-base/gnome-settings-daemon:openrc-force - Skip systemd dependency (#480336), enabling this flag will become your setup to be fully unsupported by upstream and downstream Gnome team. Do not try to enable it unless completely needed
 gnome-base/gnome-settings-daemon:short-touchpad-timeout - Change the touchpad timeout so that it's effective for fast typists
-gnome-extra/libgda:canvas - Enable support for x11-libs/goocanvas
-gnome-extra/libgda:http - Enable embedded net-libs/libsoup based server
-gnome-extra/libgda:json - Enable support for JSON format
-gnome-extra/libgda:mdb - Enable support for Microsoft Access database using app-office/mdbtools
-gnome-extra/libgda:reports - Install tools for generating graphical reports
-gnome-extra/libgda:sourceview - Enable support for x11-libs/gtksourceview
 media-sound/noise:lastfm - Enable LastFM support
 media-sound/noise:mpris - Enable MPRIS support
 net-misc/networkmanager:connection-sharing - Use net-dns/dnsmasq and net-firewall/iptables for connection sharing
