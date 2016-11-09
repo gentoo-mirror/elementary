@@ -10,13 +10,13 @@ dev-libs/libindicator 12.10.2_p20141007-r300: A set of symbols and convience fun
 dev-libs/properties-cpp 0.0.1_p20140730 9999: A very simple convenience library for handling properties and signals in C++11
 gnome-base/gnome-desktop 3.20.2: Libraries for the gnome desktop that are not part of the UI
 gnome-base/gnome-session 3.18.1.2 3.20.1 3.20.2: Gnome session manager
-gnome-base/gnome-settings-daemon 3.20.1: Gnome Settings Daemon
+gnome-base/gnome-settings-daemon 3.20.1 3.20.2: Gnome Settings Daemon
 gnome-base/gsettings-desktop-schemas 3.16.1 3.18.1 3.20.0: Collection of GSettings schemas for GNOME desktop
 mail-client/geary 9999: A lightweight, easy-to-use, feature-rich email client
 media-fonts/raleway 2.1 3.0: Raleway is an elegant sans-serif typeface, designed in a single thin weight.
 media-sound/indicator-sound 12.10.2_p20140401 12.10.2_p20150915: A unified sound menu
 media-sound/noise 0.3.1 0.4.0.1 9999: Noise is the official music player of elementary OS
-media-video/audience 0.1.0.2 0.2.0.2 9999: A simple, modern media player
+media-video/audience 0.1.0.2 0.2.1.1 9999: A simple, modern media player
 media-video/eidete 9999: Simple screencasting app for the elementary project
 media-video/snap 0.2 0.3.0.1 9999: A fast photo booth application designed for the Pantheon desktop
 net-libs/gsignond 9999: Online Accounts Sign-on glib daemon
@@ -43,7 +43,7 @@ pantheon-base/switchboard-plug-datetime 0.1.1.1 9999: Configure the date & time 
 pantheon-base/switchboard-plug-display 0.1.2.1 9999: Switchboard plug to show displays information
 pantheon-base/switchboard-plug-keyboard 0.3 9999: Adjust keyboard settings from Switchboard
 pantheon-base/switchboard-plug-locale 0.2.0.1 0.2.1 9999: Adjust Locale settings using Switchboard.
-pantheon-base/switchboard-plug-mouse-touchpad 0.1.1.1 9999: Mouse and touchpad settings
+pantheon-base/switchboard-plug-mouse-touchpad 0.1.1.2 9999: Mouse and touchpad settings
 pantheon-base/switchboard-plug-network 0.1.0.2 9999: Configure all available networks
 pantheon-base/switchboard-plug-notifications 0.1.1 9999: Configure which apps should be allowed to show notifications
 pantheon-base/switchboard-plug-onlineaccounts 0.3.0.1 9999: Switchboard plug for Online Accounts management
@@ -57,11 +57,11 @@ pantheon-base/switchboard-plug-useraccounts 0.1.3 9999: Switchboard plug to show
 pantheon-base/wingpanel 0.3.0.2 2.0.1 9999: Stylish top panel that holds indicators and spawns an application launcher
 pantheon-base/wingpanel-indicator-accessibility 9999: Accessibility indicator for Wingpanel
 pantheon-base/wingpanel-indicator-bluetooth 2.0 9999: Bluetooth indicator for Wingpanel
-pantheon-base/wingpanel-indicator-datetime 2.0 9999: Date & Time indicator for Wingpanel
+pantheon-base/wingpanel-indicator-datetime 2.0.1 9999: Date & Time indicator for Wingpanel
 pantheon-base/wingpanel-indicator-keyboard 2.0 9999: Keyboard indicator for Wingpanel
 pantheon-base/wingpanel-indicator-network 2.0.1 9999: Network indicator for Wingpanel
 pantheon-base/wingpanel-indicator-notifications 2.0 9999: Notifications indicator for Wingpanel
-pantheon-base/wingpanel-indicator-power 2.0 9999: Power indicator for Wingpanel
+pantheon-base/wingpanel-indicator-power 2.0.1 9999: Power indicator for Wingpanel
 pantheon-base/wingpanel-indicator-session 2.0 9999: Session indicator for Wingpanel
 pantheon-base/wingpanel-indicator-sound 2.0.3 9999: Sound indicator for Wingpanel
 pantheon-extra/elementary-tweaks 9999: Tweak elementary OS
@@ -77,9 +77,9 @@ x11-libs/libido 13.10.0_p20140423 15.10.20151002: Widgets and other objects used
 x11-misc/indicator-datetime 13.10.0_p20140415 13.10.0_p20150909 9999: The Date and Time Indicator - A very, very simple clock
 x11-misc/indicator-printers 0.1.6 0.1.7_p20130301 9999: An indicator which shows active print jobs
 x11-misc/indicator-session 12.10.5_p20151021: Session indicator
-x11-misc/lightdm 1.10.5 1.16.7 1.17.6 1.18.1 1.18.2 1.19.3 1.19.4: A lightweight display manager
+x11-misc/lightdm 1.10.5 1.16.7 1.17.6 1.18.2 1.18.3 1.19.4 1.20.0: A lightweight display manager
 x11-misc/overlay-scrollbar 0.2.16_p20131129: Use an overlay to ensure that scrollbars take up no active screen real-estate
-x11-terms/pantheon-terminal 0.3.2 0.4 9999: The terminal of the 21st century
+x11-terms/pantheon-terminal 0.3.2 0.4.0.2 9999: The terminal of the 21st century
 x11-themes/elementary-icon-theme 3.2.2 4.0.1 9999: Elementary icon theme is designed to be smooth, sexy, clear, and efficient
 x11-themes/elementary-theme 3.4 4.0.6 5.0.2 9999: The official elementary GTK theme
 x11-themes/elementary-wallpapers 0.2 9999: A set of wallpapers used by the elementary OS
