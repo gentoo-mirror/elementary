@@ -29,7 +29,7 @@ net-misc/webcontracts 9999: Collection of contracts for various web services
 net-news/feedler 9999: Awesome RSS reader
 pantheon-base/cerbere 0.2.1 0.2.2 9999: A simple service to relaunch pantheon applications
 pantheon-base/pantheon 9999: Pantheon DE meta package
-pantheon-base/pantheon-files 0.2.4 0.3.0.3.1 9999: A simple, powerful, sexy file manager for the Pantheon desktop
+pantheon-base/pantheon-files 0.2.4 0.3.0.4 9999: A simple, powerful, sexy file manager for the Pantheon desktop
 pantheon-base/pantheon-greeter 2.0.2 3.0 9999: Pantheon Login Screen for LightDM
 pantheon-base/pantheon-settings 0.2 9999: Default settings for the Pantheon Desktop Environment
 pantheon-base/pantheon-shell 0.2 0.3_pre 9999: Elementary's desktop environment
@@ -80,7 +80,7 @@ x11-misc/indicator-session 12.10.5_p20151021: Session indicator
 x11-misc/lightdm 1.10.5 1.16.7 1.17.6 1.18.3 1.19.4 1.20.0 1.21.0-r1: A lightweight display manager
 x11-misc/overlay-scrollbar 0.2.16_p20131129: Use an overlay to ensure that scrollbars take up no active screen real-estate
 x11-terms/pantheon-terminal 0.3.2 0.4.0.2 9999: The terminal of the 21st century
-x11-themes/elementary-icon-theme 3.2.2 4.0.1 9999: Elementary icon theme is designed to be smooth, sexy, clear, and efficient
+x11-themes/elementary-icon-theme 3.2.2 4.0.1.1 9999: Elementary icon theme is designed to be smooth, sexy, clear, and efficient
 x11-themes/elementary-theme 3.4 4.0.6 5.0.2 9999: The official elementary GTK theme
 x11-themes/elementary-wallpapers 0.2 9999: A set of wallpapers used by the elementary OS
 x11-themes/plank-theme-pantheon 0.1 9999: Plank theme for elementary OS
