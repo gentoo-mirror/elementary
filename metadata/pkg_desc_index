@@ -23,7 +23,7 @@ net-libs/gsignond 9999: Online Accounts Sign-on glib daemon
 net-libs/libgsignon-glib 9999: GLib-based client library for applications handling account authentication
 net-misc/indicator-bluetooth 0.0.6_p20140207: The bluetooth menu
 net-misc/indicator-network 0.3.8: Network Menu for controlling network connections
-net-misc/networkmanager 1.2.4 1.4.0 1.4.0-r1: A set of co-operative tools that make networking simple and straightforward
+net-misc/networkmanager 1.2.4 1.4.0 1.4.0-r1 1.4.2: A set of co-operative tools that make networking simple and straightforward
 net-misc/taxi 9999: A simple to use FTP client, designed for elementary OS.
 net-misc/webcontracts 9999: Collection of contracts for various web services
 net-news/feedler 9999: Awesome RSS reader
@@ -44,7 +44,7 @@ pantheon-base/switchboard-plug-display 0.1.2.1 9999: Switchboard plug to show di
 pantheon-base/switchboard-plug-keyboard 0.3 9999: Adjust keyboard settings from Switchboard
 pantheon-base/switchboard-plug-locale 0.2.0.1 0.2.1 9999: Adjust Locale settings using Switchboard.
 pantheon-base/switchboard-plug-mouse-touchpad 0.1.1.2 9999: Mouse and touchpad settings
-pantheon-base/switchboard-plug-network 0.1.0.2 9999: Configure all available networks
+pantheon-base/switchboard-plug-network 0.1.0.3 9999: Configure all available networks
 pantheon-base/switchboard-plug-notifications 0.1.1 9999: Configure which apps should be allowed to show notifications
 pantheon-base/switchboard-plug-onlineaccounts 0.3.0.1 9999: Switchboard plug for Online Accounts management
 pantheon-base/switchboard-plug-pantheon-shell 0.1.2 0.2.3 9999: Configure the Pantheon desktop environment using Switchboard
