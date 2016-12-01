@@ -15,7 +15,7 @@ gnome-base/gsettings-desktop-schemas 3.16.1 3.18.1 3.20.0 3.22.0: Collection of 
 mail-client/geary 9999: A lightweight, easy-to-use, feature-rich email client
 media-fonts/raleway 2.1 3.0: Raleway is an elegant sans-serif typeface, designed in a single thin weight.
 media-sound/indicator-sound 12.10.2_p20140401 12.10.2_p20150915: A unified sound menu
-media-sound/noise 0.3.1 0.4.0.1 9999: Noise is the official music player of elementary OS
+media-sound/noise 0.3.1 0.4.0.2 9999: Noise is the official music player of elementary OS
 media-video/audience 0.1.0.2 0.2.1.1 9999: A simple, modern media player
 media-video/eidete 9999: Simple screencasting app for the elementary project
 media-video/snap 0.2 0.3.0.1 9999: A fast photo booth application designed for the Pantheon desktop
@@ -62,11 +62,11 @@ pantheon-base/wingpanel-indicator-keyboard 2.0 9999: Keyboard indicator for Wing
 pantheon-base/wingpanel-indicator-network 2.0.1 9999: Network indicator for Wingpanel
 pantheon-base/wingpanel-indicator-notifications 2.0 9999: Notifications indicator for Wingpanel
 pantheon-base/wingpanel-indicator-power 2.0.1 9999: Power indicator for Wingpanel
-pantheon-base/wingpanel-indicator-session 2.0 9999: Session indicator for Wingpanel
+pantheon-base/wingpanel-indicator-session 2.0.1 9999: Session indicator for Wingpanel
 pantheon-base/wingpanel-indicator-sound 2.0.3 9999: Sound indicator for Wingpanel
 pantheon-extra/elementary-tweaks 9999: Tweak elementary OS
 pantheon-extra/pantheon-calculator 0.1.1.1 9999: A tiny, simple calculator written in GTK+ and Vala
-pantheon-extra/pantheon-mail 1.0.2 9999: The email client for Elementary OS
+pantheon-extra/pantheon-mail 1.0.4 9999: The email client for Elementary OS
 pantheon-extra/pantheon-print 0.1.2 9999: Small utility to print documents
 sys-apps/accountsservice 0.6.40 0.6.42: D-Bus interfaces for querying and manipulating user account information
 sys-power/indicator-power 12.10.6_p20140411 12.10.6_p20151005: The Power Indicator
