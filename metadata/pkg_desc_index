@@ -35,6 +35,7 @@ pantheon-base/switchboard 2.0.1 2.1.0 2.2.0 9999: Modular desktop settings hub
 pantheon-base/switchboard-plug-about 0.2.0.1 0.2.1.1 9999: Switchboard plug to show system information
 pantheon-base/switchboard-plug-accessibility 0.1 9999: Switchboard plug to show system information.
 pantheon-base/switchboard-plug-applications 0.1.1 9999: Application configuration management
+pantheon-base/switchboard-plug-bluetooth 9999: Switchboard plug to setup bluetooth devices
 pantheon-base/switchboard-plug-datetime 0.1.1.1 9999: Configure the date & time of the user
 pantheon-base/switchboard-plug-display 0.1.2.1 9999: Switchboard plug to show displays information
 pantheon-base/switchboard-plug-keyboard 0.3.1 9999: Adjust keyboard settings from Switchboard
