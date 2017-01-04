@@ -30,7 +30,7 @@ pantheon-base/pantheon-settings 0.2 9999: Default settings for the Pantheon Desk
 pantheon-base/pantheon-shell 0.2 0.3_pre 9999: Elementary's desktop environment
 pantheon-base/plank 0.10.2 0.11.2 9999: The dock for elementary Pantheon, stupidly simple
 pantheon-base/screenshot-tool 0.1.1: A simple screen capture tool made for elementary OS
-pantheon-base/slingshot 0.8.1.1 2.0 9999: A lightweight and stylish app launcher for Pantheon and other DEs
+pantheon-base/slingshot 0.8.1.1 2.0.1 9999: A lightweight and stylish app launcher for Pantheon and other DEs
 pantheon-base/switchboard 2.0.1 2.1.0 2.2.0 9999: Modular desktop settings hub
 pantheon-base/switchboard-plug-about 0.2.0.1 0.2.1.1 9999: Switchboard plug to show system information
 pantheon-base/switchboard-plug-accessibility 0.1 9999: Switchboard plug to show system information.
@@ -45,7 +45,7 @@ pantheon-base/switchboard-plug-network 0.1.0.3 9999: Configure all available net
 pantheon-base/switchboard-plug-notifications 0.1.1 9999: Configure which apps should be allowed to show notifications
 pantheon-base/switchboard-plug-onlineaccounts 0.3.0.1 9999: Switchboard plug for Online Accounts management
 pantheon-base/switchboard-plug-pantheon-shell 0.1.2 0.2.4 9999: Configure the Pantheon desktop environment using Switchboard
-pantheon-base/switchboard-plug-parental-controls 0.1 0.1.1 9999: An easy parental controls plug for Switchboard
+pantheon-base/switchboard-plug-parental-controls 0.1.2 9999: An easy parental controls plug for Switchboard
 pantheon-base/switchboard-plug-power 0.2.2 0.3 9999: Control system power consumption using Switchboard.
 pantheon-base/switchboard-plug-printers 0.1 9999: Control printers using Switchboard.
 pantheon-base/switchboard-plug-security-privacy 0.1.1.1 9999: Configure various aspects of the security of the system.
@@ -56,7 +56,7 @@ pantheon-base/wingpanel-indicator-accessibility 9999: Accessibility indicator fo
 pantheon-base/wingpanel-indicator-bluetooth 2.0 9999: Bluetooth indicator for Wingpanel
 pantheon-base/wingpanel-indicator-datetime 2.0.1 9999: Date & Time indicator for Wingpanel
 pantheon-base/wingpanel-indicator-keyboard 2.0.1 9999: Keyboard indicator for Wingpanel
-pantheon-base/wingpanel-indicator-network 2.0.1 9999: Network indicator for Wingpanel
+pantheon-base/wingpanel-indicator-network 2.0.2 9999: Network indicator for Wingpanel
 pantheon-base/wingpanel-indicator-notifications 2.0 9999: Notifications indicator for Wingpanel
 pantheon-base/wingpanel-indicator-power 2.0.1 9999: Power indicator for Wingpanel
 pantheon-base/wingpanel-indicator-session 2.0.1 9999: Session indicator for Wingpanel
@@ -71,7 +71,7 @@ x11-libs/granite 0.3.1 0.4.0.1 9999: A development library for elementary develo
 x11-libs/gtk+ 2.24.30 2.24.31 2.24.31-r1 3.18.9 3.20.9 3.22.2 3.22.3 3.22.4: Gimp ToolKit +
 x11-misc/lightdm 1.16.7 1.18.3 1.20.0 1.21.3: A lightweight display manager
 x11-misc/overlay-scrollbar 0.2.16_p20131129: Use an overlay to ensure that scrollbars take up no active screen real-estate
-x11-terms/pantheon-terminal 0.3.2 0.4.0.2 9999: The terminal of the 21st century
+x11-terms/pantheon-terminal 0.3.2 0.4.0.3 9999: The terminal of the 21st century
 x11-themes/elementary-icon-theme 3.2.2 4.0.1.1 9999: Elementary icon theme is designed to be smooth, sexy, clear, and efficient
 x11-themes/elementary-theme 3.4 4.0.6 5.0.2 9999: The official elementary GTK theme
 x11-themes/elementary-wallpapers 0.2 9999: A set of wallpapers used by the elementary OS
