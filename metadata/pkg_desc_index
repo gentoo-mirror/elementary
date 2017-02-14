@@ -18,20 +18,20 @@ media-video/eidete 9999: Simple screencasting app for the elementary project
 media-video/snap 0.2 0.3.0.1 9999: A fast photo booth application designed for the Pantheon desktop
 net-libs/gsignond 9999: Online Accounts Sign-on glib daemon
 net-libs/libgsignon-glib 9999: GLib-based client library for applications handling account authentication
-net-misc/networkmanager 1.2.4 1.4.0 1.4.0-r1 1.4.2: A set of co-operative tools that make networking simple and straightforward
+net-misc/networkmanager 1.4.0-r1 1.4.4 1.4.4-r1: A set of co-operative tools that make networking simple and straightforward
 net-misc/taxi 9999: A simple to use FTP client, designed for elementary OS.
 net-misc/webcontracts 9999: Collection of contracts for various web services
 net-news/feedler 9999: Awesome RSS reader
 pantheon-base/cerbere 0.2.1 0.2.2 9999: A simple service to relaunch pantheon applications
 pantheon-base/pantheon 9999: Pantheon DE meta package
 pantheon-base/pantheon-files 0.2.4 0.3.1.1 9999: A simple, powerful, sexy file manager for the Pantheon desktop
-pantheon-base/pantheon-greeter 2.0.2 3.0 9999: Pantheon Login Screen for LightDM
+pantheon-base/pantheon-greeter 2.0.2 3.0 3.1.0 9999: Pantheon Login Screen for LightDM
 pantheon-base/pantheon-settings 0.2 9999: Default settings for the Pantheon Desktop Environment
 pantheon-base/pantheon-shell 0.2 0.3_pre 9999: Elementary's desktop environment
 pantheon-base/plank 0.10.2 0.11.2 9999: The dock for elementary Pantheon, stupidly simple
 pantheon-base/screenshot-tool 0.1.1: A simple screen capture tool made for elementary OS
 pantheon-base/slingshot 0.8.1.1 2.1.0 9999: A lightweight and stylish app launcher for Pantheon and other DEs
-pantheon-base/switchboard 2.0.1 2.1.0 2.2.0 9999: Modular desktop settings hub
+pantheon-base/switchboard 2.0.1 2.1.0 2.2.1 9999: Modular desktop settings hub
 pantheon-base/switchboard-plug-about 0.2.0.1 0.2.1.1 9999: Switchboard plug to show system information
 pantheon-base/switchboard-plug-accessibility 0.1 9999: Switchboard plug to show system information.
 pantheon-base/switchboard-plug-applications 0.1.1 9999: Application configuration management
