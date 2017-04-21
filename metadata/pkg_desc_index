@@ -6,9 +6,9 @@ dev-db/sqlheavy 0.1.1: GObject SQLite wrapper
 dev-libs/contractor 0.3.2 9999: A desktop-wide extension service
 dev-libs/libdbusmenu 16.04.0: Library to pass menu structure across DBus
 dev-libs/properties-cpp 0.0.1_p20140730 9999: A very simple convenience library for handling properties and signals in C++11
-gnome-base/gnome-desktop 3.20.2 3.22.2: Libraries for the gnome desktop that are not part of the UI
-gnome-base/gnome-session 3.20.2 3.22.2: Gnome session manager
-gnome-base/gnome-settings-daemon 3.20.1 3.20.2 3.22.1: Gnome Settings Daemon
+gnome-base/gnome-desktop 3.22.2: Libraries for the gnome desktop that are not part of the UI
+gnome-base/gnome-session 3.22.3: Gnome session manager
+gnome-base/gnome-settings-daemon 3.22.2: Gnome Settings Daemon
 gnome-base/gsettings-desktop-schemas 3.20.0 3.22.0: Collection of GSettings schemas for GNOME desktop
 mail-client/geary 9999: A lightweight, easy-to-use, feature-rich email client
 media-fonts/raleway 2.1 3.0: Raleway is an elegant sans-serif typeface, designed in a single thin weight.
