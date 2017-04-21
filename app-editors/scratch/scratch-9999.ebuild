@@ -1,6 +1,5 @@
-# Copyright 1999-2016 Gentoo Foundation
+# Copyright 1999-2017 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Id$
 
 EAPI=6
 
@@ -22,13 +21,12 @@ RDEPEND="
 	dev-libs/gobject-introspection
 	dev-libs/libgee:0.8
 	dev-libs/libpeas[gtk]
-	gnome-base/gconf:2
 	x11-libs/gtk+:3
 	x11-libs/gtksourceview:3.0
 	>=x11-libs/granite-0.3
 	$(vala_depend)
-	contractor? ( dev-libs/contractor )
-	pastebin? ( net-libs/libsoup )
+	contractor? ( dev-libs/contractor:0 )
+	pastebin? ( net-libs/libsoup:2.4 )
 	spell? ( app-text/gtkspell:3 )
 	webkit? ( net-libs/webkit-gtk:3 )
 	terminal? ( || ( x11-libs/vte:2.91 x11-libs/vte:2.90 ) )
@@ -42,7 +40,7 @@ pkg_setup() {
 }
 
 src_prepare() {
-	eapply "${FILESDIR}/${PN}-2.3-translations.patch"
+	eapply "${FILESDIR}/${PN}-2.4.1-translations.patch"
 	eapply_user
 
 	# Translations
