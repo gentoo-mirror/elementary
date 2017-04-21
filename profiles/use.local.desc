@@ -47,8 +47,6 @@ x11-libs/gtk+:colord - Use x11-misc/colord for color management in printing
 x11-misc/lightdm:gtk - Pull in the gtk+ greeter
 x11-misc/lightdm:kde - Pull in the kde greeter
 x11-misc/lightdm:pantheon - Pull in the pantheon greeter
-x11-misc/overlay-scrollbar:gtk2 - Build the overlay-scrollbar for GTK+ 2
-x11-misc/overlay-scrollbar:gtk3 - Build the overlay scrollbar for GTK+ 3
 x11-themes/elementary-theme:dark - Include the 'dark' theme
 x11-themes/elementary-theme:gtk3 - Pull in the Gtk+ 3 theme engines
 x11-themes/elementary-theme:icons - Include elementary icons

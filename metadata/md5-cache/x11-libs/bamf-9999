@@ -1,12 +1,12 @@
-DEFINED_PHASES=compile configure install prepare test unpack
-DEPEND=dev-libs/dbus-glib dev-util/gdbus-codegen dev-libs/glib:2 gnome-base/libgtop:2 x11-libs/gtk+:3 x11-libs/libX11 >=x11-libs/libwnck-3.4.7:3 || ( dev-lang/vala:0.34[vapigen(+)] dev-lang/vala:0.32[vapigen(+)] dev-lang/vala:0.30[vapigen(+)] dev-lang/vala:0.28[vapigen(+)] dev-lang/vala:0.26[vapigen(+)] ) python_targets_python2_7? ( >=dev-lang/python-2.7.5-r2:2.7 ) >=dev-lang/python-exec-2:=[python_targets_python2_7(-)?,-python_single_target_python2_7(-)] dev-libs/libxml2[python] dev-libs/libxslt[python] doc? ( dev-util/gtk-doc ) introspection? ( dev-libs/gobject-introspection ) virtual/pkgconfig >=app-portage/elt-patches-20170317 >=dev-vcs/bzr-2.0.1
+DEFINED_PHASES=configure prepare unpack
+DEPEND=dev-libs/dbus-glib dev-util/gdbus-codegen dev-libs/glib:2 gnome-base/libgtop:2 x11-libs/gtk+:3 x11-libs/libX11 >=x11-libs/libwnck-3.4.7:3 || ( dev-lang/vala:0.34[vapigen(+)] dev-lang/vala:0.32[vapigen(+)] dev-lang/vala:0.30[vapigen(+)] dev-lang/vala:0.28[vapigen(+)] dev-lang/vala:0.26[vapigen(+)] ) python_targets_python2_7? ( >=dev-lang/python-2.7.5-r2:2.7 ) >=dev-lang/python-exec-2:=[python_targets_python2_7(-)?,-python_single_target_python2_7(-)] dev-libs/libxml2[python] dev-libs/libxslt[python] doc? ( dev-util/gtk-doc ) introspection? ( dev-libs/gobject-introspection ) virtual/pkgconfig >=app-portage/elt-patches-20170317 !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.15:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4 >=dev-vcs/bzr-2.0.1
 DESCRIPTION=BAMF Application Matching Framework
-EAPI=5
+EAPI=6
 HOMEPAGE=https://launchpad.net/bamf
 IUSE=+introspection doc static-libs python_targets_python2_7
 LICENSE=LGPL-3
 RDEPEND=dev-libs/dbus-glib dev-util/gdbus-codegen dev-libs/glib:2 gnome-base/libgtop:2 x11-libs/gtk+:3 x11-libs/libX11 >=x11-libs/libwnck-3.4.7:3
 SLOT=0
-_eclass_exported_funcs=src_unpack:bzr src_prepare:- src_configure:- src_compile:autotools-utils src_test:autotools-utils src_install:autotools-utils
-_eclasses_=autotools	7027963e8e8cc12c91117bdb9225dc26	autotools-utils	5a4611dfba155b1659528663fad4cd5e	bzr	87889d0c43a3db7267fb9a58a496797e	epatch	8233751dc5105a6ae8fcd86ce2bb0247	epunt-cxx	f8073339d152f56626493f43d8ba4691	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	e7491451996e8b54c3caeb713285b0fb	libtool	e32ea84bf82cf8987965b574672dba93	ltprune	2770eed66a9b8ef944714cd0e968182e	multibuild	72647e255187a1fadc81097b3657e5c3	multilib	0236be304ee52e7f179ed2f337075515	python-r1	0c067f080a047742ffac024b16895b45	python-utils-r1	a166d0f5815d7f1e67bb60a196f1bf7e	toolchain-funcs	6eb35f81556258a4bc9182ad3dfd58ee	vala	45cd5c637ea9287eeaf983960768e17c
-_md5_=a826bf60629547ff58d1d91612bffeed
+_eclass_exported_funcs=src_unpack:bzr src_prepare:- src_configure:-
+_eclasses_=autotools	7027963e8e8cc12c91117bdb9225dc26	bzr	87889d0c43a3db7267fb9a58a496797e	epatch	8233751dc5105a6ae8fcd86ce2bb0247	epunt-cxx	f8073339d152f56626493f43d8ba4691	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	e7491451996e8b54c3caeb713285b0fb	libtool	e32ea84bf82cf8987965b574672dba93	ltprune	2770eed66a9b8ef944714cd0e968182e	multibuild	72647e255187a1fadc81097b3657e5c3	multilib	0236be304ee52e7f179ed2f337075515	python-r1	0c067f080a047742ffac024b16895b45	python-utils-r1	a166d0f5815d7f1e67bb60a196f1bf7e	toolchain-funcs	6eb35f81556258a4bc9182ad3dfd58ee	vala	45cd5c637ea9287eeaf983960768e17c
+_md5_=375f25f3a4b5477fdcd88890e6ae70c3
