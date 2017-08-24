@@ -1,4 +1,4 @@
-DEFINED_PHASES=install prepare unpack
+DEFINED_PHASES=install postinst postrm prepare unpack
 DEPEND=lightdm? ( >=pantheon-base/pantheon-greeter-1.0 ) >=dev-vcs/bzr-2.0.1
 DESCRIPTION=Elementary's desktop environment
 EAPI=6
@@ -7,6 +7,6 @@ IUSE=+lightdm +screensaver
 LICENSE=GPL-3
 RDEPEND=lightdm? ( >=pantheon-base/pantheon-greeter-1.0 ) >=gnome-base/gnome-session-3.0 >=gnome-base/gnome-settings-daemon-3.0 >=pantheon-base/cerbere-0.2 pantheon-base/plank >=pantheon-base/slingshot-0.7 >=pantheon-base/wingpanel-0.2 pantheon-base/pantheon-settings >=x11-themes/elementary-theme-3.4 x11-wm/gala screensaver? ( || ( x11-misc/light-locker gnome-extra/gnome-screensaver x11-misc/xscreensaver ) )
 SLOT=0
-_eclass_exported_funcs=src_unpack:bzr src_prepare:- src_install:-
+_eclass_exported_funcs=pkg_postrm:- pkg_postinst:- src_unpack:bzr src_prepare:- src_install:-
 _eclasses_=bzr	d240aafae63ed6fd5011daef0e096f35	epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	9c113d6a64826c40154cad7be15d95ea	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	185a06792159ca143528e7010368e8af
-_md5_=dac95d3283137a69e0adb5a265b44120
+_md5_=8fbad94aef55d8da92c44f30b74525e2
