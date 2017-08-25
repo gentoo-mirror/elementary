@@ -9,5 +9,5 @@ RDEPEND=x11-themes/vanilla-dmz-aa-xcursors !x11-themes/plank-theme-pantheon medi
 RESTRICT=binchecks mirror strip
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-r3 src_prepare:- src_install:-
-_eclasses_=git-r3	cbafa3261c37c7e3af44bb16a34ea390
+_eclasses_=git-r3	78651c07ca1c1373bf81545d39eb9769
 _md5_=61f48ecabcd3f17b891e74bb0999fd23
