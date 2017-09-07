@@ -10,5 +10,4 @@ RDEPEND=x11-themes/vanilla-dmz-aa-xcursors !x11-themes/plank-theme-pantheon medi
 RESTRICT=binchecks mirror strip
 SLOT=0
 SRC_URI=https://launchpad.net/egtk/5.x/5.1.0/+download/elementary-theme-5.1.0.tar.xz
-_eclass_exported_funcs=src_prepare:- src_install:-
 _md5_=e93224e7c0cabb704f3c9bb9bbf5e960
