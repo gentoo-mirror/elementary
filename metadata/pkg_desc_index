@@ -10,7 +10,7 @@ dev-libs/properties-cpp 0.0.1_p20140730 9999: A very simple convenience library 
 gnome-base/gnome-desktop 3.22.2 3.24.2: Libraries for the gnome desktop that are not part of the UI
 gnome-base/gnome-session 3.22.3 3.24.1: Gnome session manager
 gnome-base/gnome-settings-daemon 3.22.2 3.22.2-r1 3.24.2 3.24.3: Gnome Settings Daemon
-gnome-base/gsettings-desktop-schemas 3.22.0 3.24.0: Collection of GSettings schemas for GNOME desktop
+gnome-base/gsettings-desktop-schemas 3.22.0 3.24.0 3.24.1: Collection of GSettings schemas for GNOME desktop
 mail-client/geary 9999: A lightweight, easy-to-use, feature-rich email client
 media-fonts/raleway 2.1 3.0: Raleway is an elegant sans-serif typeface, designed in a single thin weight.
 media-sound/noise 0.3.1 0.4.1 9999: Noise is the official music player of elementary OS
@@ -64,11 +64,11 @@ pantheon-extra/elementary-tweaks 9999: Tweak elementary OS
 pantheon-extra/pantheon-calculator 0.1.2 9999: A tiny, simple calculator written in GTK+ and Vala
 pantheon-extra/pantheon-mail 1.0.4 9999: The email client for Elementary OS
 pantheon-extra/pantheon-print 0.1.2 9999: Small utility to print documents
-sys-apps/accountsservice 0.6.43 0.6.43-r1: D-Bus interfaces for querying and manipulating user account information
+sys-apps/accountsservice 0.6.43 0.6.43-r1 0.6.45: D-Bus interfaces for querying and manipulating user account information
 x11-libs/bamf 0.5.3 9999: BAMF Application Matching Framework
 x11-libs/granite 0.3.1 0.4.1 9999: A development library for elementary development
-x11-libs/gtk+ 2.24.31-r1 3.22.15 3.22.16 3.22.17: Gimp ToolKit +
-x11-misc/lightdm 1.18.3 1.21.5 1.22.0: A lightweight display manager
+x11-libs/gtk+ 2.24.31-r1 3.22.15 3.22.16 3.22.17 3.22.19: Gimp ToolKit +
+x11-misc/lightdm 1.18.3 1.21.5 1.22.0 1.24.0: A lightweight display manager
 x11-terms/pantheon-terminal 0.3.2 0.4.3 9999: The terminal of the 21st century
 x11-themes/elementary-icon-theme 3.2.2 4.2.0 9999: Elementary icon theme is designed to be smooth, sexy, clear, and efficient
 x11-themes/elementary-theme 5.1.0 9999: The official elementary GTK theme
