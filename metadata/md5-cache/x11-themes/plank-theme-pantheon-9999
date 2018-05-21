@@ -6,5 +6,5 @@ HOMEPAGE=https://launchpad.net/plank-theme-pantheon
 LICENSE=GPL-3
 RDEPEND=pantheon-base/plank
 SLOT=0
-_eclasses_=bzr	0e678d10de31ee3560398501e5212d25
+_eclasses_=bzr	2378e021cde927edeb1564ca0387b29a
 _md5_=b0fce412c29de75375cd17b07f5fd06a
