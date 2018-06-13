@@ -1,5 +1,5 @@
 DEFINED_PHASES=install prepare unpack
-DEPEND=x11-themes/vanilla-dmz-aa-xcursors !x11-themes/plank-theme-pantheon >=dev-vcs/git-1.8.2.1
+DEPEND=x11-themes/vanilla-dmz-aa-xcursors !x11-themes/plank-theme-pantheon >=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=The official elementary GTK theme
 EAPI=6
 HOMEPAGE=https://launchpad.net/egtk
@@ -8,5 +8,5 @@ LICENSE=GPL-3
 RDEPEND=x11-themes/vanilla-dmz-aa-xcursors !x11-themes/plank-theme-pantheon media-fonts/droid gtk? ( x11-libs/gtk+:2 x11-themes/gtk-engines-murrine ) gtk3? ( x11-libs/gtk+:3 x11-themes/gtk-engines-unico ) icons? ( x11-themes/elementary-icon-theme x11-themes/hicolor-icon-theme ) wallpapers? ( x11-themes/elementary-wallpapers )
 RESTRICT=binchecks mirror strip
 SLOT=0
-_eclasses_=git-r3	af51ccfceeb403ab80f1bf9209d372c8
+_eclasses_=git-r3	8f6de46b0aa318aea0e8cac62ece098b
 _md5_=61f48ecabcd3f17b891e74bb0999fd23
