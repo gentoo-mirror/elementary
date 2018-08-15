@@ -5,5 +5,5 @@ EAPI=6
 HOMEPAGE=https://launchpad.net/gsignond
 LICENSE=LGPL-2.1
 SLOT=0
-_eclasses_=autotools	d0e5375d47f4c809f406eb892e531513	bzr	2378e021cde927edeb1564ca0387b29a	libtool	0081a71a261724730ec4c248494f044d	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	1e35303c63cd707f6c3422b4493d5607
+_eclasses_=autotools	d0e5375d47f4c809f406eb892e531513	bzr	a1b66b9c760a0ab5113e62cf9b64d1fe	libtool	0081a71a261724730ec4c248494f044d	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	1e35303c63cd707f6c3422b4493d5607
 _md5_=971ff887a7d3859412fbabd95e00ccec
