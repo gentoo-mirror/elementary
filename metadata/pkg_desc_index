@@ -39,6 +39,5 @@ x11-libs/gtk+ 2.24.31-r1 3.22.15 3.22.16: Gimp ToolKit +
 x11-misc/lightdm 1.18.3: A lightweight display manager
 x11-terms/pantheon-terminal 0.3.2 0.4.3: The terminal of the 21st century
 x11-themes/elementary-icon-theme 3.2.2: Elementary icon theme is designed to be smooth, sexy, clear, and efficient
-x11-themes/elementary-wallpapers 0.2: A set of wallpapers used by the elementary OS
 x11-themes/plank-theme-pantheon 0.1: Plank theme for elementary OS
 x11-wm/gala 0.2.0: Pantheon's Window Manager
