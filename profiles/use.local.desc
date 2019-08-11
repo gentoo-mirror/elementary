@@ -14,6 +14,8 @@ gnome-base/gnome-desktop:license-docs - Install help files documenting GNOME's l
 gnome-base/gnome-session:gconf - Optional support for gnome-base/gconf configuration storage system
 gnome-base/gnome-settings-daemon:colord - Support color management using x11-misc/colord
 gnome-base/gnome-settings-daemon:openrc-force - Skip systemd dependency (#480336), enabling this flag will become your setup to be fully unsupported by upstream and downstream Gnome team. Do not try to enable it unless completely needed
+media-sound/noise:lastfm - Enable LastFM support
+media-sound/noise:mpris - Enable MPRIS support
 net-misc/networkmanager:connection-sharing - Use net-dns/dnsmasq and net-firewall/iptables for connection sharing
 net-misc/networkmanager:consolekit - Use sys-auth/consolekit for session tracking
 net-misc/networkmanager:dhclient - Use dhclient from net-misc/dhcp for getting ip
@@ -25,13 +27,20 @@ net-misc/networkmanager:resolvconf - Use net-dns/openresolv for managing DNS inf
 net-misc/networkmanager:teamd - Enable Teamd control support
 net-misc/networkmanager:wext - Enable support for the deprecated Wext (Wireless Extensions) API; needed for some older drivers (e.g. ipw2200, ndiswrapper)
 net-misc/networkmanager:wifi - Enable support for wifi and 802.1x security using net-wireless/wpa_supplicant
+net-misc/taxi:adwaita - Fixes for Adwaita theme users
+pantheon-base/pantheon:lightdm - Install and use the Pantheon greeter for LightDM.
+pantheon-base/pantheon:screensaver - Install a screensaver
+pantheon-base/pantheon:web - Install the www-client/epiphany package
 pantheon-base/pantheon-files:gvfs - Pull in gnome-base/gvfs to enable various virtual filesystems
+pantheon-base/pantheon-shell:lightdm - Install and use the Pantheon greeter for LightDM.
+pantheon-base/pantheon-shell:screensaver - Install a screensaver
 pantheon-base/wingpanel:accessibility - Include the accessibility indicator
 pantheon-base/wingpanel:bluetooth - Include the bluetooth indicator
 pantheon-base/wingpanel:keyboard - Include the keyboard indicator
 pantheon-base/wingpanel:network - Include the network indicator
 pantheon-base/wingpanel:power - Include the power indicator
 pantheon-base/wingpanel:sound - Include the sound indicator
+sys-apps/accountsservice:systemd - Use sys-apps/systemd instead of sys-auth/consolekit for session tracking
 x11-libs/granite:demo - Build the Granite demo application (to present all available UI features provided by the library)
 x11-libs/gtk+:broadway - Enable the GDK Broadway backend.
 x11-libs/gtk+:cloudprint - Enable printing via Google Cloud Print.
@@ -39,3 +48,7 @@ x11-libs/gtk+:colord - Use x11-misc/colord for color management in printing
 x11-misc/lightdm:gtk - Pull in the gtk+ greeter
 x11-misc/lightdm:kde - Pull in the kde greeter
 x11-misc/lightdm:pantheon - Pull in the pantheon greeter
+x11-themes/elementary-theme:dark - Include the 'dark' theme
+x11-themes/elementary-theme:gtk3 - Pull in the Gtk+ 3 theme engines
+x11-themes/elementary-theme:icons - Include elementary icons
+x11-themes/elementary-theme:wallpapers - Include elementary wallpapers
