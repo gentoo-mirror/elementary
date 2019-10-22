@@ -7,5 +7,5 @@ LICENSE=GPL-3
 PROPERTIES=live
 RDEPEND=pantheon-base/plank
 SLOT=0
-_eclasses_=bzr	f97eb9136cdd4b8cfccb3e033fd36db5
+_eclasses_=bzr	d53abbffb0f23594f6ead511cf15f811
 _md5_=b0fce412c29de75375cd17b07f5fd06a

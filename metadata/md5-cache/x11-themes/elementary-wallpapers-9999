@@ -7,5 +7,5 @@ LICENSE=CC-BY-NC-SA-2.5 CC-BY-3.0 CC-BY-NC-ND-3.0
 PROPERTIES=live
 SLOT=0
 SRC_URI=https://github.com/pimvullers/elementary/raw/master/distfiles/elementary-wallpapers-9999.tar.bz2
-_eclasses_=bzr	f97eb9136cdd4b8cfccb3e033fd36db5
+_eclasses_=bzr	d53abbffb0f23594f6ead511cf15f811
 _md5_=d4312b46a6e7b74ed51177eabef70ba8
