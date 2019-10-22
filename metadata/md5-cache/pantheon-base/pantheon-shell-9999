@@ -8,5 +8,5 @@ LICENSE=GPL-3
 PROPERTIES=live
 RDEPEND=lightdm? ( >=pantheon-base/pantheon-greeter-1.0 ) >=gnome-base/gnome-session-3.0 >=gnome-base/gnome-settings-daemon-3.0 >=pantheon-base/cerbere-0.2 pantheon-base/plank >=pantheon-base/slingshot-0.7 >=pantheon-base/wingpanel-0.2 pantheon-base/pantheon-settings >=x11-themes/elementary-theme-3.4 x11-wm/gala screensaver? ( || ( x11-misc/light-locker gnome-extra/gnome-screensaver x11-misc/xscreensaver ) )
 SLOT=0
-_eclasses_=bzr	d53abbffb0f23594f6ead511cf15f811
+_eclasses_=bzr	d08d60a62735e83f899005c7fb0837a2
 _md5_=acbaf353a486c5ffe79ce8b1bfdd891c
