@@ -9,5 +9,5 @@ PROPERTIES=live
 RDEPEND=x11-themes/vanilla-dmz-aa-xcursors !x11-themes/plank-theme-pantheon media-fonts/droid gtk? ( x11-libs/gtk+:2 x11-themes/gtk-engines-murrine ) gtk3? ( x11-libs/gtk+:3 x11-themes/gtk-engines-unico ) icons? ( x11-themes/elementary-icon-theme x11-themes/hicolor-icon-theme ) wallpapers? ( x11-themes/elementary-wallpapers )
 RESTRICT=binchecks mirror strip
 SLOT=0
-_eclasses_=git-r3	809e27702c573cbba31c08ed00bbad33
+_eclasses_=git-r3	86a0188f2ad9eb3d65e4d031ab8a0422
 _md5_=61f48ecabcd3f17b891e74bb0999fd23
