@@ -1,77 +1,91 @@
-app-editors/scratch 2.4.1 9999: Scratch is a text editor written for the Pantheon desktop
+app-editors/pantheon-code 3.4.0: Code editor designed for elementary OS
 app-office/footnote 9999: Beautiful, fast, and simple note taking app in the style of elementary
 app-office/markmywords 9999: A minimal markdown editor
 app-office/maya 0.3.1.1 0.4.0.2 9999: Slim, lightweight, GCal-syncing GTK+ Calendar application
 dev-db/sqlheavy 0.1.1: GObject SQLite wrapper
-dev-libs/appstream 0.10.6-r1 0.11.5: Cross-distro effort for providing metadata for software in the Linux ecosystem
+dev-libs/appstream 0.12.10: Cross-distro effort for providing metadata for software in the Linux ecosystem
 dev-libs/contractor 0.3.2 9999: A desktop-wide extension service
-dev-libs/libdbusmenu 16.04.0: Library to pass menu structure across DBus
+dev-libs/granite 5.3.1 9999: A development library for elementary development
+dev-libs/libcloudproviders 0.3.0: Cloudproviders integration API
 dev-libs/properties-cpp 0.0.1_p20140730 9999: A very simple convenience library for handling properties and signals in C++11
-gnome-base/gnome-desktop 3.22.2 3.24.2: Libraries for the gnome desktop that are not part of the UI
-gnome-base/gnome-session 3.22.3 3.24.1: Gnome session manager
-gnome-base/gnome-settings-daemon 3.22.2 3.22.2-r1 3.24.2 3.24.3: Gnome Settings Daemon
-gnome-base/gsettings-desktop-schemas 3.22.0 3.24.0 3.24.1: Collection of GSettings schemas for GNOME desktop
-mail-client/geary 9999: A lightweight, easy-to-use, feature-rich email client
-media-fonts/raleway 2.1 3.0: Raleway is an elegant sans-serif typeface, designed in a single thin weight.
-media-sound/noise 0.3.1 0.4.1 9999: Noise is the official music player of elementary OS
-media-video/audience 0.2.4 9999: A simple, modern media player
-media-video/eidete 9999: Simple screencasting app for the elementary project
-media-video/snap 0.2 0.3.0.1 9999: A fast photo booth application designed for the Pantheon desktop
-net-libs/gsignond 9999: Online Accounts Sign-on glib daemon
-net-libs/libgsignon-glib 9999: GLib-based client library for applications handling account authentication
-net-misc/networkmanager 1.4.0-r1 1.4.4-r1: A set of co-operative tools that make networking simple and straightforward
-net-misc/taxi 9999: A simple to use FTP client, designed for elementary OS.
-pantheon-base/cerbere 0.2.1 0.2.2 9999: A simple service to relaunch pantheon applications
+gnome-extra/zeitgeist 1.0.2: Service to log activities and present to other apps
+pantheon-base/applications-menu 2.5.0: A lightweight and stylish app launcher for Pantheon and other DEs
+pantheon-base/cerbere 2.5.1 9999: A simple service to relaunch pantheon applications
 pantheon-base/pantheon 9999: Pantheon DE meta package
-pantheon-base/pantheon-files 0.3.5 9999: A simple, powerful, sexy file manager for the Pantheon desktop
+pantheon-base/pantheon-files 4.4.2 9999: A simple, powerful, sexy file manager for the Pantheon desktop
 pantheon-base/pantheon-greeter 3.2.0 9999: Pantheon Login Screen for LightDM
-pantheon-base/pantheon-settings 0.2 0.4 9999: Default settings for the Pantheon Desktop Environment
-pantheon-base/pantheon-shell 0.2 0.3_pre 9999: Elementary's desktop environment
-pantheon-base/plank 0.11.4 9999: The dock for elementary Pantheon, stupidly simple
+pantheon-base/pantheon-meta 5.0.3: Pantheon DE meta package
+pantheon-base/pantheon-settings 5.0 9999: Default settings for the Pantheon Desktop Environment
+pantheon-base/pantheon-shell 5.0.3 9999: Elementary's desktop environment
 pantheon-base/screenshot-tool 0.1.4: A simple screen capture tool made for elementary OS
 pantheon-base/slingshot 2.2.0 9999: A lightweight and stylish app launcher for Pantheon and other DEs
-pantheon-base/switchboard 2.3.0 9999: Modular desktop settings hub
-pantheon-base/switchboard-plug-about 0.2.4 9999: Switchboard plug to show system information
-pantheon-base/switchboard-plug-accessibility 0.1.1 9999: Switchboard plug to manage universal access settings.
-pantheon-base/switchboard-plug-applications 0.1.2 9999: Application configuration management
-pantheon-base/switchboard-plug-bluetooth 0.1 9999: Switchboard plug to setup bluetooth devices
-pantheon-base/switchboard-plug-datetime 0.1.2 9999: Configure the date & time of the user
-pantheon-base/switchboard-plug-display 0.1.3 9999: Switchboard plug to show displays information
-pantheon-base/switchboard-plug-keyboard 0.3.2 9999: Adjust keyboard settings from Switchboard
-pantheon-base/switchboard-plug-locale 0.2.0.1 0.2.3 9999: Adjust Locale settings using Switchboard.
-pantheon-base/switchboard-plug-mouse-touchpad 0.1.2 9999: Mouse and touchpad settings
-pantheon-base/switchboard-plug-network 0.1.1 9999: Configure all available networks
-pantheon-base/switchboard-plug-notifications 0.1.2 9999: Configure which apps should be allowed to show notifications
+pantheon-base/switchboard 2.3.9 9999: Modular desktop settings hub
+pantheon-base/switchboard-plug-a11y 2.2.0: Switchboard Universal Access Plug
+pantheon-base/switchboard-plug-about 2.6.1 9999: Switchboard plug to show system information
+pantheon-base/switchboard-plug-applications 2.1.7 9999: Application configuration management
+pantheon-base/switchboard-plug-bluetooth 2.3.1 9999: Switchboard plug to setup bluetooth devices
+pantheon-base/switchboard-plug-datetime 2.1.7 9999: Configure the date & time of the user
+pantheon-base/switchboard-plug-display 2.2.1 9999: Switchboard plug to show displays information
+pantheon-base/switchboard-plug-keyboard 2.3.6 9999: Adjust keyboard settings from Switchboard
+pantheon-base/switchboard-plug-locale 2.4.0 9999: Adjust Locale settings using Switchboard.
+pantheon-base/switchboard-plug-mouse-touchpad 2.4.1 9999: Mouse and touchpad settings
+pantheon-base/switchboard-plug-network 2.3.0 9999: Configure all available networks
+pantheon-base/switchboard-plug-notifications 2.1.6 9999: Configure which apps should be allowed to show notifications
 pantheon-base/switchboard-plug-onlineaccounts 0.3.0.1 9999: Switchboard plug for Online Accounts management
-pantheon-base/switchboard-plug-pantheon-shell 0.2.6 9999: Configure the Pantheon desktop environment using Switchboard
-pantheon-base/switchboard-plug-parental-controls 0.1.3 9999: An easy parental controls plug for Switchboard
-pantheon-base/switchboard-plug-power 0.3.2 9999: Control system power consumption using Switchboard.
-pantheon-base/switchboard-plug-printers 0.1.1 9999: Control printers using Switchboard.
-pantheon-base/switchboard-plug-security-privacy 0.1.2 9999: Configure various aspects of the security of the system.
-pantheon-base/switchboard-plug-sharing 0.1.1 9999: Switchboard plug to show system information.
-pantheon-base/switchboard-plug-useraccounts 0.1.5 9999: Switchboard plug to show system information.
-pantheon-base/wingpanel 2.0.4 9999: Stylish top panel that holds indicators and spawns an application launcher
+pantheon-base/switchboard-plug-pantheon-shell 2.8.4 9999: Configure the Pantheon desktop environment using Switchboard
+pantheon-base/switchboard-plug-parental-controls 3.0.0 9999: An easy parental controls plug for Switchboard
+pantheon-base/switchboard-plug-power 2.3.5 9999: Control system power consumption using Switchboard.
+pantheon-base/switchboard-plug-printers 2.1.8 9999: Control printers using Switchboard.
+pantheon-base/switchboard-plug-security-privacy 2.2.3 9999: Configure various aspects of the security of the system.
+pantheon-base/switchboard-plug-sharing 2.1.4 9999: Switchboard plug to show system information.
+pantheon-base/switchboard-plug-sound 2.2.3: Switchboard Sound Plug
+pantheon-base/switchboard-plug-useraccounts 2.3.0 9999: Switchboard plug to show system information.
+pantheon-base/wingpanel 2.3.0 9999: Stylish top panel that holds indicators and spawns an application launcher
 pantheon-base/wingpanel-indicator-accessibility 9999: Accessibility indicator for Wingpanel
-pantheon-base/wingpanel-indicator-bluetooth 2.0.3 9999: Bluetooth indicator for Wingpanel
-pantheon-base/wingpanel-indicator-datetime 2.0.2 9999: Date & Time indicator for Wingpanel
-pantheon-base/wingpanel-indicator-keyboard 2.0.2 9999: Keyboard indicator for Wingpanel
-pantheon-base/wingpanel-indicator-network 2.1.1 9999: Network indicator for Wingpanel
-pantheon-base/wingpanel-indicator-notifications 2.0.2 9999: Notifications indicator for Wingpanel
-pantheon-base/wingpanel-indicator-power 2.1.1 9999: Power indicator for Wingpanel
-pantheon-base/wingpanel-indicator-session 2.0.3 9999: Session indicator for Wingpanel
-pantheon-base/wingpanel-indicator-sound 2.0.5 9999: Sound indicator for Wingpanel
-pantheon-extra/elementary-tweaks 9999: Tweak elementary OS
-pantheon-extra/pantheon-calculator 0.1.3 9999: A tiny, simple calculator written in GTK+ and Vala
+pantheon-base/wingpanel-indicator-bluetooth 2.1.5 9999: Bluetooth indicator for Wingpanel
+pantheon-base/wingpanel-indicator-cpufreq 1.1.2: Indicator is able to adjust the Intel p-state driver (Sandy Bridge and newer)
+pantheon-base/wingpanel-indicator-datetime 2.2.3 9999: Date & Time indicator for Wingpanel
+pantheon-base/wingpanel-indicator-keyboard 2.2.1 9999: Keyboard indicator for Wingpanel
+pantheon-base/wingpanel-indicator-network 2.2.3 9999: Network indicator for Wingpanel
+pantheon-base/wingpanel-indicator-nightlight 2.0.3: Nightlight indicator for Wingpanel
+pantheon-base/wingpanel-indicator-notifications 2.1.4 9999: Notifications indicator for Wingpanel
+pantheon-base/wingpanel-indicator-places 1.0.0: Wingpanel places indicator for disks, volumes and places management
+pantheon-base/wingpanel-indicator-power 2.1.4 9999: Power indicator for Wingpanel
+pantheon-base/wingpanel-indicator-sensors 1.0.0: Shows hardware sensors readings
+pantheon-base/wingpanel-indicator-session 2.2.7 9999: Session indicator for Wingpanel
+pantheon-base/wingpanel-indicator-sound 2.1.3 9999: Sound indicator for Wingpanel
+pantheon-extra/ciano 0.2.1: A multimedia file converter
+pantheon-extra/contract-archive 0.1.2: This package allows you to extract and compress the archive over Contractor
+pantheon-extra/contract-print 0.1.3: Small utility to print documents
+pantheon-extra/contractor 0.3.4: A desktop-wide extension service
+pantheon-extra/dpms-helper 1.0: Sets DPMS settings found in org.pantheon.dpms
+pantheon-extra/ebreaktime 1.0.2 1.9.0: Break time manager, designed for ElementaryOS.
+pantheon-extra/elementary-tweaks 9999: Elementary OS customization tool
+pantheon-extra/gala-layoutpw-plugin 0.3.1: Gala plugin to switch layouts per window
+pantheon-extra/gala-savewins-plugin 0.3.1: Gala plugin to restore windows after reboot
+pantheon-extra/pantheon-agent-polkit 1.0.1: Pantheon Polkit Agent
+pantheon-extra/pantheon-calculator 0.1.3 1.5.2 1.5.4 1.5.5 9999: A tiny, simple calculator written in GTK+ and Vala
+pantheon-extra/pantheon-calendar 5.0 5.0.3: Desktop calendar app designed for elementary OS
+pantheon-extra/pantheon-camera 1.0.4: The camera app designed for elementary OS
 pantheon-extra/pantheon-mail 1.0.4 9999: The email client for Elementary OS
+pantheon-extra/pantheon-melody 2.2.1: A music player for listening to local music files, online radios, and Audio CD
+pantheon-extra/pantheon-meteo 0.9.0: Displays the weather forecast and adds a weather indicator
+pantheon-extra/pantheon-monitor 0.3.6 0.5.0: Manage processes and monitor system resources in ElementaryOS
+pantheon-extra/pantheon-music 5.0.5: Elementary OS music player
+pantheon-extra/pantheon-photos 2.6.3 2.6.4 2.6.5: Photo viewer and organizer designed for elementary OS
 pantheon-extra/pantheon-print 0.1.2 9999: Small utility to print documents
-sys-apps/accountsservice 0.6.43 0.6.43-r1 0.6.45: D-Bus interfaces for querying and manipulating user account information
-x11-libs/bamf 0.5.3 9999: BAMF Application Matching Framework
-x11-libs/granite 0.3.1 0.4.1 9999: A development library for elementary development
-x11-libs/gtk+ 2.24.31-r1 3.22.15 3.22.16 3.22.17 3.22.19: Gimp ToolKit +
+pantheon-extra/pantheon-screenshot 1.6.2 1.7.0 1.7.1: Elementary Screenshot Tool
+pantheon-extra/pantheon-videos 2.7.0: A tiny, simple calculator written in GTK+ and Vala
+pantheon-extra/shortcut-overlay 1.0.1 1.1.1: A native OS-wide shortcut overlay to be launched by Gala
+x11-libs/bamf 0.5.4: BAMF Application Matching Framework
 x11-misc/lightdm 1.18.3 1.21.5 1.22.0 1.24.0: A lightweight display manager
-x11-terms/pantheon-terminal 0.3.2 0.4.3 9999: The terminal of the 21st century
-x11-themes/elementary-icon-theme 3.2.2 4.2.0 9999: Elementary icon theme is designed to be smooth, sexy, clear, and efficient
-x11-themes/elementary-theme 5.1.0 9999: The official elementary GTK theme
-x11-themes/elementary-wallpapers 0.2 9999: A set of wallpapers used by the elementary OS
+x11-misc/plank 0.11.89: The dock for elementary Pantheon, stupidly simple
+x11-terms/pantheon-terminal 5.5.2 9999: The terminal of the 21st century
+x11-themes/elementary-icon-theme 4.2.0 9999: Elementary icon theme is designed to be smooth, sexy, clear, and efficient
+x11-themes/elementary-icons-theme 5.2.0: An original set of vector icons designed specifically for elementary OS
+x11-themes/elementary-sound-theme 1.0: A set of system sounds for elementary OS
+x11-themes/elementary-theme 5.4.2 9999: The official elementary GTK theme
+x11-themes/elementary-wallpapers 5.5.0 9999: A set of wallpapers used by the elementary OS
 x11-themes/plank-theme-pantheon 0.1 9999: Plank theme for elementary OS
-x11-wm/gala 0.2.0 9999: Pantheon's Window Manager
+x11-wm/gala 3.3.0 3.3.1 9999: Pantheon's Window Manager
+xfce-extra/tumbler 0.2.8: A thumbnail service for Thunar
