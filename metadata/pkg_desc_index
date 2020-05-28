@@ -1,22 +1,20 @@
 app-editors/pantheon-code 3.4.0: Code editor designed for elementary OS
-app-office/footnote 9999: Beautiful, fast, and simple note taking app in the style of elementary
 app-office/markmywords 9999: A minimal markdown editor
 app-office/maya 0.3.1.1 0.4.0.2 9999: Slim, lightweight, GCal-syncing GTK+ Calendar application
 dev-db/sqlheavy 0.1.1: GObject SQLite wrapper
 dev-libs/appstream 0.12.10: Cross-distro effort for providing metadata for software in the Linux ecosystem
 dev-libs/contractor 0.3.2 9999: A desktop-wide extension service
-dev-libs/granite 5.4.0 9999: A development library for elementary development
+dev-libs/granite 5.4.0 9999: Elementary OS library that extends Gtk+
 dev-libs/libcloudproviders 0.3.0: Cloudproviders integration API
 dev-libs/properties-cpp 0.0.1_p20140730 9999: A very simple convenience library for handling properties and signals in C++11
 gnome-extra/zeitgeist 1.0.2: Service to log activities and present to other apps
 pantheon-base/applications-menu 2.7.0: A lightweight and stylish app launcher for Pantheon and other DEs
 pantheon-base/cerbere 2.5.1 9999: A simple service to relaunch pantheon applications
-pantheon-base/pantheon 9999: Pantheon DE meta package
 pantheon-base/pantheon-files 4.4.2 9999: A simple, powerful, sexy file manager for the Pantheon desktop
 pantheon-base/pantheon-greeter 3.2.0 9999: Pantheon Login Screen for LightDM
 pantheon-base/pantheon-meta 5.0.3: Pantheon DE meta package
 pantheon-base/pantheon-settings 5.0 9999: Default settings for the Pantheon Desktop Environment
-pantheon-base/pantheon-shell 5.0.3 9999: Elementary's desktop environment
+pantheon-base/pantheon-shell 5.0.3 9999: Pantheon DE shell
 pantheon-base/screenshot-tool 0.1.4: A simple screen capture tool made for elementary OS
 pantheon-base/slingshot 2.2.0 9999: A lightweight and stylish app launcher for Pantheon and other DEs
 pantheon-base/switchboard 2.4.0 9999: Modular desktop settings hub
@@ -85,7 +83,7 @@ x11-themes/elementary-icon-theme 4.2.0 9999: Elementary icon theme is designed t
 x11-themes/elementary-icons-theme 5.3.0: An original set of vector icons designed specifically for elementary OS
 x11-themes/elementary-sound-theme 1.0: A set of system sounds for elementary OS
 x11-themes/elementary-theme 5.4.2 9999: The official elementary GTK theme
-x11-themes/elementary-wallpapers 5.5.0 9999: A set of wallpapers used by the elementary OS
+x11-themes/elementary-wallpapers 5.5.0 9999: Wallpapers for elementary OS
 x11-themes/plank-theme-pantheon 0.1 9999: Plank theme for elementary OS
 x11-wm/gala 3.3.2 9999: Pantheon's Window Manager
 xfce-extra/tumbler 0.2.8: A thumbnail service for Thunar
