@@ -10,5 +10,5 @@ LICENSE=GPL-3
 RDEPEND=dev-libs/glib:2 dbus? ( dev-libs/libdbusmenu[gtk3] ) dev-libs/libgee:0.8 >=gnome-base/gnome-menus-3.32.0 >=x11-libs/bamf-0.2.92 >=x11-libs/cairo-1.10 >=x11-libs/gdk-pixbuf-2.26.0 >=x11-libs/gtk+-3.10.0:3 x11-libs/libX11 x11-libs/libwnck:3
 SLOT=0
 SRC_URI=https://launchpad.net/plank/1.0/0.11.89/+download/plank-0.11.89.tar.xz
-_eclasses_=autotools	7d999b62b8749fad43fff00620cedf47	eutils	fcb2aa98e1948b835b5ae66ca52868c5	gnome2-utils	893e828f0f25f070f0b38d20c83c7670	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	2477ebe553d3e4d2c606191fe6c33602	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb	vala	2cd99cd72bb91f3f190fa4ca576be580	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
+_eclasses_=autotools	7d999b62b8749fad43fff00620cedf47	eutils	fcb2aa98e1948b835b5ae66ca52868c5	gnome2-utils	893e828f0f25f070f0b38d20c83c7670	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	98584e405e2b0264d37e8f728327fed1	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb	vala	2cd99cd72bb91f3f190fa4ca576be580	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
 _md5_=f18d27c8292a35d4230b26f9eb02cd30
