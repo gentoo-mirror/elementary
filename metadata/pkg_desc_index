@@ -1,6 +1,5 @@
 app-editors/pantheon-code 3.4.1: Code editor designed for elementary OS
 app-office/markmywords 9999: A minimal markdown editor
-app-office/maya 0.3.1.1 0.4.0.2: Slim, lightweight, GCal-syncing GTK+ Calendar application
 dev-db/sqlheavy 0.1.1: GObject SQLite wrapper
 dev-libs/appstream 0.12.10 0.12.11: Cross-distro effort for providing metadata for software in the Linux ecosystem
 dev-libs/contractor 0.3.2: A desktop-wide extension service
