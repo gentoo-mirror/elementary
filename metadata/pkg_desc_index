@@ -83,5 +83,5 @@ x11-themes/elementary-sound-theme 1.0: A set of system sounds for elementary OS
 x11-themes/elementary-theme 5.4.2 9999: The official elementary GTK theme
 x11-themes/elementary-wallpapers 5.5.0: Wallpapers for elementary OS
 x11-themes/plank-theme-pantheon 0.1: Plank theme for elementary OS
-x11-wm/gala 3.3.2 9999: Pantheon's Window Manager
+x11-wm/gala 3.3.2: Pantheon's Window Manager
 xfce-extra/tumbler 0.2.8: A thumbnail service for Thunar

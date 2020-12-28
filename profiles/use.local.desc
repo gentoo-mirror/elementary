@@ -16,9 +16,6 @@ pantheon-base/wingpanel:keyboard - Include the keyboard indicator
 pantheon-base/wingpanel:network - Include the network indicator
 pantheon-base/wingpanel:power - Include the power indicator
 pantheon-base/wingpanel:sound - Include the sound indicator
-x11-misc/lightdm:gtk - Pull in the gtk+ greeter
-x11-misc/lightdm:kde - Pull in the kde greeter
-x11-misc/lightdm:pantheon - Pull in the pantheon greeter
 x11-themes/elementary-theme:dark - Include the 'dark' theme
 x11-themes/elementary-theme:gtk3 - Pull in the Gtk+ 3 theme engines
 x11-themes/elementary-theme:icons - Include elementary icons
