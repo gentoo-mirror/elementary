@@ -1,9 +1,0 @@
-DEFINED_PHASES=compile install test
-DESCRIPTION=Wallpapers for elementary OS
-EAPI=7
-HOMEPAGE=https://github.com/elementary/wallpapers
-KEYWORDS=amd64
-LICENSE=metapackage
-SLOT=0
-SRC_URI=https://github.com/elementary/wallpapers/archive/5.5.0.tar.gz
-_md5_=9a6f659b55bf89dc5025b9ba9e0d1a45

@@ -1,15 +1,16 @@
 BDEPEND=sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.2-r1:1.16 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
 DEFINED_PHASES=configure postinst postrm preinst prepare
-DEPEND=dev-libs/glib:2 dbus? ( dev-libs/libdbusmenu[gtk3] ) dev-libs/libgee:0.8 >=gnome-base/gnome-menus-3.32.0 >=x11-libs/bamf-0.2.92 >=x11-libs/cairo-1.10 >=x11-libs/gdk-pixbuf-2.26.0 >=x11-libs/gtk+-3.10.0:3 x11-libs/libX11 x11-libs/libwnck:3 || ( dev-lang/vala:0.54[vapigen(+)] dev-lang/vala:0.52[vapigen(+)] dev-lang/vala:0.50[vapigen(+)] dev-lang/vala:0.48[vapigen(+)] dev-lang/vala:0.46[vapigen(+)] dev-lang/vala:0.44[vapigen(+)] ) dev-util/intltool virtual/pkgconfig nls? ( sys-devel/gettext )
-DESCRIPTION=The dock for elementary Pantheon, stupidly simple
+DEPEND=dev-libs/atk dev-libs/glib:2 dev-libs/libdbusmenu[gtk,gtk3] dev-libs/libgee sys-libs/glibc x11-libs/bamf x11-libs/cairo x11-libs/gdk-pixbuf x11-libs/gtk+:3 x11-libs/libX11 x11-libs/libXfixes x11-libs/libXi x11-libs/libwnck gnome-base/gnome-menus:3 x11-libs/pango || ( dev-lang/vala:0.54[vapigen(+)] dev-lang/vala:0.52[vapigen(+)] dev-lang/vala:0.50[vapigen(+)] dev-lang/vala:0.48[vapigen(+)] dev-lang/vala:0.46[vapigen(+)] dev-lang/vala:0.44[vapigen(+)] ) dev-util/desktop-file-utils x11-misc/shared-mime-info
+DESCRIPTION=Elegant, simple, clean dock
 EAPI=7
-HOMEPAGE=https://launchpad.net/plank https://launchpad.net/pantheon-dock
-INHERIT=gnome2-utils autotools vala xdg-utils
-IUSE=+dbus debug nls static-libs
-KEYWORDS=~amd64
+HOMEPAGE=https://github.com/ricotz/plank
+INHERIT=autotools gnome2-utils vala xdg
+IUSE=apport barriers benchmark dbus debug nls
+KEYWORDS=~alpha amd64 ~arm ~arm64 ~hppa ~ia64 ~ppc ~ppc64 ~sparc ~x86
 LICENSE=GPL-3
-RDEPEND=dev-libs/glib:2 dbus? ( dev-libs/libdbusmenu[gtk3] ) dev-libs/libgee:0.8 >=gnome-base/gnome-menus-3.32.0 >=x11-libs/bamf-0.2.92 >=x11-libs/cairo-1.10 >=x11-libs/gdk-pixbuf-2.26.0 >=x11-libs/gtk+-3.10.0:3 x11-libs/libX11 x11-libs/libwnck:3
+RDEPEND=dev-libs/atk dev-libs/glib:2 dev-libs/libdbusmenu[gtk,gtk3] dev-libs/libgee sys-libs/glibc x11-libs/bamf x11-libs/cairo x11-libs/gdk-pixbuf x11-libs/gtk+:3 x11-libs/libX11 x11-libs/libXfixes x11-libs/libXi x11-libs/libwnck gnome-base/gnome-menus:3 x11-libs/pango
+RESTRICT=mirror
 SLOT=0
-SRC_URI=https://launchpad.net/plank/1.0/0.11.89/+download/plank-0.11.89.tar.xz
-_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	dab5d8ec471d025b79c9e6906bcf3bff	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	4b66d835ec72e021e359bb81eacfe988	xdg-utils	4f29a8b760a594a212abe9c2ba957c31	gnome2-utils	355c758ccc0d6df60d43a066640e642c	gnuconfig	262062cef0ba4f22b397193da514a350	libtool	241a8f577b9781a42a7421e53448a44e	autotools	c9df06c186913b43eb211100ef5fe2cf	vala	ba63120449f0238a2f0c39303871ad99
-_md5_=f18d27c8292a35d4230b26f9eb02cd30
+SRC_URI=https://github.com/ricotz/plank/archive/0.11.89.tar.gz -> plank-0.11.89.tar.gz
+_eclasses_=gnuconfig	262062cef0ba4f22b397193da514a350	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	4b66d835ec72e021e359bb81eacfe988	libtool	241a8f577b9781a42a7421e53448a44e	autotools	c9df06c186913b43eb211100ef5fe2cf	edos2unix	33e347e171066657f91f8b0c72ec8773	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	dab5d8ec471d025b79c9e6906bcf3bff	xdg-utils	4f29a8b760a594a212abe9c2ba957c31	gnome2-utils	355c758ccc0d6df60d43a066640e642c	vala	ba63120449f0238a2f0c39303871ad99	xdg	6024fbc93167fad782e2032933654857
+_md5_=fb58eb3504cf6366f1aa4cb416ab38a3
