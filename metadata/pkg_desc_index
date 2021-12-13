@@ -5,8 +5,8 @@ dev-libs/libcloudproviders 0.3.1: Cloudproviders integration API
 dev-libs/malcontent 0.10.1: Parental controls support library
 gnome-extra/zeitgeist 1.0.3: Service to log activities and present to other apps
 media-fonts/inter 3.19: The Inter font family
-pantheon-base/applications-menu 2.10.1: A lightweight and stylish app launcher for Pantheon and other DEs
-pantheon-base/pantheon-files 6.1.0: A simple, powerful, sexy file manager for the Pantheon desktop
+pantheon-base/applications-menu 2.10.2: A lightweight and stylish app launcher for Pantheon and other DEs
+pantheon-base/pantheon-files 6.1.1: A simple, powerful, sexy file manager for the Pantheon desktop
 pantheon-base/pantheon-greeter 6.0.1: LightDM Greeter for Pantheon
 pantheon-base/pantheon-meta 6.0.0-r1: Pantheon DE meta package
 pantheon-base/pantheon-settings 6.0.2: Default settings for the Pantheon Desktop Environment
@@ -37,11 +37,11 @@ pantheon-base/switchboard-plug-wacom 1.0.0: Wacom settings
 pantheon-base/wingpanel 3.0.1: Stylish top panel that holds indicators and spawns an application launcher
 pantheon-base/wingpanel-indicator-a11y 1.0.0: Wingpanel Universal Access Indicator
 pantheon-base/wingpanel-indicator-bluetooth 2.1.8: Bluetooth indicator for Wingpanel
-pantheon-base/wingpanel-indicator-datetime 2.3.1: Date & Time indicator for Wingpanel
+pantheon-base/wingpanel-indicator-datetime 2.4.0: Date & Time indicator for Wingpanel
 pantheon-base/wingpanel-indicator-keyboard 2.4.0: Keyboard indicator for Wingpanel
 pantheon-base/wingpanel-indicator-network 2.3.2: Network indicator for Wingpanel
 pantheon-base/wingpanel-indicator-nightlight 2.1.0: Nightlight indicator for Wingpanel
-pantheon-base/wingpanel-indicator-notifications 6.0.2: Notifications indicator for Wingpanel
+pantheon-base/wingpanel-indicator-notifications 6.0.3: Notifications indicator for Wingpanel
 pantheon-base/wingpanel-indicator-power 6.1.0: Power indicator for Wingpanel
 pantheon-base/wingpanel-indicator-session 2.3.0: Session indicator for Wingpanel
 pantheon-base/wingpanel-indicator-sound 6.0.1: Sound indicator for Wingpanel
