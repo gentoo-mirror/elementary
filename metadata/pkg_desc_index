@@ -50,7 +50,7 @@ pantheon-extra/contractor 0.3.5: A desktop-wide extension service
 pantheon-extra/pantheon-agent-geoclue2 1.0.5: Location services agent
 pantheon-extra/pantheon-agent-polkit 1.0.4: Pantheon Polkit Agent
 pantheon-extra/pantheon-calculator 1.7.2: A tiny, simple calculator written in GTK+ and Vala
-pantheon-extra/pantheon-calendar 6.0.3: Desktop calendar app designed for elementary OS
+pantheon-extra/pantheon-calendar 6.1.0: Desktop calendar app designed for elementary OS
 pantheon-extra/pantheon-camera 6.0.3: The camera app designed for elementary OS
 pantheon-extra/pantheon-capnet-assist 2.4.0: Captive Network Assistant
 pantheon-extra/pantheon-mail 6.3.1: Elementary OS mail reader
