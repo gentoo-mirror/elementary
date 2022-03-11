@@ -7,7 +7,7 @@ gnome-extra/zeitgeist 1.0.3: Service to log activities and present to other apps
 media-fonts/inter 3.19: The Inter font family
 pantheon-base/applications-menu 2.10.2: A lightweight and stylish app launcher for Pantheon and other DEs
 pantheon-base/pantheon-files 6.1.2: A simple, powerful, sexy file manager for the Pantheon desktop
-pantheon-base/pantheon-greeter 6.0.1: LightDM Greeter for Pantheon
+pantheon-base/pantheon-greeter 6.0.2: LightDM Greeter for Pantheon
 pantheon-base/pantheon-meta 6.0.0-r1: Pantheon DE meta package
 pantheon-base/pantheon-settings 6.0.2: Default settings for the Pantheon Desktop Environment
 pantheon-base/pantheon-settings-daemon 1.1.0: Pantheon settings daemon
