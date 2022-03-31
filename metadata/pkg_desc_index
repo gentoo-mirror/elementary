@@ -10,7 +10,7 @@ pantheon-base/pantheon-files 6.1.2: A simple, powerful, sexy file manager for th
 pantheon-base/pantheon-greeter 6.0.2: LightDM Greeter for Pantheon
 pantheon-base/pantheon-meta 6.0.0-r1: Pantheon DE meta package
 pantheon-base/pantheon-settings 6.0.2: Default settings for the Pantheon Desktop Environment
-pantheon-base/pantheon-settings-daemon 1.1.0: Pantheon settings daemon
+pantheon-base/pantheon-settings-daemon 1.1.0-r1: Pantheon settings daemon
 pantheon-base/pantheon-shell 6.0.0: Pantheon DE shell
 pantheon-base/switchboard 6.0.0: Modular desktop settings hub
 pantheon-base/switchboard-plug-a11y 2.3.0: Switchboard Universal Access Plug
@@ -66,7 +66,7 @@ virtual/notification-daemon 0: Virtual for notification daemon dbus service
 x11-libs/bamf 0.5.5: BAMF Application Matching Framework
 x11-misc/pantheon-notification-daemon 6.0.0: Gtk notification server for Pantheon
 x11-misc/plank 0.11.89: Elegant, simple, clean dock
-x11-terms/pantheon-terminal 6.0.1: The terminal of the 21st century
+x11-terms/pantheon-terminal 6.0.1-r1: The terminal of the 21st century
 x11-themes/elementary-icons-theme 6.1.0: An original set of vector icons designed specifically for elementary OS
 x11-themes/elementary-sound-theme 1.1.0: A set of system sounds for elementary OS
 x11-themes/elementary-theme 6.1.1: The Gtk+ Stylesheet for elementary OS
