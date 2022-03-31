@@ -1,3 +1,4 @@
+app-accessibility/onboard 1.4.1: Onscreen keyboard for everybody who can't use a hardware keyboard
 app-editors/pantheon-code 6.1.0: Code editor designed for elementary OS
 dev-libs/appstream 0.14.5 0.14.6: Cross-distro effort for providing metadata for software in the Linux ecosystem
 dev-libs/granite 6.2.0: Elementary OS library that extends Gtk+
@@ -11,7 +12,7 @@ pantheon-base/pantheon-greeter 6.0.2: LightDM Greeter for Pantheon
 pantheon-base/pantheon-meta 6.0.0-r1: Pantheon DE meta package
 pantheon-base/pantheon-settings 6.0.2: Default settings for the Pantheon Desktop Environment
 pantheon-base/pantheon-settings-daemon 1.1.0-r1: Pantheon settings daemon
-pantheon-base/pantheon-shell 6.0.0: Pantheon DE shell
+pantheon-base/pantheon-shell 6.0.0-r1: Pantheon DE shell
 pantheon-base/switchboard 6.0.0: Modular desktop settings hub
 pantheon-base/switchboard-plug-a11y 2.3.0: Switchboard Universal Access Plug
 pantheon-base/switchboard-plug-about 6.0.1: Switchboard plug to show system information
