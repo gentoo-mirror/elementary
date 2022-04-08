@@ -20,19 +20,19 @@ pantheon-base/switchboard-plug-applications 6.0.1: Application configuration man
 pantheon-base/switchboard-plug-bluetooth 2.3.6: Switchboard plug to setup bluetooth devices
 pantheon-base/switchboard-plug-datetime 2.2.0: Configure the date & time of the user
 pantheon-base/switchboard-plug-display 2.3.2: Switchboard plug to show displays information
-pantheon-base/switchboard-plug-keyboard 2.6.0: Adjust keyboard settings from Switchboard
+pantheon-base/switchboard-plug-keyboard 2.7.0: Adjust keyboard settings from Switchboard
 pantheon-base/switchboard-plug-locale 2.5.6: Adjust Locale settings using Switchboard.
 pantheon-base/switchboard-plug-mouse-touchpad 6.1.0: Mouse and touchpad settings
 pantheon-base/switchboard-plug-network 2.4.2: Configure all available networks
 pantheon-base/switchboard-plug-notifications 2.2.0: Configure which apps should be allowed to show notifications
-pantheon-base/switchboard-plug-onlineaccounts 6.3.0: Switchboard plug for Online Accounts management
+pantheon-base/switchboard-plug-onlineaccounts 6.4.0: Switchboard plug for Online Accounts management
 pantheon-base/switchboard-plug-pantheon-shell 6.1.0: Configure the Pantheon desktop environment using Switchboard
 pantheon-base/switchboard-plug-parental-controls 6.0.0: An easy parental controls plug for Switchboard
 pantheon-base/switchboard-plug-power 2.6.0: Control system power consumption using Switchboard.
 pantheon-base/switchboard-plug-printers 2.1.10: A printers plug for Switchboard
 pantheon-base/switchboard-plug-security-privacy 2.3.0: Configure various aspects of the security of the system.
 pantheon-base/switchboard-plug-sharing 2.1.5: Switchboard Sharing Plug
-pantheon-base/switchboard-plug-sound 2.3.0: Switchboard Sound Plug
+pantheon-base/switchboard-plug-sound 2.3.1: Switchboard Sound Plug
 pantheon-base/switchboard-plug-useraccounts 2.4.2: Switchboard User Accounts Plug.
 pantheon-base/switchboard-plug-wacom 1.0.0: Wacom settings
 pantheon-base/wingpanel 3.0.2-r1: Stylish top panel that holds indicators and spawns an application launcher
@@ -65,11 +65,11 @@ pantheon-extra/shortcut-overlay 1.2.1-r1: A native OS-wide shortcut overlay to b
 virtual/freedesktop-icon-theme 0-r4: Virtual to choose between different icon themes
 virtual/notification-daemon 0: Virtual for notification daemon dbus service
 x11-libs/bamf 0.5.5: BAMF Application Matching Framework
-x11-misc/pantheon-notification-daemon 6.0.0: Gtk notification server for Pantheon
+x11-misc/pantheon-notification-daemon 6.0.1: Gtk notification server for Pantheon
 x11-misc/plank 0.11.89: Elegant, simple, clean dock
 x11-terms/pantheon-terminal 6.0.1-r1: The terminal of the 21st century
 x11-themes/elementary-icons-theme 6.1.0: An original set of vector icons designed specifically for elementary OS
 x11-themes/elementary-sound-theme 1.1.0: A set of system sounds for elementary OS
 x11-themes/elementary-theme 6.1.1: The Gtk+ Stylesheet for elementary OS
 x11-themes/elementary-wallpapers 6.1.0: Wallpapers for elementary OS
-x11-wm/gala 6.3.0-r2: Pantheon's Window Manager
+x11-wm/gala 6.3.1: Pantheon's Window Manager
