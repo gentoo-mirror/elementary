@@ -70,6 +70,6 @@ x11-misc/plank 0.11.89: Elegant, simple, clean dock
 x11-terms/pantheon-terminal 6.0.1-r1: The terminal of the 21st century
 x11-themes/elementary-icons-theme 6.1.0: An original set of vector icons designed specifically for elementary OS
 x11-themes/elementary-sound-theme 1.1.0: A set of system sounds for elementary OS
-x11-themes/elementary-theme 6.1.1: The Gtk+ Stylesheet for elementary OS
+x11-themes/elementary-theme 7.0.0: The Gtk+ Stylesheet for elementary OS
 x11-themes/elementary-wallpapers 6.1.0: Wallpapers for elementary OS
 x11-wm/gala 6.3.1: Pantheon's Window Manager
