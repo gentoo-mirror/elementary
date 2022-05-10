@@ -8,7 +8,7 @@ gnome-extra/zeitgeist 1.0.3: Service to log activities and present to other apps
 media-fonts/inter 3.19: The Inter font family
 pantheon-base/applications-menu 2.10.2: A lightweight and stylish app launcher for Pantheon and other DEs
 pantheon-base/pantheon-files 6.1.2-r1: A simple, powerful, sexy file manager for the Pantheon desktop
-pantheon-base/pantheon-greeter 6.0.2: LightDM Greeter for Pantheon
+pantheon-base/pantheon-greeter 6.1.0: LightDM Greeter for Pantheon
 pantheon-base/pantheon-meta 6.0.0-r1: Pantheon DE meta package
 pantheon-base/pantheon-settings 6.0.2: Default settings for the Pantheon Desktop Environment
 pantheon-base/pantheon-settings-daemon 1.1.0-r1: Pantheon settings daemon
@@ -20,7 +20,7 @@ pantheon-base/switchboard-plug-applications 6.0.1: Application configuration man
 pantheon-base/switchboard-plug-bluetooth 2.3.6: Switchboard plug to setup bluetooth devices
 pantheon-base/switchboard-plug-datetime 2.2.0: Configure the date & time of the user
 pantheon-base/switchboard-plug-display 2.3.2: Switchboard plug to show displays information
-pantheon-base/switchboard-plug-keyboard 2.7.0: Adjust keyboard settings from Switchboard
+pantheon-base/switchboard-plug-keyboard 3.0.0: Adjust keyboard settings from Switchboard
 pantheon-base/switchboard-plug-locale 2.5.6: Adjust Locale settings using Switchboard.
 pantheon-base/switchboard-plug-mouse-touchpad 6.1.0: Mouse and touchpad settings
 pantheon-base/switchboard-plug-network 2.4.2: Configure all available networks
