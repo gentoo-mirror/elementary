@@ -30,7 +30,7 @@ pantheon-base/switchboard-plug-pantheon-shell 6.1.0: Configure the Pantheon desk
 pantheon-base/switchboard-plug-parental-controls 6.0.0: An easy parental controls plug for Switchboard
 pantheon-base/switchboard-plug-power 2.7.0: Control system power consumption using Switchboard.
 pantheon-base/switchboard-plug-printers 2.1.10: A printers plug for Switchboard
-pantheon-base/switchboard-plug-security-privacy 2.3.0: Configure various aspects of the security of the system.
+pantheon-base/switchboard-plug-security-privacy 2.4.0: Configure various aspects of the security of the system.
 pantheon-base/switchboard-plug-sharing 2.1.5: Switchboard Sharing Plug
 pantheon-base/switchboard-plug-sound 2.3.1: Switchboard Sound Plug
 pantheon-base/switchboard-plug-useraccounts 2.4.2: Switchboard User Accounts Plug.
