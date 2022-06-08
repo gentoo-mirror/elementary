@@ -52,7 +52,7 @@ pantheon-extra/pantheon-agent-geoclue2 1.0.5: Location services agent
 pantheon-extra/pantheon-agent-polkit 1.0.5: Pantheon Polkit Agent
 pantheon-extra/pantheon-calculator 2.0.0: A tiny, simple calculator written in GTK+ and Vala
 pantheon-extra/pantheon-calendar 6.1.1: Desktop calendar app designed for elementary OS
-pantheon-extra/pantheon-camera 6.0.3-r1: The camera app designed for elementary OS
+pantheon-extra/pantheon-camera 6.1.0: The camera app designed for elementary OS
 pantheon-extra/pantheon-capnet-assist 2.4.2: Captive Network Assistant
 pantheon-extra/pantheon-mail 7.0.0: Elementary OS mail reader
 pantheon-extra/pantheon-music 7.0.0: Elementary OS music player
