@@ -13,7 +13,7 @@ pantheon-base/pantheon-meta 6.0.0-r1: Pantheon DE meta package
 pantheon-base/pantheon-settings 6.0.2: Default settings for the Pantheon Desktop Environment
 pantheon-base/pantheon-settings-daemon 1.2.0: Pantheon settings daemon
 pantheon-base/pantheon-shell 6.0.0-r1: Pantheon DE shell
-pantheon-base/switchboard 6.0.1: Modular desktop settings hub
+pantheon-base/switchboard 6.0.2: Modular desktop settings hub
 pantheon-base/switchboard-plug-a11y 2.3.0: Switchboard Universal Access Plug
 pantheon-base/switchboard-plug-about 6.1.0: Switchboard plug to show system information
 pantheon-base/switchboard-plug-applications 6.0.1: Application configuration management
@@ -58,7 +58,7 @@ pantheon-extra/pantheon-mail 7.0.0: Elementary OS mail reader
 pantheon-extra/pantheon-music 7.0.0: Elementary OS music player
 pantheon-extra/pantheon-photos 2.7.5: Photo viewer and organizer designed for elementary OS
 pantheon-extra/pantheon-screenshot 6.0.2-r1: Elementary Screenshot Tool
-pantheon-extra/pantheon-tasks 6.2.0: Elementary OS tasks and reminders
+pantheon-extra/pantheon-tasks 6.3.0: Elementary OS tasks and reminders
 pantheon-extra/pantheon-tweaks 1.0.3: A system settings panel for the Pantheon DE
 pantheon-extra/pantheon-videos 2.8.4: Video player and library app designed for elementary OS
 pantheon-extra/shortcut-overlay 2.0.0: A native OS-wide shortcut overlay to be launched by Gala
