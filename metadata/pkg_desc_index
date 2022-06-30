@@ -7,7 +7,7 @@ dev-libs/malcontent 0.10.1-r1: Parental controls support library
 gnome-extra/zeitgeist 1.0.3: Service to log activities and present to other apps
 media-fonts/inter 3.19: The Inter font family
 pantheon-base/applications-menu 2.10.2: A lightweight and stylish app launcher for Pantheon and other DEs
-pantheon-base/pantheon-files 6.1.2-r1: A simple, powerful, sexy file manager for the Pantheon desktop
+pantheon-base/pantheon-files 6.1.3: A simple, powerful, sexy file manager for the Pantheon desktop
 pantheon-base/pantheon-greeter 6.1.0: LightDM Greeter for Pantheon
 pantheon-base/pantheon-meta 6.0.0-r1: Pantheon DE meta package
 pantheon-base/pantheon-settings 6.0.2: Default settings for the Pantheon Desktop Environment
@@ -29,7 +29,7 @@ pantheon-base/switchboard-plug-onlineaccounts 6.5.0: Switchboard plug for Online
 pantheon-base/switchboard-plug-pantheon-shell 6.1.0: Configure the Pantheon desktop environment using Switchboard
 pantheon-base/switchboard-plug-parental-controls 6.0.0: An easy parental controls plug for Switchboard
 pantheon-base/switchboard-plug-power 2.7.0: Control system power consumption using Switchboard.
-pantheon-base/switchboard-plug-printers 2.1.10: A printers plug for Switchboard
+pantheon-base/switchboard-plug-printers 2.2.0: A printers plug for Switchboard
 pantheon-base/switchboard-plug-security-privacy 2.4.0: Configure various aspects of the security of the system.
 pantheon-base/switchboard-plug-sharing 2.1.5: Switchboard Sharing Plug
 pantheon-base/switchboard-plug-sound 2.3.1: Switchboard Sound Plug
