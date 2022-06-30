@@ -1,6 +1,6 @@
 app-accessibility/onboard 1.4.1: Onscreen keyboard for everybody who can't use a hardware keyboard
 app-editors/pantheon-code 6.2.0: Code editor designed for elementary OS
-dev-libs/appstream 0.14.6: Cross-distro effort for providing metadata for software in the Linux ecosystem
+dev-libs/appstream 0.14.6 0.15.4: Cross-distro effort for providing metadata for software in the Linux ecosystem
 dev-libs/granite 6.2.0 7.0.0: Elementary OS library that extends Gtk+
 dev-libs/libcloudproviders 0.3.1: Cloudproviders integration API
 dev-libs/malcontent 0.10.1-r1: Parental controls support library
@@ -64,7 +64,7 @@ pantheon-extra/pantheon-videos 2.8.4: Video player and library app designed for 
 pantheon-extra/shortcut-overlay 2.0.0: A native OS-wide shortcut overlay to be launched by Gala
 virtual/freedesktop-icon-theme 0-r4: Virtual to choose between different icon themes
 virtual/notification-daemon 0: Virtual for notification daemon dbus service
-x11-libs/bamf 0.5.5: BAMF Application Matching Framework
+x11-libs/bamf 0.5.5 0.5.6: BAMF Application Matching Framework
 x11-misc/pantheon-notification-daemon 6.0.2: Gtk notification server for Pantheon
 x11-misc/plank 0.11.89: Elegant, simple, clean dock
 x11-terms/pantheon-terminal 6.0.1-r1: The terminal of the 21st century
