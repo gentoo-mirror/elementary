@@ -3,8 +3,8 @@ app-editors/pantheon-code 6.2.0: Code editor designed for elementary OS
 dev-libs/appstream 0.14.6 0.15.4: Cross-distro effort for providing metadata for software in the Linux ecosystem
 dev-libs/granite 6.2.0 7.0.0: Elementary OS library that extends Gtk+
 dev-libs/libcloudproviders 0.3.1: Cloudproviders integration API
-dev-libs/malcontent 0.10.1-r1: Parental controls support library
-gnome-extra/zeitgeist 1.0.3: Service to log activities and present to other apps
+dev-libs/malcontent 0.10.1-r1 0.10.5: Parental controls support library
+gnome-extra/zeitgeist 1.0.3 1.0.4: Service to log activities and present to other apps
 media-fonts/inter 3.19: The Inter font family
 pantheon-base/applications-menu 2.10.2: A lightweight and stylish app launcher for Pantheon and other DEs
 pantheon-base/pantheon-files 6.1.3: A simple, powerful, sexy file manager for the Pantheon desktop
