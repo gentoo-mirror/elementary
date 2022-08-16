@@ -14,3 +14,5 @@ pantheon-base/wingpanel:keyboard - Include the keyboard indicator
 pantheon-base/wingpanel:network - Include the network indicator
 pantheon-base/wingpanel:power - Include the power indicator
 pantheon-base/wingpanel:sound - Include the sound indicator
+x11-misc/lightdm:gtk - Pull in the gtk+ greeter
+x11-misc/lightdm:non-root - Use non-root user by default
