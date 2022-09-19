@@ -12,7 +12,7 @@ SRC_URI="https://github.com/elementary/wingpanel/archive/${PV}.tar.gz -> ${P}.ta
 LICENSE="GPL-3"
 SLOT="0"
 KEYWORDS="amd64"
-IUSE="example"
+IUSE="examples"
 
 RDEPEND="
 	>=dev-libs/glib-2.40:2
@@ -28,9 +28,9 @@ DEPEND="${RDEPEND}
 "
 
 src_prepare() {
-	eapply ${FILESDIR}/434.patch
-	eapply ${FILESDIR}/435.patch
-	eapply ${FILESDIR}/453.patch
+	eapply "${FILESDIR}/434.patch"
+	eapply "${FILESDIR}/435.patch"
+	eapply "${FILESDIR}/453.patch"
 
 	eapply_user
 	vala_setup
@@ -38,8 +38,7 @@ src_prepare() {
 
 src_configure() {
 	local emesonargs=(
-		-Dexample=$(usex example true false)
+		-Dexample=$(usex examples true false)
 	)
 	meson_src_configure
 }
-
