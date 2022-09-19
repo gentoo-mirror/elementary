@@ -4,7 +4,6 @@
 
 dev-libs/appstream:apt - Enables Debians APT support
 dev-libs/appstream:vala - Enables Vala support
-dev-libs/granite:demo - Build the Granite demo application (to present all available UI features provided by the library)
 pantheon-base/pantheon-files:gvfs - Pull in gnome-base/gvfs to enable various virtual filesystems
 pantheon-base/pantheon-shell:lightdm - Install and use the Pantheon greeter for LightDM.
 pantheon-base/pantheon-shell:screensaver - Install a screensaver
