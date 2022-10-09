@@ -69,7 +69,7 @@ x11-misc/lightdm 1.32.0: A lightweight display manager
 x11-misc/pantheon-notification-daemon 6.0.2: Gtk notification server for Pantheon
 x11-misc/plank 0.11.89: Elegant, simple, clean dock
 x11-terms/pantheon-terminal 6.1.0: The terminal of the 21st century
-x11-themes/elementary-icons-theme 7.0.0: An original set of vector icons designed specifically for elementary OS
+x11-themes/elementary-icons-theme 7.1.0: An original set of vector icons designed specifically for elementary OS
 x11-themes/elementary-sound-theme 1.1.0: A set of system sounds for elementary OS
 x11-themes/elementary-theme 7.0.0: The Gtk+ Stylesheet for elementary OS
 x11-themes/elementary-wallpapers 6.1.0: Wallpapers for elementary OS
