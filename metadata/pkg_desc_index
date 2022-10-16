@@ -1,7 +1,7 @@
 app-accessibility/onboard 1.4.1: Onscreen keyboard for everybody who can't use a hardware keyboard
 app-editors/pantheon-code 6.2.0: Code editor designed for elementary OS
 dev-libs/appstream 0.14.6 0.15.5: Cross-distro effort for providing metadata for software in the Linux ecosystem
-dev-libs/granite 6.2.0 7.0.0: Elementary OS library that extends GTK+
+dev-libs/granite 6.2.0 7.1.0: Elementary OS library that extends GTK+
 dev-libs/libcloudproviders 0.3.1: Cloudproviders integration API
 dev-libs/malcontent 0.10.5: Parental controls support library
 gnome-extra/zeitgeist 1.0.4: Service to log activities and present to other apps
@@ -71,6 +71,6 @@ x11-misc/plank 0.11.89: Elegant, simple, clean dock
 x11-terms/pantheon-terminal 6.1.0: The terminal of the 21st century
 x11-themes/elementary-icons-theme 7.1.0: An original set of vector icons designed specifically for elementary OS
 x11-themes/elementary-sound-theme 1.1.0: A set of system sounds for elementary OS
-x11-themes/elementary-theme 7.0.0: The Gtk+ Stylesheet for elementary OS
+x11-themes/elementary-theme 7.0.1: The Gtk+ Stylesheet for elementary OS
 x11-themes/elementary-wallpapers 6.1.0: Wallpapers for elementary OS
-x11-wm/gala 6.3.1 9999: Pantheon's Window Manager
+x11-wm/gala 6.3.2 9999: Pantheon's Window Manager
