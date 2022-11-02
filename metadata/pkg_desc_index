@@ -7,6 +7,7 @@ dev-libs/malcontent 0.10.5: Parental controls support library
 gnome-extra/zeitgeist 1.0.4: Service to log activities and present to other apps
 media-fonts/inter 3.19: The Inter font family
 pantheon-base/applications-menu 2.10.2 9999: A lightweight and stylish app launcher for Pantheon and other DEs
+pantheon-base/pantheon-dock 9999: A quick app launcher and window switcher for Pantheon
 pantheon-base/pantheon-files 6.1.3: A simple, powerful, sexy file manager for the Pantheon desktop
 pantheon-base/pantheon-greeter 6.1.0: LightDM Greeter for Pantheon
 pantheon-base/pantheon-meta 6.0.0-r1: Pantheon DE meta package
