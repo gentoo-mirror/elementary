@@ -4,5 +4,3 @@
 
 dev-libs/appstream:apt - Enables Debians APT support
 dev-libs/appstream:vala - Enables Vala support
-x11-misc/lightdm:gtk - Pull in the gtk+ greeter
-x11-misc/lightdm:non-root - Use non-root user by default
