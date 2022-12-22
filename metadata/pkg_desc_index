@@ -26,7 +26,7 @@ pantheon-base/switchboard-plug-locale 2.5.8: Adjust Locale settings using Switch
 pantheon-base/switchboard-plug-mouse-touchpad 7.0.0: Mouse and touchpad settings
 pantheon-base/switchboard-plug-network 2.4.4: Configure all available networks
 pantheon-base/switchboard-plug-notifications 2.2.0: Configure which apps should be allowed to show notifications
-pantheon-base/switchboard-plug-onlineaccounts 6.5.1: Switchboard plug for Online Accounts management
+pantheon-base/switchboard-plug-onlineaccounts 6.5.1-r1: Switchboard plug for Online Accounts management
 pantheon-base/switchboard-plug-pantheon-shell 6.3.1: Configure the Pantheon desktop environment using Switchboard
 pantheon-base/switchboard-plug-parental-controls 6.0.1: An easy parental controls plug for Switchboard
 pantheon-base/switchboard-plug-power 2.7.0: Control system power consumption using Switchboard.
