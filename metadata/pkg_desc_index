@@ -21,7 +21,7 @@ pantheon-base/switchboard-plug-applications 6.0.1: Application configuration man
 pantheon-base/switchboard-plug-bluetooth 2.3.6: Switchboard plug to setup bluetooth devices
 pantheon-base/switchboard-plug-datetime 2.2.0: Configure the date & time of the user
 pantheon-base/switchboard-plug-display 2.3.3: Switchboard plug to show displays information
-pantheon-base/switchboard-plug-keyboard 3.1.0: Adjust keyboard settings from Switchboard
+pantheon-base/switchboard-plug-keyboard 3.1.1: Adjust keyboard settings from Switchboard
 pantheon-base/switchboard-plug-locale 2.5.8: Adjust Locale settings using Switchboard.
 pantheon-base/switchboard-plug-mouse-touchpad 7.0.0: Mouse and touchpad settings
 pantheon-base/switchboard-plug-network 2.4.4: Configure all available networks
@@ -74,5 +74,5 @@ x11-terms/pantheon-terminal 6.1.1: The terminal of the 21st century
 x11-themes/elementary-icons-theme 7.1.0: An original set of vector icons designed specifically for elementary OS
 x11-themes/elementary-sound-theme 1.1.0: A set of system sounds for elementary OS
 x11-themes/elementary-theme 7.0.1: The Gtk+ Stylesheet for elementary OS
-x11-themes/elementary-wallpapers 6.1.0: Wallpapers for elementary OS
-x11-wm/gala 6.3.3 9999: Pantheon's Window Manager
+x11-themes/elementary-wallpapers 7.0.0: Wallpapers for elementary OS
+x11-wm/gala 7.0.0 9999: Pantheon's Window Manager
