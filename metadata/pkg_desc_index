@@ -1,5 +1,5 @@
 app-accessibility/onboard 1.4.1: Onscreen keyboard for everybody who can't use a hardware keyboard
-app-editors/pantheon-code 6.2.0: Code editor designed for elementary OS
+app-editors/pantheon-code 7.0.0: Code editor designed for elementary OS
 dev-libs/appstream 0.15.5 0.15.6: Cross-distro effort for providing metadata for software in the Linux ecosystem
 dev-libs/granite 6.2.0 7.1.0: Elementary OS library that extends GTK+
 dev-libs/libcloudproviders 0.3.1: Cloudproviders integration API
@@ -8,7 +8,7 @@ gnome-extra/zeitgeist 1.0.4: Service to log activities and present to other apps
 media-fonts/inter 3.19: The Inter font family
 pantheon-base/applications-menu 2.11.1 9999: A lightweight and stylish app launcher for Pantheon and other DEs
 pantheon-base/pantheon-dock 9999: A quick app launcher and window switcher for Pantheon
-pantheon-base/pantheon-files 6.2.1: A simple, powerful, sexy file manager for the Pantheon desktop
+pantheon-base/pantheon-files 6.2.2: A simple, powerful, sexy file manager for the Pantheon desktop
 pantheon-base/pantheon-greeter 6.1.1: LightDM Greeter for Pantheon
 pantheon-base/pantheon-meta 6.0.0-r1: Pantheon DE meta package
 pantheon-base/pantheon-settings 7.0.1: Default settings for the Pantheon Desktop Environment
@@ -53,10 +53,10 @@ pantheon-extra/contractor 0.3.5: A desktop-wide extension service
 pantheon-extra/pantheon-agent-geoclue2 1.0.6: Location services agent
 pantheon-extra/pantheon-agent-polkit 1.0.5: Pantheon Polkit Agent
 pantheon-extra/pantheon-calculator 2.0.1: A tiny, simple calculator written in GTK+ and Vala
-pantheon-extra/pantheon-calendar 6.1.2: Desktop calendar app designed for elementary OS
+pantheon-extra/pantheon-calendar 6.1.2-r1: Desktop calendar app designed for elementary OS
 pantheon-extra/pantheon-camera 6.2.1: The camera app designed for elementary OS
 pantheon-extra/pantheon-capnet-assist 2.4.3: Captive Network Assistant
-pantheon-extra/pantheon-mail 7.0.0: Elementary OS mail reader
+pantheon-extra/pantheon-mail 7.0.0-r1: Elementary OS mail reader
 pantheon-extra/pantheon-music 7.0.1: Elementary OS music player
 pantheon-extra/pantheon-photos 2.8.0: Photo viewer and organizer designed for elementary OS
 pantheon-extra/pantheon-screenshot 6.0.3: Elementary Screenshot Tool
@@ -71,7 +71,7 @@ x11-libs/bamf 0.5.6: BAMF Application Matching Framework
 x11-misc/pantheon-notification-daemon 6.0.3: Gtk notification server for Pantheon
 x11-misc/plank 0.11.89: Elegant, simple, clean dock
 x11-terms/pantheon-terminal 6.1.1: The terminal of the 21st century
-x11-themes/elementary-icons-theme 7.1.0: An original set of vector icons designed specifically for elementary OS
+x11-themes/elementary-icons-theme 7.2.0: An original set of vector icons designed specifically for elementary OS
 x11-themes/elementary-sound-theme 1.1.0: A set of system sounds for elementary OS
 x11-themes/elementary-theme 7.0.1: The Gtk+ Stylesheet for elementary OS
 x11-themes/elementary-wallpapers 7.0.0: Wallpapers for elementary OS
