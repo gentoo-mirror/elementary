@@ -10,7 +10,7 @@ pantheon-base/applications-menu 2.11.1 9999: A lightweight and stylish app launc
 pantheon-base/pantheon-dock 9999: A quick app launcher and window switcher for Pantheon
 pantheon-base/pantheon-files 6.2.2: A simple, powerful, sexy file manager for the Pantheon desktop
 pantheon-base/pantheon-greeter 6.1.1: LightDM Greeter for Pantheon
-pantheon-base/pantheon-meta 6.0.0-r1: Pantheon DE meta package
+pantheon-base/pantheon-meta 6.0.0-r2: Pantheon DE meta package
 pantheon-base/pantheon-settings 7.0.1: Default settings for the Pantheon Desktop Environment
 pantheon-base/pantheon-settings-daemon 1.2.0: Pantheon settings daemon
 pantheon-base/pantheon-shell 6.0.0-r1: Pantheon DE shell
