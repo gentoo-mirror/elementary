@@ -41,7 +41,7 @@ pantheon-base/wingpanel-indicator-a11y 1.0.1: Wingpanel Universal Access Indicat
 pantheon-base/wingpanel-indicator-bluetooth 2.1.8: Bluetooth indicator for Wingpanel
 pantheon-base/wingpanel-indicator-datetime 2.4.1: Date & Time indicator for Wingpanel
 pantheon-base/wingpanel-indicator-keyboard 2.4.1: Keyboard indicator for Wingpanel
-pantheon-base/wingpanel-indicator-network 7.0.0: Network indicator for Wingpanel
+pantheon-base/wingpanel-indicator-network 7.0.1: Network indicator for Wingpanel
 pantheon-base/wingpanel-indicator-nightlight 2.1.1: Nightlight indicator for Wingpanel
 pantheon-base/wingpanel-indicator-notifications 6.0.7: Notifications indicator for Wingpanel
 pantheon-base/wingpanel-indicator-power 6.1.0: Power indicator for Wingpanel
