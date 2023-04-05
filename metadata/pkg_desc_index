@@ -8,7 +8,7 @@ gnome-extra/zeitgeist 1.0.4: Service to log activities and present to other apps
 media-fonts/inter 3.19: The Inter font family
 pantheon-base/applications-menu 2.11.1 9999: A lightweight and stylish app launcher for Pantheon and other DEs
 pantheon-base/pantheon-dock 9999: A quick app launcher and window switcher for Pantheon
-pantheon-base/pantheon-files 6.3.0: A simple, powerful, sexy file manager for the Pantheon desktop
+pantheon-base/pantheon-files 6.3.1: A simple, powerful, sexy file manager for the Pantheon desktop
 pantheon-base/pantheon-greeter 6.1.1: LightDM Greeter for Pantheon
 pantheon-base/pantheon-meta 6.0.0-r2: Pantheon DE meta package
 pantheon-base/pantheon-settings 7.0.1: Default settings for the Pantheon Desktop Environment
@@ -26,7 +26,7 @@ pantheon-base/switchboard-plug-locale 2.5.8: Adjust Locale settings using Switch
 pantheon-base/switchboard-plug-mouse-touchpad 7.0.0: Mouse and touchpad settings
 pantheon-base/switchboard-plug-network 2.4.4: Configure all available networks
 pantheon-base/switchboard-plug-notifications 2.2.0: Configure which apps should be allowed to show notifications
-pantheon-base/switchboard-plug-onlineaccounts 6.5.1-r1: Switchboard plug for Online Accounts management
+pantheon-base/switchboard-plug-onlineaccounts 6.5.2: Switchboard plug for Online Accounts management
 pantheon-base/switchboard-plug-pantheon-shell 6.3.1: Configure the Pantheon desktop environment using Switchboard
 pantheon-base/switchboard-plug-parental-controls 6.0.1: An easy parental controls plug for Switchboard
 pantheon-base/switchboard-plug-power 2.7.0: Control system power consumption using Switchboard.
@@ -70,9 +70,9 @@ virtual/notification-daemon 0: Virtual for notification daemon dbus service
 x11-libs/bamf 0.5.6: BAMF Application Matching Framework
 x11-misc/pantheon-notification-daemon 6.0.3: Gtk notification server for Pantheon
 x11-misc/plank 0.11.89: Elegant, simple, clean dock
-x11-terms/pantheon-terminal 6.1.1: The terminal of the 21st century
+x11-terms/pantheon-terminal 6.1.2: The terminal of the 21st century
 x11-themes/elementary-icons-theme 7.2.0: An original set of vector icons designed specifically for elementary OS
 x11-themes/elementary-sound-theme 1.1.0: A set of system sounds for elementary OS
 x11-themes/elementary-theme 7.0.1: The Gtk+ Stylesheet for elementary OS
 x11-themes/elementary-wallpapers 7.0.0: Wallpapers for elementary OS
-x11-wm/gala 7.0.1 9999: Pantheon's Window Manager
+x11-wm/gala 7.0.2 9999: Pantheon's Window Manager
