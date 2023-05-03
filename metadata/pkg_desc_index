@@ -27,7 +27,7 @@ pantheon-base/switchboard-plug-mouse-touchpad 7.0.0: Mouse and touchpad settings
 pantheon-base/switchboard-plug-network 2.4.4: Configure all available networks
 pantheon-base/switchboard-plug-notifications 2.2.0: Configure which apps should be allowed to show notifications
 pantheon-base/switchboard-plug-onlineaccounts 6.5.2: Switchboard plug for Online Accounts management
-pantheon-base/switchboard-plug-pantheon-shell 6.3.1: Configure the Pantheon desktop environment using Switchboard
+pantheon-base/switchboard-plug-pantheon-shell 6.4.0: Configure the Pantheon desktop environment using Switchboard
 pantheon-base/switchboard-plug-parental-controls 6.0.1: An easy parental controls plug for Switchboard
 pantheon-base/switchboard-plug-power 2.7.0: Control system power consumption using Switchboard.
 pantheon-base/switchboard-plug-printers 2.2.1: A printers plug for Switchboard
@@ -56,7 +56,7 @@ pantheon-extra/pantheon-calculator 2.0.1: A tiny, simple calculator written in G
 pantheon-extra/pantheon-calendar 6.1.2-r2: Desktop calendar app designed for elementary OS
 pantheon-extra/pantheon-camera 6.2.1: The camera app designed for elementary OS
 pantheon-extra/pantheon-capnet-assist 2.4.3: Captive Network Assistant
-pantheon-extra/pantheon-mail 7.0.1: Elementary OS mail reader
+pantheon-extra/pantheon-mail 7.1.0: Elementary OS mail reader
 pantheon-extra/pantheon-music 7.0.1: Elementary OS music player
 pantheon-extra/pantheon-photos 2.8.0: Photo viewer and organizer designed for elementary OS
 pantheon-extra/pantheon-screenshot 6.0.3: Elementary Screenshot Tool
@@ -71,8 +71,8 @@ x11-libs/bamf 0.5.6: BAMF Application Matching Framework
 x11-misc/pantheon-notification-daemon 6.0.3: Gtk notification server for Pantheon
 x11-misc/plank 0.11.89: Elegant, simple, clean dock
 x11-terms/pantheon-terminal 6.1.2: The terminal of the 21st century
-x11-themes/elementary-icons-theme 7.2.0: An original set of vector icons designed specifically for elementary OS
+x11-themes/elementary-icons-theme 7.3.0: An original set of vector icons designed specifically for elementary OS
 x11-themes/elementary-sound-theme 1.1.0: A set of system sounds for elementary OS
 x11-themes/elementary-theme 7.2.0: The Gtk+ Stylesheet for elementary OS
 x11-themes/elementary-wallpapers 7.0.0: Wallpapers for elementary OS
-x11-wm/gala 7.0.2 9999: Pantheon's Window Manager
+x11-wm/gala 7.0.3 9999: Pantheon's Window Manager
