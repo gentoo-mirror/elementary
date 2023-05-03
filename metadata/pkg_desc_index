@@ -22,7 +22,7 @@ pantheon-base/switchboard-plug-bluetooth 2.3.6: Switchboard plug to setup blueto
 pantheon-base/switchboard-plug-datetime 2.2.0: Configure the date & time of the user
 pantheon-base/switchboard-plug-display 2.3.3: Switchboard plug to show displays information
 pantheon-base/switchboard-plug-keyboard 3.1.1: Adjust keyboard settings from Switchboard
-pantheon-base/switchboard-plug-locale 2.5.8: Adjust Locale settings using Switchboard.
+pantheon-base/switchboard-plug-locale 2.5.9: Adjust Locale settings using Switchboard.
 pantheon-base/switchboard-plug-mouse-touchpad 7.0.0: Mouse and touchpad settings
 pantheon-base/switchboard-plug-network 2.4.4: Configure all available networks
 pantheon-base/switchboard-plug-notifications 2.2.0: Configure which apps should be allowed to show notifications
