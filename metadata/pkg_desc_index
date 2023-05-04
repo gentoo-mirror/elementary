@@ -9,7 +9,7 @@ media-fonts/inter 3.19: The Inter font family
 pantheon-base/applications-menu 2.11.1 9999: A lightweight and stylish app launcher for Pantheon and other DEs
 pantheon-base/pantheon-dock 9999: A quick app launcher and window switcher for Pantheon
 pantheon-base/pantheon-files 6.3.1: A simple, powerful, sexy file manager for the Pantheon desktop
-pantheon-base/pantheon-greeter 6.1.1: LightDM Greeter for Pantheon
+pantheon-base/pantheon-greeter 6.1.1-r1: LightDM Greeter for Pantheon
 pantheon-base/pantheon-meta 6.0.0-r2: Pantheon DE meta package
 pantheon-base/pantheon-settings 7.0.1: Default settings for the Pantheon Desktop Environment
 pantheon-base/pantheon-settings-daemon 1.2.0: Pantheon settings daemon
@@ -36,7 +36,7 @@ pantheon-base/switchboard-plug-sharing 2.1.6: Switchboard Sharing Plug
 pantheon-base/switchboard-plug-sound 2.3.2: Switchboard Sound Plug
 pantheon-base/switchboard-plug-useraccounts 2.4.3: Switchboard User Accounts Plug.
 pantheon-base/switchboard-plug-wacom 1.0.1: Wacom settings
-pantheon-base/wingpanel 3.0.3 9999: Stylish top panel that holds indicators and spawns an application launcher
+pantheon-base/wingpanel 3.0.3-r1 9999: Stylish top panel that holds indicators and spawns an application launcher
 pantheon-base/wingpanel-indicator-a11y 1.0.1: Wingpanel Universal Access Indicator
 pantheon-base/wingpanel-indicator-bluetooth 2.1.8: Bluetooth indicator for Wingpanel
 pantheon-base/wingpanel-indicator-datetime 2.4.1: Date & Time indicator for Wingpanel
