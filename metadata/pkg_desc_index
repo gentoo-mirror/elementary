@@ -11,7 +11,7 @@ pantheon-base/pantheon-dock 9999: A quick app launcher and window switcher for P
 pantheon-base/pantheon-files 6.3.1: A simple, powerful, sexy file manager for the Pantheon desktop
 pantheon-base/pantheon-greeter 6.1.1-r1: LightDM Greeter for Pantheon
 pantheon-base/pantheon-meta 6.0.0-r2: Pantheon DE meta package
-pantheon-base/pantheon-settings 7.0.1: Default settings for the Pantheon Desktop Environment
+pantheon-base/pantheon-settings 7.0.2: Default settings for the Pantheon Desktop Environment
 pantheon-base/pantheon-settings-daemon 1.2.0: Pantheon settings daemon
 pantheon-base/pantheon-shell 6.0.0-r1: Pantheon DE shell
 pantheon-base/switchboard 6.0.2: Modular desktop settings hub
@@ -31,7 +31,7 @@ pantheon-base/switchboard-plug-pantheon-shell 6.4.0: Configure the Pantheon desk
 pantheon-base/switchboard-plug-parental-controls 6.0.1: An easy parental controls plug for Switchboard
 pantheon-base/switchboard-plug-power 2.7.0: Control system power consumption using Switchboard.
 pantheon-base/switchboard-plug-printers 2.2.1: A printers plug for Switchboard
-pantheon-base/switchboard-plug-security-privacy 2.4.1: Configure various aspects of the security of the system.
+pantheon-base/switchboard-plug-security-privacy 7.0.0: Configure various aspects of the security of the system.
 pantheon-base/switchboard-plug-sharing 2.1.6: Switchboard Sharing Plug
 pantheon-base/switchboard-plug-sound 2.3.2: Switchboard Sound Plug
 pantheon-base/switchboard-plug-useraccounts 2.4.3: Switchboard User Accounts Plug.
@@ -62,7 +62,7 @@ pantheon-extra/pantheon-photos 2.8.0: Photo viewer and organizer designed for el
 pantheon-extra/pantheon-screenshot 6.0.4: Elementary Screenshot Tool
 pantheon-extra/pantheon-tasks 6.3.1: Elementary OS tasks and reminders
 pantheon-extra/pantheon-tweaks 1.0.4: A system settings panel for the Pantheon DE
-pantheon-extra/pantheon-videos 2.9.0: Video player and library app designed for elementary OS
+pantheon-extra/pantheon-videos 2.9.1: Video player and library app designed for elementary OS
 pantheon-extra/shortcut-overlay 2.0.1: A native OS-wide shortcut overlay to be launched by Gala
 sci-geosciences/geocode-glib 3.26.4-r1: GLib helper library for geocoding services
 sys-apps/xdg-desktop-portal-pantheon 7.0.0: Pantheon XDG Desktop Portals
