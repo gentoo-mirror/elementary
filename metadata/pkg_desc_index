@@ -1,7 +1,7 @@
 app-accessibility/onboard 1.4.1: Onscreen keyboard for everybody who can't use a hardware keyboard
 app-editors/pantheon-code 7.0.0: Code editor designed for elementary OS
 dev-libs/appstream 0.15.6: Cross-distro effort for providing metadata for software in the Linux ecosystem
-dev-libs/granite 7.2.0: Elementary OS library that extends GTK+
+dev-libs/granite 7.3.0: Elementary OS library that extends GTK+
 dev-libs/libcloudproviders 0.3.1: Cloudproviders integration API
 dev-libs/malcontent 0.10.5: Parental controls support library
 gnome-extra/zeitgeist 1.0.4: Service to log activities and present to other apps
