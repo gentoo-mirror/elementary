@@ -8,7 +8,7 @@ gnome-extra/zeitgeist 1.0.4: Service to log activities and present to other apps
 media-fonts/inter 3.19: The Inter font family
 pantheon-base/applications-menu 2.11.1 9999: A lightweight and stylish app launcher for Pantheon and other DEs
 pantheon-base/pantheon-dock 9999: A quick app launcher and window switcher for Pantheon
-pantheon-base/pantheon-files 6.3.1: A simple, powerful, sexy file manager for the Pantheon desktop
+pantheon-base/pantheon-files 6.4.0: A simple, powerful, sexy file manager for the Pantheon desktop
 pantheon-base/pantheon-greeter 6.1.1-r1: LightDM Greeter for Pantheon
 pantheon-base/pantheon-meta 6.0.0-r2: Pantheon DE meta package
 pantheon-base/pantheon-settings 7.0.2: Default settings for the Pantheon Desktop Environment
@@ -20,13 +20,13 @@ pantheon-base/switchboard-plug-about 6.2.0: Switchboard plug to show system info
 pantheon-base/switchboard-plug-applications 7.0.0: Application configuration management
 pantheon-base/switchboard-plug-bluetooth 2.3.6: Switchboard plug to setup bluetooth devices
 pantheon-base/switchboard-plug-datetime 2.2.0: Configure the date & time of the user
-pantheon-base/switchboard-plug-display 2.3.3: Switchboard plug to show displays information
+pantheon-base/switchboard-plug-display 2.3.3 7.0.0: Switchboard plug to show displays information
 pantheon-base/switchboard-plug-keyboard 3.1.1: Adjust keyboard settings from Switchboard
 pantheon-base/switchboard-plug-locale 2.5.9: Adjust Locale settings using Switchboard.
 pantheon-base/switchboard-plug-mouse-touchpad 7.0.0: Mouse and touchpad settings
 pantheon-base/switchboard-plug-network 2.4.4: Configure all available networks
 pantheon-base/switchboard-plug-notifications 2.2.0: Configure which apps should be allowed to show notifications
-pantheon-base/switchboard-plug-onlineaccounts 6.5.2: Switchboard plug for Online Accounts management
+pantheon-base/switchboard-plug-onlineaccounts 6.5.3: Switchboard plug for Online Accounts management
 pantheon-base/switchboard-plug-pantheon-shell 6.4.0: Configure the Pantheon desktop environment using Switchboard
 pantheon-base/switchboard-plug-parental-controls 6.0.1: An easy parental controls plug for Switchboard
 pantheon-base/switchboard-plug-power 2.7.0: Control system power consumption using Switchboard.
@@ -38,12 +38,12 @@ pantheon-base/switchboard-plug-useraccounts 2.4.3: Switchboard User Accounts Plu
 pantheon-base/switchboard-plug-wacom 1.0.1: Wacom settings
 pantheon-base/wingpanel 3.0.3-r1 9999: Stylish top panel that holds indicators and spawns an application launcher
 pantheon-base/wingpanel-indicator-a11y 1.0.1: Wingpanel Universal Access Indicator
-pantheon-base/wingpanel-indicator-bluetooth 2.1.8: Bluetooth indicator for Wingpanel
+pantheon-base/wingpanel-indicator-bluetooth 7.0.1: Bluetooth indicator for Wingpanel
 pantheon-base/wingpanel-indicator-datetime 2.4.1: Date & Time indicator for Wingpanel
 pantheon-base/wingpanel-indicator-keyboard 2.4.1: Keyboard indicator for Wingpanel
 pantheon-base/wingpanel-indicator-network 7.0.1: Network indicator for Wingpanel
-pantheon-base/wingpanel-indicator-nightlight 2.1.1: Nightlight indicator for Wingpanel
-pantheon-base/wingpanel-indicator-notifications 6.0.7: Notifications indicator for Wingpanel
+pantheon-base/wingpanel-indicator-nightlight 2.1.2: Nightlight indicator for Wingpanel
+pantheon-base/wingpanel-indicator-notifications 7.0.0: Notifications indicator for Wingpanel
 pantheon-base/wingpanel-indicator-power 6.1.0: Power indicator for Wingpanel
 pantheon-base/wingpanel-indicator-session 2.3.1: Session indicator for Wingpanel
 pantheon-base/wingpanel-indicator-sound 6.0.2: Sound indicator for Wingpanel
@@ -69,11 +69,11 @@ sys-apps/xdg-desktop-portal-pantheon 7.1.0: Pantheon XDG Desktop Portals
 virtual/freedesktop-icon-theme 0-r4: Virtual to choose between different icon themes
 virtual/notification-daemon 0: Virtual for notification daemon dbus service
 x11-libs/bamf 0.5.6: BAMF Application Matching Framework
-x11-misc/pantheon-notification-daemon 6.0.3: Gtk notification server for Pantheon
+x11-misc/pantheon-notification-daemon 7.0.0: Gtk notification server for Pantheon
 x11-misc/plank 0.11.89: Elegant, simple, clean dock
 x11-terms/pantheon-terminal 6.1.2: The terminal of the 21st century
 x11-themes/elementary-icons-theme 7.3.0: An original set of vector icons designed specifically for elementary OS
 x11-themes/elementary-sound-theme 1.1.0: A set of system sounds for elementary OS
 x11-themes/elementary-theme 7.2.0: The Gtk+ Stylesheet for elementary OS
 x11-themes/elementary-wallpapers 7.0.0: Wallpapers for elementary OS
-x11-wm/gala 7.0.3 9999: Pantheon's Window Manager
+x11-wm/gala 7.1.1 9999: Pantheon's Window Manager
