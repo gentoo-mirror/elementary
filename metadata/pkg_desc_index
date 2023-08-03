@@ -1,5 +1,5 @@
 app-accessibility/onboard 1.4.1: Onscreen keyboard for everybody who can't use a hardware keyboard
-app-editors/pantheon-code 7.0.0: Code editor designed for elementary OS
+app-editors/pantheon-code 7.1.0: Code editor designed for elementary OS
 dev-libs/appstream 0.15.6: Cross-distro effort for providing metadata for software in the Linux ecosystem
 dev-libs/granite 7.3.0: Elementary OS library that extends GTK+
 dev-libs/malcontent 0.10.5: Parental controls support library
@@ -30,7 +30,7 @@ pantheon-base/switchboard-plug-pantheon-shell 6.5.0: Configure the Pantheon desk
 pantheon-base/switchboard-plug-parental-controls 6.0.1: An easy parental controls plug for Switchboard
 pantheon-base/switchboard-plug-power 2.7.0: Control system power consumption using Switchboard.
 pantheon-base/switchboard-plug-printers 2.2.1: A printers plug for Switchboard
-pantheon-base/switchboard-plug-security-privacy 7.0.0: Configure various aspects of the security of the system.
+pantheon-base/switchboard-plug-security-privacy 7.1.0: Configure various aspects of the security of the system.
 pantheon-base/switchboard-plug-sharing 2.1.6: Switchboard Sharing Plug
 pantheon-base/switchboard-plug-sound 2.3.3: Switchboard Sound Plug
 pantheon-base/switchboard-plug-useraccounts 2.4.3: Switchboard User Accounts Plug.
@@ -55,7 +55,7 @@ pantheon-extra/pantheon-calculator 2.0.2: A tiny, simple calculator written in G
 pantheon-extra/pantheon-calendar 7.0.0: Desktop calendar app designed for elementary OS
 pantheon-extra/pantheon-camera 6.2.2: The camera app designed for elementary OS
 pantheon-extra/pantheon-capnet-assist 2.4.4: Captive Network Assistant
-pantheon-extra/pantheon-mail 7.1.0: Elementary OS mail reader
+pantheon-extra/pantheon-mail 7.2.0: Elementary OS mail reader
 pantheon-extra/pantheon-music 7.1.0: Elementary OS music player
 pantheon-extra/pantheon-photos 2.8.0: Photo viewer and organizer designed for elementary OS
 pantheon-extra/pantheon-screenshot 6.0.4: Elementary Screenshot Tool
