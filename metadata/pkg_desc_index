@@ -61,7 +61,7 @@ pantheon-extra/pantheon-photos 2.8.0: Photo viewer and organizer designed for el
 pantheon-extra/pantheon-screenshot 6.0.4: Elementary Screenshot Tool
 pantheon-extra/pantheon-tasks 6.3.2: Elementary OS tasks and reminders
 pantheon-extra/pantheon-tweaks 1.0.4: A system settings panel for the Pantheon DE
-pantheon-extra/pantheon-videos 2.9.1: Video player and library app designed for elementary OS
+pantheon-extra/pantheon-videos 3.0.0: Video player and library app designed for elementary OS
 pantheon-extra/shortcut-overlay 2.0.1: A native OS-wide shortcut overlay to be launched by Gala
 sci-geosciences/geocode-glib 3.26.4-r1: GLib helper library for geocoding services
 sys-apps/xdg-desktop-portal-pantheon 7.1.0: Pantheon XDG Desktop Portals
@@ -71,8 +71,8 @@ x11-libs/bamf 0.5.6: BAMF Application Matching Framework
 x11-misc/pantheon-notification-daemon 7.0.0: Gtk notification server for Pantheon
 x11-misc/plank 0.11.89: Elegant, simple, clean dock
 x11-terms/pantheon-terminal 6.1.2: The terminal of the 21st century
-x11-themes/elementary-icons-theme 7.3.0: An original set of vector icons designed specifically for elementary OS
+x11-themes/elementary-icons-theme 7.3.1: An original set of vector icons designed specifically for elementary OS
 x11-themes/elementary-sound-theme 1.1.0: A set of system sounds for elementary OS
 x11-themes/elementary-theme 7.2.0: The Gtk+ Stylesheet for elementary OS
 x11-themes/elementary-wallpapers 7.0.0: Wallpapers for elementary OS
-x11-wm/gala 7.1.1 9999: Pantheon's Window Manager
+x11-wm/gala 7.1.2 9999: Pantheon's Window Manager
