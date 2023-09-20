@@ -40,7 +40,7 @@ pantheon-base/wingpanel-indicator-datetime 2.4.1: Date & Time indicator for Wing
 pantheon-base/wingpanel-indicator-keyboard 2.4.1: Keyboard indicator for Wingpanel
 pantheon-base/wingpanel-indicator-network 7.0.1: Network indicator for Wingpanel
 pantheon-base/wingpanel-indicator-nightlight 2.1.2: Nightlight indicator for Wingpanel
-pantheon-base/wingpanel-indicator-notifications 7.0.0: Notifications indicator for Wingpanel
+pantheon-base/wingpanel-indicator-notifications 7.1.0: Notifications indicator for Wingpanel
 pantheon-base/wingpanel-indicator-power 6.2.1: Power indicator for Wingpanel
 pantheon-base/wingpanel-indicator-session 2.3.1: Session indicator for Wingpanel
 pantheon-base/wingpanel-indicator-sound 7.0.0-r1: Sound indicator for Wingpanel
