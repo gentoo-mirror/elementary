@@ -66,7 +66,7 @@ virtual/freedesktop-icon-theme 0-r4: Virtual to choose between different icon th
 virtual/notification-daemon 0: Virtual for notification daemon dbus service
 x11-libs/bamf 0.5.6: BAMF Application Matching Framework
 x11-misc/pantheon-notification-daemon 7.0.1: Gtk notification server for Pantheon
-x11-misc/plank 0.11.89: Elegant, simple, clean dock
+x11-misc/plank 0.11.89 0.11.89-r1: Elegant, simple, clean dock
 x11-terms/pantheon-terminal 6.1.2: The terminal of the 21st century
 x11-themes/elementary-icons-theme 7.3.1: An original set of vector icons designed specifically for elementary OS
 x11-themes/elementary-sound-theme 1.1.0: A set of system sounds for elementary OS
