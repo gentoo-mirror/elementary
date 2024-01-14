@@ -1,5 +1,5 @@
 app-editors/pantheon-code 7.1.0: Code editor designed for elementary OS
-dev-libs/appstream 0.15.6: Cross-distro effort for providing metadata for software in the Linux ecosystem
+dev-libs/appstream 0.15.6 0.16.4 1.0.1: Cross-distro effort for providing metadata for software in the Linux ecosystem
 dev-libs/granite 7.4.0: Elementary OS library that extends GTK+
 dev-libs/malcontent 0.10.5: Parental controls support library
 media-fonts/inter 3.19: The Inter font family
@@ -21,7 +21,7 @@ pantheon-base/switchboard-plug-display 7.0.0: Switchboard plug to show displays 
 pantheon-base/switchboard-plug-keyboard 3.2.1: Adjust keyboard settings from Switchboard
 pantheon-base/switchboard-plug-locale 2.5.9: Adjust Locale settings using Switchboard.
 pantheon-base/switchboard-plug-mouse-touchpad 7.0.0: Mouse and touchpad settings
-pantheon-base/switchboard-plug-network 2.4.4: Configure all available networks
+pantheon-base/switchboard-plug-network 2.5.0: Configure all available networks
 pantheon-base/switchboard-plug-notifications 2.2.0: Configure which apps should be allowed to show notifications
 pantheon-base/switchboard-plug-onlineaccounts 6.5.3: Switchboard plug for Online Accounts management
 pantheon-base/switchboard-plug-pantheon-shell 6.5.0: Configure the Pantheon desktop environment using Switchboard
@@ -38,7 +38,7 @@ pantheon-base/wingpanel-indicator-a11y 1.0.2: Wingpanel Universal Access Indicat
 pantheon-base/wingpanel-indicator-bluetooth 7.0.1: Bluetooth indicator for Wingpanel
 pantheon-base/wingpanel-indicator-datetime 2.4.1: Date & Time indicator for Wingpanel
 pantheon-base/wingpanel-indicator-keyboard 2.4.1: Keyboard indicator for Wingpanel
-pantheon-base/wingpanel-indicator-network 7.0.2: Network indicator for Wingpanel
+pantheon-base/wingpanel-indicator-network 7.1.0: Network indicator for Wingpanel
 pantheon-base/wingpanel-indicator-nightlight 2.1.2: Nightlight indicator for Wingpanel
 pantheon-base/wingpanel-indicator-notifications 7.1.0: Notifications indicator for Wingpanel
 pantheon-base/wingpanel-indicator-power 6.2.1: Power indicator for Wingpanel
