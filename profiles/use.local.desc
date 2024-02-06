@@ -9,3 +9,5 @@ dev-libs/granite:demo - Install demo application
 pantheon-extra/bookworm:comics - Support comic ebooks
 pantheon-extra/pantheon-photos:plugins - Build and install additional plugins
 virtual/notification-daemon:pantheon - Add Pantheon desktop environment support
+x11-wm/mutter:elogind - Rely on sys-auth/elogind as logind provider for Wayland sessions
+x11-wm/mutter:sysprof - Enable profiling data capture support using dev-util/sysprof-capture
