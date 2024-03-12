@@ -1,5 +1,5 @@
 app-editors/pantheon-code 7.2.0: Code editor designed for elementary OS
-dev-libs/appstream 0.15.6 0.16.4 1.0.1: Cross-distro effort for providing metadata for software in the Linux ecosystem
+dev-libs/appstream 0.15.6 0.16.4 1.0.2: Cross-distro effort for providing metadata for software in the Linux ecosystem
 dev-libs/granite 7.4.0: Elementary OS library that extends GTK+
 dev-libs/malcontent 0.10.5: Parental controls support library
 media-fonts/inter 3.19: The Inter font family
