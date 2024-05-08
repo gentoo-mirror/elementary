@@ -1,6 +1,6 @@
 app-editors/pantheon-code 7.2.0: Code editor designed for elementary OS
 dev-libs/appstream 0.15.6 0.16.4 1.0.2: Cross-distro effort for providing metadata for software in the Linux ecosystem
-dev-libs/granite 7.4.0: Elementary OS library that extends GTK+
+dev-libs/granite 7.5.0: Elementary OS library that extends GTK+
 dev-libs/malcontent 0.10.5: Parental controls support library
 media-fonts/inter 3.19: The Inter font family
 pantheon-base/applications-menu 2.11.1-r1: A lightweight and stylish app launcher for Pantheon and other DEs
@@ -68,9 +68,9 @@ x11-libs/bamf 0.5.6: BAMF Application Matching Framework
 x11-misc/pantheon-notification-daemon 7.0.1: Gtk notification server for Pantheon
 x11-misc/plank 0.11.89 0.11.89-r1: Elegant, simple, clean dock
 x11-terms/pantheon-terminal 6.1.2: The terminal of the 21st century
-x11-themes/elementary-icons-theme 7.3.1: An original set of vector icons designed specifically for elementary OS
+x11-themes/elementary-icons-theme 8.0.0: An original set of vector icons designed specifically for elementary OS
 x11-themes/elementary-sound-theme 1.1.0: A set of system sounds for elementary OS
-x11-themes/elementary-theme 7.2.0: The Gtk+ Stylesheet for elementary OS
+x11-themes/elementary-theme 8.0.0: The Gtk+ Stylesheet for elementary OS
 x11-themes/elementary-wallpapers 7.0.0: Wallpapers for elementary OS
 x11-wm/gala 7.1.3-r1 9999: Pantheon's Window Manager
 x11-wm/mutter 45.2-r1: GNOME compositing window manager based on Clutter
