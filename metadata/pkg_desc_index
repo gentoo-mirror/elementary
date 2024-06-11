@@ -73,4 +73,4 @@ x11-themes/elementary-sound-theme 1.1.0: A set of system sounds for elementary O
 x11-themes/elementary-theme 8.0.0: The Gtk+ Stylesheet for elementary OS
 x11-themes/elementary-wallpapers 7.0.0: Wallpapers for elementary OS
 x11-wm/gala 7.1.3-r1 9999: Pantheon's Window Manager
-x11-wm/mutter 45.2-r1: GNOME compositing window manager based on Clutter
+x11-wm/mutter 45.2-r1 45.4 45.5 45.6: GNOME compositing window manager based on Clutter
