@@ -32,7 +32,7 @@ pantheon-base/switchboard-plug-security-privacy 7.1.0-r2: Configure various aspe
 pantheon-base/switchboard-plug-sharing 2.1.6-r1: Switchboard Sharing Plug
 pantheon-base/switchboard-plug-sound 2.3.3-r1: Switchboard Sound Plug
 pantheon-base/switchboard-plug-useraccounts 2.4.3-r1: Switchboard User Accounts Plug.
-pantheon-base/switchboard-plug-wacom 1.0.1-r1: Wacom settings
+pantheon-base/switchboard-plug-wacom 1.0.1-r2 8.0.0: Wacom settings
 pantheon-base/wingpanel 3.0.5 9999: Stylish top panel that holds indicators and spawns an application launcher
 pantheon-base/wingpanel-indicator-a11y 1.0.2: Wingpanel Universal Access Indicator
 pantheon-base/wingpanel-indicator-bluetooth 7.0.1: Bluetooth indicator for Wingpanel
