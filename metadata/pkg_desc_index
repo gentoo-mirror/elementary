@@ -31,7 +31,7 @@ pantheon-base/switchboard-plug-parental-controls-helper 6.0.1-r2 8.0.0: An easy 
 pantheon-base/switchboard-plug-power 2.7.0-r2 8.0.0: Control system power consumption using Switchboard.
 pantheon-base/switchboard-plug-power-helper 2.7.0-r2 8.0.0: Control system power consumption using Switchboard.
 pantheon-base/switchboard-plug-printers 2.2.1-r2 8.0.0: A printers plug for Switchboard
-pantheon-base/switchboard-plug-security-privacy 7.1.0-r3: Configure various aspects of the security of the system.
+pantheon-base/switchboard-plug-security-privacy 7.1.0-r3 8.0.0: Configure various aspects of the security of the system.
 pantheon-base/switchboard-plug-sharing 2.1.6-r2 8.0.0: Switchboard Sharing Plug
 pantheon-base/switchboard-plug-sound 2.3.3-r2 8.0.0: Switchboard Sound Plug
 pantheon-base/switchboard-plug-useraccounts 2.4.3-r2 8.0.0: Switchboard User Accounts Plug.
