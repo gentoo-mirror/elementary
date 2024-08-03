@@ -5,7 +5,7 @@ dev-libs/malcontent 0.10.5: Parental controls support library
 media-fonts/inter 3.19: The Inter font family
 pantheon-base/applications-menu 2.11.1-r2: A lightweight and stylish app launcher for Pantheon and other DEs
 pantheon-base/pantheon-dock 9999: A quick app launcher and window switcher for Pantheon
-pantheon-base/pantheon-files 6.5.3: A simple, powerful, sexy file manager for the Pantheon desktop
+pantheon-base/pantheon-files 7.0.0: A simple, powerful, sexy file manager for the Pantheon desktop
 pantheon-base/pantheon-greeter 7.0.0 9999: LightDM Greeter for Pantheon
 pantheon-base/pantheon-meta 7.0.0-r1 8.0.0_pre: Pantheon DE meta package
 pantheon-base/pantheon-settings 7.1.0: Default settings for the Pantheon Desktop Environment
