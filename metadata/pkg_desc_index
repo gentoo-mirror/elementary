@@ -16,7 +16,7 @@ pantheon-base/switchboard-plug-a11y 2.3.0-r2: Switchboard Universal Access Plug
 pantheon-base/switchboard-plug-about 6.2.0-r2 8.0.0: Switchboard plug to show system information
 pantheon-base/switchboard-plug-applications 7.0.1-r2 8.0.0: Application configuration management
 pantheon-base/switchboard-plug-applications-helper 7.0.1-r2 8.0.0: Application configuration management
-pantheon-base/switchboard-plug-bluetooth 2.3.6-r2: Switchboard plug to setup bluetooth devices
+pantheon-base/switchboard-plug-bluetooth 2.3.6-r2 8.0.0: Switchboard plug to setup bluetooth devices
 pantheon-base/switchboard-plug-datetime 2.2.0-r2 8.0.0: Configure the date & time of the user
 pantheon-base/switchboard-plug-display 7.0.0-r2: Switchboard plug to show displays information
 pantheon-base/switchboard-plug-keyboard 3.2.1-r2 8.0.0: Adjust keyboard settings from Switchboard
