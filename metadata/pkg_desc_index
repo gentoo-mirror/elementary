@@ -26,7 +26,7 @@ pantheon-base/switchboard-plug-network 2.5.0-r2 8.0.0: Configure all available n
 pantheon-base/switchboard-plug-notifications 2.2.0-r2 8.0.0: Configure which apps should be allowed to show notifications
 pantheon-base/switchboard-plug-onlineaccounts 6.5.3-r2 8.0.0: Switchboard plug for Online Accounts management
 pantheon-base/switchboard-plug-pantheon-shell 6.5.0-r2 8.0.0: Configure the Pantheon desktop environment using Switchboard
-pantheon-base/switchboard-plug-parental-controls 6.0.1-r2 8.0.0: An easy parental controls plug for Switchboard
+pantheon-base/switchboard-plug-parental-controls 6.0.1-r2 8.0.0-r1: An easy parental controls plug for Switchboard
 pantheon-base/switchboard-plug-parental-controls-helper 6.0.1-r2 8.0.0: An easy parental controls plug for Switchboard
 pantheon-base/switchboard-plug-power 2.7.0-r2 8.0.0: Control system power consumption using Switchboard.
 pantheon-base/switchboard-plug-power-helper 2.7.0-r2 8.0.0: Control system power consumption using Switchboard.
