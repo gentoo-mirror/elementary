@@ -19,7 +19,7 @@ pantheon-base/switchboard-plug-about 6.2.0-r2 8.0.0: Switchboard plug to show sy
 pantheon-base/switchboard-plug-applications 7.0.1-r2 8.0.0: Application configuration management
 pantheon-base/switchboard-plug-applications-helper 7.0.1-r2 8.0.0: Application configuration management
 pantheon-base/switchboard-plug-bluetooth 2.3.6-r2 8.0.0: Switchboard plug to setup bluetooth devices
-pantheon-base/switchboard-plug-datetime 2.2.0-r2 8.0.0: Configure the date & time of the user
+pantheon-base/switchboard-plug-datetime 2.2.0-r2 8.1.0: Configure the date & time of the user
 pantheon-base/switchboard-plug-display 7.0.0-r2 8.0.0: Switchboard plug to show displays information
 pantheon-base/switchboard-plug-keyboard 3.2.1-r2 8.0.1: Adjust keyboard settings from Switchboard
 pantheon-base/switchboard-plug-locale 2.5.9-r2 8.0.0: Adjust Locale settings using Switchboard.
