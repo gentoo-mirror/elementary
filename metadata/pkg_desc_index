@@ -1,13 +1,13 @@
 app-editors/pantheon-code 7.3.0: Code editor designed for elementary OS
-dev-libs/appstream 0.16.4 1.0.3: Cross-distro effort for providing metadata for software in the Linux ecosystem
+dev-libs/appstream 1.0.3: Cross-distro effort for providing metadata for software in the Linux ecosystem
 dev-libs/granite 7.5.0: Elementary OS library that extends GTK+
 dev-libs/malcontent 0.10.5: Parental controls support library
-media-fonts/inter 3.19: The Inter font family
+media-fonts/inter 4.0: The Inter font family
 pantheon-base/applications-menu 2.11.1-r3 8.0.0: A lightweight and stylish app launcher for Pantheon and other DEs
 pantheon-base/bluetooth-daemon 1.0.0: Bluetooth daemon for Pantheon
-pantheon-base/pantheon-dock 8.0.0 9999: A quick app launcher and window switcher for Pantheon
-pantheon-base/pantheon-files 7.0.0-r1: A simple, powerful, sexy file manager for the Pantheon desktop
-pantheon-base/pantheon-greeter 7.0.0 8.0.0 9999: LightDM Greeter for Pantheon
+pantheon-base/pantheon-dock 8.0.0: A quick app launcher and window switcher for Pantheon
+pantheon-base/pantheon-files 7.1.0: A simple, powerful, sexy file manager for the Pantheon desktop
+pantheon-base/pantheon-greeter 7.0.0 8.0.0: LightDM Greeter for Pantheon
 pantheon-base/pantheon-meta 7.0.0-r2 8.0.0_pre: Pantheon DE meta package
 pantheon-base/pantheon-settings 7.1.0 8.0.1: Default settings for the Pantheon Desktop Environment
 pantheon-base/pantheon-settings-daemon 1.3.1 8.1.0: Pantheon settings daemon
@@ -38,7 +38,7 @@ pantheon-base/switchboard-plug-sharing 2.1.6-r2 8.0.0: Switchboard Sharing Plug
 pantheon-base/switchboard-plug-sound 2.3.3-r2 8.0.0: Switchboard Sound Plug
 pantheon-base/switchboard-plug-useraccounts 2.4.3-r2 8.0.0: Switchboard User Accounts Plug.
 pantheon-base/switchboard-plug-wacom 1.0.1-r2 8.0.0: Wacom settings
-pantheon-base/wingpanel 3.0.5 8.0.1 9999: Stylish top panel that holds indicators and spawns an application launcher
+pantheon-base/wingpanel 8.0.1: Stylish top panel that holds indicators and spawns an application launcher
 pantheon-base/wingpanel-indicator-a11y 1.0.2: Wingpanel Universal Access Indicator
 pantheon-base/wingpanel-indicator-bluetooth 8.0.0: Bluetooth indicator for Wingpanel
 pantheon-base/wingpanel-indicator-datetime 2.4.2: Date & Time indicator for Wingpanel
@@ -71,12 +71,12 @@ virtual/freedesktop-icon-theme 0-r4: Virtual to choose between different icon th
 virtual/notification-daemon 0: Virtual for notification daemon dbus service
 x11-libs/bamf 0.5.6: BAMF Application Matching Framework
 x11-misc/pantheon-notification-daemon 8.0.0: Gtk notification server for Pantheon
-x11-misc/plank 0.11.89 0.11.89-r1: Elegant, simple, clean dock
+x11-misc/plank 0.11.89-r1: Elegant, simple, clean dock
 x11-terms/pantheon-terminal 6.2.0: The terminal of the 21st century
 x11-themes/elementary-icons-theme 8.0.0: An original set of vector icons designed specifically for elementary OS
 x11-themes/elementary-refind-theme 0.0.1: an elementary theme for rEFInd
 x11-themes/elementary-sound-theme 1.1.0: A set of system sounds for elementary OS
 x11-themes/elementary-theme 8.1.0: The Gtk+ Stylesheet for elementary OS
 x11-themes/elementary-wallpapers 8.0.0: Wallpapers for elementary OS
-x11-wm/gala 7.1.3-r1 8.0.1 9999: Pantheon's Window Manager
-x11-wm/mutter 45.2-r1 45.4 45.5 45.6: GNOME compositing window manager based on Clutter
+x11-wm/gala 8.0.1: Pantheon's Window Manager
+x11-wm/mutter 45.5 45.6: GNOME compositing window manager based on Clutter
