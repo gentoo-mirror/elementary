@@ -24,7 +24,7 @@ pantheon-base/switchboard-plug-display 7.0.0-r2 8.0.0: Switchboard plug to show 
 pantheon-base/switchboard-plug-keyboard 3.2.1-r2 8.0.1: Adjust keyboard settings from Switchboard
 pantheon-base/switchboard-plug-locale 2.5.9-r2 8.0.0: Adjust Locale settings using Switchboard.
 pantheon-base/switchboard-plug-mouse-touchpad 7.0.0-r2 8.0.1: Mouse and touchpad settings
-pantheon-base/switchboard-plug-network 2.5.0-r2 8.0.0: Configure all available networks
+pantheon-base/switchboard-plug-network 2.5.0-r2 8.0.1: Configure all available networks
 pantheon-base/switchboard-plug-notifications 2.2.0-r2 8.0.0: Configure which apps should be allowed to show notifications
 pantheon-base/switchboard-plug-onlineaccounts 6.5.3-r2 8.0.1: Switchboard plug for Online Accounts management
 pantheon-base/switchboard-plug-pantheon-shell 6.5.0-r2 8.1.0: Configure the Pantheon desktop environment using Switchboard
@@ -73,10 +73,10 @@ x11-libs/bamf 0.5.6: BAMF Application Matching Framework
 x11-misc/pantheon-notification-daemon 8.0.0: Gtk notification server for Pantheon
 x11-misc/plank 0.11.89-r1: Elegant, simple, clean dock
 x11-terms/pantheon-terminal 6.2.0: The terminal of the 21st century
-x11-themes/elementary-icons-theme 8.0.0: An original set of vector icons designed specifically for elementary OS
+x11-themes/elementary-icons-theme 8.1.0: An original set of vector icons designed specifically for elementary OS
 x11-themes/elementary-refind-theme 0.0.1: an elementary theme for rEFInd
 x11-themes/elementary-sound-theme 1.1.0: A set of system sounds for elementary OS
 x11-themes/elementary-theme 8.1.0: The Gtk+ Stylesheet for elementary OS
 x11-themes/elementary-wallpapers 8.0.0: Wallpapers for elementary OS
-x11-wm/gala 8.0.1: Pantheon's Window Manager
+x11-wm/gala 8.0.2: Pantheon's Window Manager
 x11-wm/mutter 45.5 45.6: GNOME compositing window manager based on Clutter
