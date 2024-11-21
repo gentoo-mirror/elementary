@@ -1,6 +1,7 @@
+app-accessibility/onboard 1.4.1: Onscreen keyboard for everybody who can't use a hardware keyboard
 app-editors/pantheon-code 7.4.0: Code editor designed for elementary OS
 dev-libs/appstream 1.0.3: Cross-distro effort for providing metadata for software in the Linux ecosystem
-dev-libs/granite 7.5.0: Elementary OS library that extends GTK+
+dev-libs/granite 7.6.0: Elementary OS library that extends GTK+
 dev-libs/malcontent 0.10.5: Parental controls support library
 media-fonts/inter 4.0: The Inter font family
 pantheon-base/applications-menu 2.11.1-r3 8.0.0: A lightweight and stylish app launcher for Pantheon and other DEs
@@ -12,7 +13,8 @@ pantheon-base/pantheon-meta 7.0.0-r2 8.0.0_pre: Pantheon DE meta package
 pantheon-base/pantheon-settings 7.1.0 8.0.2: Default settings for the Pantheon Desktop Environment
 pantheon-base/pantheon-settings-daemon 1.3.1 8.1.0: Pantheon settings daemon
 pantheon-base/pantheon-shell 6.0.0-r1 8.0.1: Pantheon DE shell
-pantheon-base/quick-settings 1.0.0: Access frequently used settings and system actions
+pantheon-base/pantheon-wayland 1.0.0: Wayland integration library to the Pantheon Desktop
+pantheon-base/quick-settings 1.0.1: Access frequently used settings and system actions
 pantheon-base/switchboard 6.0.2-r2 8.0.2: Modular desktop settings hub
 pantheon-base/switchboard-plug-a11y 2.3.0-r2: Switchboard Universal Access Plug
 pantheon-base/switchboard-plug-about 6.2.0-r2 8.0.0: Switchboard plug to show system information
@@ -28,15 +30,15 @@ pantheon-base/switchboard-plug-network 2.5.0-r2 8.0.1: Configure all available n
 pantheon-base/switchboard-plug-notifications 2.2.0-r2 8.0.0: Configure which apps should be allowed to show notifications
 pantheon-base/switchboard-plug-onlineaccounts 6.5.3-r2 8.0.1: Switchboard plug for Online Accounts management
 pantheon-base/switchboard-plug-pantheon-shell 6.5.0-r2 8.1.0: Configure the Pantheon desktop environment using Switchboard
-pantheon-base/switchboard-plug-parental-controls 6.0.1-r3 8.0.0-r1: An easy parental controls plug for Switchboard
-pantheon-base/switchboard-plug-parental-controls-helper 6.0.1-r2 8.0.0: An easy parental controls plug for Switchboard
+pantheon-base/switchboard-plug-parental-controls 6.0.1-r3 8.0.1: An easy parental controls plug for Switchboard
+pantheon-base/switchboard-plug-parental-controls-helper 6.0.1-r2 8.0.1: An easy parental controls plug for Switchboard
 pantheon-base/switchboard-plug-power 2.7.0-r2 8.0.0: Control system power consumption using Switchboard.
 pantheon-base/switchboard-plug-power-helper 2.7.0-r2 8.0.0: Control system power consumption using Switchboard.
 pantheon-base/switchboard-plug-printers 2.2.1-r2 8.0.1: A printers plug for Switchboard
 pantheon-base/switchboard-plug-security-privacy 7.1.0-r3 8.0.0: Configure various aspects of the security of the system.
 pantheon-base/switchboard-plug-sharing 2.1.6-r2 8.0.0: Switchboard Sharing Plug
-pantheon-base/switchboard-plug-sound 2.3.3-r2 8.0.0: Switchboard Sound Plug
-pantheon-base/switchboard-plug-useraccounts 2.4.3-r2 8.0.0: Switchboard User Accounts Plug.
+pantheon-base/switchboard-plug-sound 2.3.3-r2 8.0.1: Switchboard Sound Plug
+pantheon-base/switchboard-plug-useraccounts 2.4.3-r2 8.0.1: Switchboard User Accounts Plug.
 pantheon-base/switchboard-plug-wacom 1.0.1-r2 8.0.0: Wacom settings
 pantheon-base/wingpanel 8.0.1: Stylish top panel that holds indicators and spawns an application launcher
 pantheon-base/wingpanel-indicator-a11y 1.0.2: Wingpanel Universal Access Indicator
@@ -53,10 +55,10 @@ pantheon-extra/bookworm 1.1.2-r1: A simple ebook reader for Elementary OS
 pantheon-extra/contract-print 0.1.3: Small utility to print documents
 pantheon-extra/contractor 0.3.5: A desktop-wide extension service
 pantheon-extra/pantheon-agent-geoclue2 1.0.6: Location services agent
-pantheon-extra/pantheon-agent-polkit 8.0.0-r1: Pantheon Polkit Agent
+pantheon-extra/pantheon-agent-polkit 8.0.1: Pantheon Polkit Agent
 pantheon-extra/pantheon-calculator 8.0.0: A tiny, simple calculator written in GTK+ and Vala
 pantheon-extra/pantheon-calendar 8.0.0: Desktop calendar app designed for elementary OS
-pantheon-extra/pantheon-camera 8.0.0: The camera app designed for elementary OS
+pantheon-extra/pantheon-camera 8.0.1: The camera app designed for elementary OS
 pantheon-extra/pantheon-capnet-assist 8.0.0: Captive Network Assistant
 pantheon-extra/pantheon-mail 8.0.0: Elementary OS mail reader
 pantheon-extra/pantheon-music 8.0.0: Elementary OS music player
@@ -66,7 +68,7 @@ pantheon-extra/pantheon-tasks 6.3.3: Elementary OS tasks and reminders
 pantheon-extra/pantheon-tweaks 2.1.0: A system settings panel for the Pantheon DE
 pantheon-extra/pantheon-videos 8.0.1: Video player and library app designed for elementary OS
 pantheon-extra/shortcut-overlay 8.0.1: A native OS-wide shortcut overlay to be launched by Gala
-sys-apps/xdg-desktop-portal-pantheon 7.2.0: Pantheon XDG Desktop Portals
+sys-apps/xdg-desktop-portal-pantheon 8.0.0: Pantheon XDG Desktop Portals
 virtual/freedesktop-icon-theme 0-r4: Virtual to choose between different icon themes
 virtual/notification-daemon 0: Virtual for notification daemon dbus service
 x11-libs/bamf 0.5.6: BAMF Application Matching Framework
@@ -76,7 +78,7 @@ x11-terms/pantheon-terminal 6.2.0: The terminal of the 21st century
 x11-themes/elementary-icons-theme 8.1.0: An original set of vector icons designed specifically for elementary OS
 x11-themes/elementary-refind-theme 0.0.1: an elementary theme for rEFInd
 x11-themes/elementary-sound-theme 1.1.0: A set of system sounds for elementary OS
-x11-themes/elementary-theme 8.1.0: The Gtk+ Stylesheet for elementary OS
+x11-themes/elementary-theme 8.2.0: The Gtk+ Stylesheet for elementary OS
 x11-themes/elementary-wallpapers 8.0.0: Wallpapers for elementary OS
-x11-wm/gala 8.0.2: Pantheon's Window Manager
+x11-wm/gala 8.0.3: Pantheon's Window Manager
 x11-wm/mutter 45.5 45.6: GNOME compositing window manager based on Clutter
