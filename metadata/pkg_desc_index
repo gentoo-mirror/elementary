@@ -74,7 +74,7 @@ virtual/notification-daemon 0: Virtual for notification daemon dbus service
 x11-libs/bamf 0.5.6: BAMF Application Matching Framework
 x11-misc/pantheon-notification-daemon 8.0.0: Gtk notification server for Pantheon
 x11-misc/plank 0.11.89-r1: Elegant, simple, clean dock
-x11-terms/pantheon-terminal 6.2.0: The terminal of the 21st century
+x11-terms/pantheon-terminal 6.3.0: The terminal of the 21st century
 x11-themes/elementary-icons-theme 8.1.0: An original set of vector icons designed specifically for elementary OS
 x11-themes/elementary-refind-theme 0.0.1: an elementary theme for rEFInd
 x11-themes/elementary-sound-theme 1.1.0: A set of system sounds for elementary OS
