@@ -32,11 +32,11 @@ pantheon-base/switchboard-plug-onlineaccounts 6.5.3-r2 8.0.1: Switchboard plug f
 pantheon-base/switchboard-plug-pantheon-shell 6.5.0-r2 8.1.0: Configure the Pantheon desktop environment using Switchboard
 pantheon-base/switchboard-plug-parental-controls 6.0.1-r3 8.0.1: An easy parental controls plug for Switchboard
 pantheon-base/switchboard-plug-parental-controls-helper 6.0.1-r2 8.0.1: An easy parental controls plug for Switchboard
-pantheon-base/switchboard-plug-power 2.7.0-r2 8.0.0: Control system power consumption using Switchboard.
+pantheon-base/switchboard-plug-power 2.7.0-r2 8.0.1: Control system power consumption using Switchboard.
 pantheon-base/switchboard-plug-power-helper 2.7.0-r2 8.0.0: Control system power consumption using Switchboard.
 pantheon-base/switchboard-plug-printers 2.2.1-r2 8.0.1: A printers plug for Switchboard
 pantheon-base/switchboard-plug-security-privacy 7.1.0-r3 8.0.0: Configure various aspects of the security of the system.
-pantheon-base/switchboard-plug-sharing 2.1.6-r2 8.0.0: Switchboard Sharing Plug
+pantheon-base/switchboard-plug-sharing 2.1.6-r2 8.0.1: Switchboard Sharing Plug
 pantheon-base/switchboard-plug-sound 2.3.3-r2 8.0.1: Switchboard Sound Plug
 pantheon-base/switchboard-plug-useraccounts 2.4.3-r2 8.0.1: Switchboard User Accounts Plug.
 pantheon-base/switchboard-plug-wacom 1.0.1-r2 8.0.0: Wacom settings
@@ -59,7 +59,7 @@ pantheon-extra/pantheon-agent-polkit 8.0.1: Pantheon Polkit Agent
 pantheon-extra/pantheon-calculator 8.0.0: A tiny, simple calculator written in GTK+ and Vala
 pantheon-extra/pantheon-calendar 8.0.0: Desktop calendar app designed for elementary OS
 pantheon-extra/pantheon-camera 8.0.1: The camera app designed for elementary OS
-pantheon-extra/pantheon-capnet-assist 8.0.0: Captive Network Assistant
+pantheon-extra/pantheon-capnet-assist 8.0.1: Captive Network Assistant
 pantheon-extra/pantheon-mail 8.0.0: Elementary OS mail reader
 pantheon-extra/pantheon-music 8.0.0: Elementary OS music player
 pantheon-extra/pantheon-photos 8.0.1: Photo viewer and organizer designed for elementary OS
