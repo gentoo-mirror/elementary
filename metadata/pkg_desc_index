@@ -25,7 +25,7 @@ pantheon-base/switchboard-plug-datetime 2.2.0-r2 8.1.0: Configure the date & tim
 pantheon-base/switchboard-plug-display 7.0.0-r2 8.0.0: Switchboard plug to show displays information
 pantheon-base/switchboard-plug-keyboard 3.2.1-r2 8.0.1: Adjust keyboard settings from Switchboard
 pantheon-base/switchboard-plug-locale 2.5.9-r2 8.0.1: Adjust Locale settings using Switchboard.
-pantheon-base/switchboard-plug-mouse-touchpad 7.0.0-r2 8.0.1: Mouse and touchpad settings
+pantheon-base/switchboard-plug-mouse-touchpad 7.0.0-r2 8.0.2: Mouse and touchpad settings
 pantheon-base/switchboard-plug-network 2.5.0-r2 8.0.1: Configure all available networks
 pantheon-base/switchboard-plug-notifications 2.2.0-r2 8.0.0: Configure which apps should be allowed to show notifications
 pantheon-base/switchboard-plug-onlineaccounts 6.5.3-r2 8.0.1: Switchboard plug for Online Accounts management
