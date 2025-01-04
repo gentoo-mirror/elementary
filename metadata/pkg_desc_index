@@ -5,7 +5,7 @@ dev-libs/granite 7.6.0: Elementary OS library that extends GTK+
 dev-libs/malcontent 0.10.5: Parental controls support library
 media-fonts/inter 4.0: The Inter font family
 pantheon-base/applications-menu 2.11.1-r3 8.0.0: A lightweight and stylish app launcher for Pantheon and other DEs
-pantheon-base/bluetooth-daemon 1.0.0: Bluetooth daemon for Pantheon
+pantheon-base/bluetooth-daemon 1.0.1: Bluetooth daemon for Pantheon
 pantheon-base/pantheon-dock 8.0.2: A quick app launcher and window switcher for Pantheon
 pantheon-base/pantheon-files 7.1.0: A simple, powerful, sexy file manager for the Pantheon desktop
 pantheon-base/pantheon-greeter 7.0.0 8.0.0: LightDM Greeter for Pantheon
