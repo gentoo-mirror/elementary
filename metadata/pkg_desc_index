@@ -15,31 +15,27 @@ pantheon-base/pantheon-settings-daemon 1.3.1 8.1.1: Pantheon settings daemon
 pantheon-base/pantheon-shell 6.0.0-r1 8.0.1: Pantheon DE shell
 pantheon-base/pantheon-wayland 1.0.0: Wayland integration library to the Pantheon Desktop
 pantheon-base/quick-settings 1.0.1: Access frequently used settings and system actions
-pantheon-base/switchboard 6.0.2-r2 8.0.2: Modular desktop settings hub
-pantheon-base/switchboard-plug-a11y 2.3.0-r2: Switchboard Universal Access Plug
-pantheon-base/switchboard-plug-about 6.2.0-r2 8.1.0: Switchboard plug to show system information
-pantheon-base/switchboard-plug-applications 7.0.1-r2 8.1.0: Application configuration management
-pantheon-base/switchboard-plug-applications-helper 7.0.1-r2 8.0.0: Application configuration management
-pantheon-base/switchboard-plug-bluetooth 2.3.6-r2 8.0.1: Switchboard plug to setup bluetooth devices
-pantheon-base/switchboard-plug-datetime 2.2.0-r2 8.1.0: Configure the date & time of the user
-pantheon-base/switchboard-plug-display 7.0.0-r2 8.0.0: Switchboard plug to show displays information
-pantheon-base/switchboard-plug-keyboard 3.2.1-r2 8.0.1: Adjust keyboard settings from Switchboard
-pantheon-base/switchboard-plug-locale 2.5.9-r2 8.0.1: Adjust Locale settings using Switchboard.
-pantheon-base/switchboard-plug-mouse-touchpad 7.0.0-r2 8.0.2: Mouse and touchpad settings
-pantheon-base/switchboard-plug-network 2.5.0-r2 8.0.1: Configure all available networks
-pantheon-base/switchboard-plug-notifications 2.2.0-r2 8.0.0: Configure which apps should be allowed to show notifications
-pantheon-base/switchboard-plug-onlineaccounts 6.5.3-r2 8.0.1: Switchboard plug for Online Accounts management
-pantheon-base/switchboard-plug-pantheon-shell 6.5.0-r2 8.1.0: Configure the Pantheon desktop environment using Switchboard
-pantheon-base/switchboard-plug-parental-controls 6.0.1-r3 8.0.1: An easy parental controls plug for Switchboard
-pantheon-base/switchboard-plug-parental-controls-helper 6.0.1-r2 8.0.1: An easy parental controls plug for Switchboard
-pantheon-base/switchboard-plug-power 2.7.0-r2 8.0.1: Control system power consumption using Switchboard.
-pantheon-base/switchboard-plug-power-helper 2.7.0-r2 8.0.0: Control system power consumption using Switchboard.
-pantheon-base/switchboard-plug-printers 2.2.1-r2 8.0.1: A printers plug for Switchboard
-pantheon-base/switchboard-plug-security-privacy 7.1.0-r3 8.0.1: Configure various aspects of the security of the system.
-pantheon-base/switchboard-plug-sharing 2.1.6-r2 8.0.1: Switchboard Sharing Plug
-pantheon-base/switchboard-plug-sound 2.3.3-r2 8.0.1-r1: Switchboard Sound Plug
-pantheon-base/switchboard-plug-useraccounts 2.4.3-r2 8.0.1: Switchboard User Accounts Plug.
-pantheon-base/switchboard-plug-wacom 1.0.1-r2 8.0.0: Wacom settings
+pantheon-base/switchboard 8.0.2: Modular desktop settings hub
+pantheon-base/switchboard-plug-about 8.1.0: Switchboard plug to show system information
+pantheon-base/switchboard-plug-applications 8.1.0-r1: Application configuration management
+pantheon-base/switchboard-plug-bluetooth 8.0.1: Switchboard plug to setup bluetooth devices
+pantheon-base/switchboard-plug-datetime 8.1.0: Configure the date & time of the user
+pantheon-base/switchboard-plug-display 8.0.0: Switchboard plug to show displays information
+pantheon-base/switchboard-plug-keyboard 8.0.1: Adjust keyboard settings from Switchboard
+pantheon-base/switchboard-plug-locale 8.0.1: Adjust Locale settings using Switchboard.
+pantheon-base/switchboard-plug-mouse-touchpad 8.0.2: Mouse and touchpad settings
+pantheon-base/switchboard-plug-network 8.0.1: Configure all available networks
+pantheon-base/switchboard-plug-notifications 8.0.0: Configure which apps should be allowed to show notifications
+pantheon-base/switchboard-plug-onlineaccounts 8.0.1: Switchboard plug for Online Accounts management
+pantheon-base/switchboard-plug-pantheon-shell 8.1.0: Configure the Pantheon desktop environment using Switchboard
+pantheon-base/switchboard-plug-parental-controls 8.0.1-r1: An easy parental controls plug for Switchboard
+pantheon-base/switchboard-plug-power 8.0.1-r1: Control system power consumption using Switchboard.
+pantheon-base/switchboard-plug-printers 8.0.1: A printers plug for Switchboard
+pantheon-base/switchboard-plug-security-privacy 8.0.1: Configure various aspects of the security of the system.
+pantheon-base/switchboard-plug-sharing 8.0.1: Switchboard Sharing Plug
+pantheon-base/switchboard-plug-sound 8.0.1-r1: Switchboard Sound Plug
+pantheon-base/switchboard-plug-useraccounts 8.0.1: Switchboard User Accounts Plug.
+pantheon-base/switchboard-plug-wacom 8.0.0: Wacom settings
 pantheon-base/wingpanel 8.0.1: Stylish top panel that holds indicators and spawns an application launcher
 pantheon-base/wingpanel-indicator-a11y 1.0.2: Wingpanel Universal Access Indicator
 pantheon-base/wingpanel-indicator-bluetooth 8.0.0: Bluetooth indicator for Wingpanel
