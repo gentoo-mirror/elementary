@@ -3,8 +3,6 @@
 # * generated automatically using pmaint *
 
 app-editors/pantheon-code:plugins - Build and install additional plugins
-dev-libs/appstream:apt - Enables Debians APT support
-dev-libs/appstream:vala - Enables Vala support
 dev-libs/granite:demo - Install demo application
 pantheon-extra/bookworm:comics - Support comic ebooks
 pantheon-extra/pantheon-photos:plugins - Build and install additional plugins
