@@ -10,7 +10,7 @@ pantheon-base/pantheon-files 7.1.1: A simple, powerful, sexy file manager for th
 pantheon-base/pantheon-greeter 8.0.1: LightDM Greeter for Pantheon
 pantheon-base/pantheon-meta 8.0.0: Pantheon DE meta package
 pantheon-base/pantheon-settings 8.0.3: Default settings for the Pantheon Desktop Environment
-pantheon-base/pantheon-settings-daemon 8.2.0: Pantheon settings daemon
+pantheon-base/pantheon-settings-daemon 8.2.0-r1: Pantheon settings daemon
 pantheon-base/pantheon-shell 8.0.1: Pantheon DE shell
 pantheon-base/pantheon-wayland 1.0.0: Wayland integration library to the Pantheon Desktop
 pantheon-base/quick-settings 1.0.1: Access frequently used settings and system actions
