@@ -6,4 +6,6 @@ app-editors/pantheon-code:plugins - Build and install additional plugins
 dev-libs/granite:demo - Install demo application
 pantheon-extra/bookworm:comics - Support comic ebooks
 pantheon-extra/pantheon-photos:plugins - Build and install additional plugins
+sys-apps/accountsservice:elogind - Use sys-auth/elogind for session tracking
+sys-apps/accountsservice:systemd - Use sys-apps/systemd for session tracking
 virtual/notification-daemon:pantheon - Add Pantheon desktop environment support
