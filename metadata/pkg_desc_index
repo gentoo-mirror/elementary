@@ -5,7 +5,7 @@ dev-libs/malcontent 0.10.5: Parental controls support library
 media-fonts/inter 4.0: The Inter font family
 pantheon-base/applications-menu 8.0.1: A lightweight and stylish app launcher for Pantheon and other DEs
 pantheon-base/bluetooth-daemon 1.0.1: Bluetooth daemon for Pantheon
-pantheon-base/pantheon-dock 8.1.0: A quick app launcher and window switcher for Pantheon
+pantheon-base/pantheon-dock 8.1.1: A quick app launcher and window switcher for Pantheon
 pantheon-base/pantheon-files 7.1.1: A simple, powerful, sexy file manager for the Pantheon desktop
 pantheon-base/pantheon-greeter 8.0.1: LightDM Greeter for Pantheon
 pantheon-base/pantheon-meta 8.0.0: Pantheon DE meta package
@@ -74,4 +74,4 @@ x11-themes/elementary-refind-theme 0.0.1: an elementary theme for rEFInd
 x11-themes/elementary-sound-theme 1.1.0: A set of system sounds for elementary OS
 x11-themes/elementary-theme 8.2.1: The Gtk+ Stylesheet for elementary OS
 x11-themes/elementary-wallpapers 8.0.0: Wallpapers for elementary OS
-x11-wm/gala 8.2.1: Pantheon's Window Manager
+x11-wm/gala 8.2.2: Pantheon's Window Manager
