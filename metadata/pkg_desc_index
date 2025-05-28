@@ -19,13 +19,13 @@ pantheon-base/switchboard-plug-about 8.2.1: Switchboard plug to show system info
 pantheon-base/switchboard-plug-applications 8.1.0-r1: Application configuration management
 pantheon-base/switchboard-plug-bluetooth 8.0.1: Switchboard plug to setup bluetooth devices
 pantheon-base/switchboard-plug-datetime 8.1.0: Configure the date & time of the user
-pantheon-base/switchboard-plug-display 8.0.1: Switchboard plug to show displays information
+pantheon-base/switchboard-plug-display 8.0.2: Switchboard plug to show displays information
 pantheon-base/switchboard-plug-keyboard 8.0.2: Adjust keyboard settings from Switchboard
 pantheon-base/switchboard-plug-locale 8.0.2: Adjust Locale settings using Switchboard.
 pantheon-base/switchboard-plug-mouse-touchpad 8.0.2: Mouse and touchpad settings
 pantheon-base/switchboard-plug-network 8.1.0: Configure all available networks
 pantheon-base/switchboard-plug-notifications 8.0.0: Configure which apps should be allowed to show notifications
-pantheon-base/switchboard-plug-onlineaccounts 8.0.1: Switchboard plug for Online Accounts management
+pantheon-base/switchboard-plug-onlineaccounts 8.0.2: Switchboard plug for Online Accounts management
 pantheon-base/switchboard-plug-pantheon-shell 8.2.0: Configure the Pantheon desktop environment using Switchboard
 pantheon-base/switchboard-plug-parental-controls 8.0.1-r1: An easy parental controls plug for Switchboard
 pantheon-base/switchboard-plug-power 8.0.1-r1: Control system power consumption using Switchboard.
