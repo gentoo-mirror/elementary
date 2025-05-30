@@ -62,7 +62,7 @@ pantheon-extra/pantheon-screenshot 8.0.1: Elementary Screenshot Tool
 pantheon-extra/pantheon-tasks 6.3.3: Elementary OS tasks and reminders
 pantheon-extra/pantheon-tweaks 2.3.0: A system settings panel for the Pantheon DE
 pantheon-extra/pantheon-videos 8.0.1: Video player and library app designed for elementary OS
-pantheon-extra/shortcut-overlay 8.0.1: A native OS-wide shortcut overlay to be launched by Gala
+pantheon-extra/shortcut-overlay 8.1.0: A native OS-wide shortcut overlay to be launched by Gala
 sys-apps/accountsservice 23.13.9: D-Bus interfaces for querying and manipulating user account information
 sys-apps/xdg-desktop-portal-pantheon 8.0.1: Pantheon XDG Desktop Portals
 virtual/freedesktop-icon-theme 0-r4: Virtual to choose between different icon themes
