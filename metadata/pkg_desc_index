@@ -64,7 +64,7 @@ pantheon-extra/pantheon-tweaks 2.3.0: A system settings panel for the Pantheon D
 pantheon-extra/pantheon-videos 8.0.1: Video player and library app designed for elementary OS
 pantheon-extra/shortcut-overlay 8.1.0: A native OS-wide shortcut overlay to be launched by Gala
 sys-apps/accountsservice 23.13.9: D-Bus interfaces for querying and manipulating user account information
-sys-apps/xdg-desktop-portal-pantheon 8.0.1: Pantheon XDG Desktop Portals
+sys-apps/xdg-desktop-portal-pantheon 8.0.2: Pantheon XDG Desktop Portals
 virtual/freedesktop-icon-theme 0-r4: Virtual to choose between different icon themes
 virtual/notification-daemon 0: Virtual for notification daemon dbus service
 x11-misc/pantheon-notification-daemon 8.1.0: Gtk notification server for Pantheon
