@@ -74,4 +74,4 @@ x11-themes/elementary-refind-theme 0.0.1: an elementary theme for rEFInd
 x11-themes/elementary-sound-theme 1.1.0: A set of system sounds for elementary OS
 x11-themes/elementary-theme 8.2.1: The Gtk+ Stylesheet for elementary OS
 x11-themes/elementary-wallpapers 8.0.0: Wallpapers for elementary OS
-x11-wm/gala 8.2.4: Pantheon's Window Manager
+x11-wm/gala 8.2.5: Pantheon's Window Manager
