@@ -17,7 +17,7 @@ pantheon-base/quick-settings 1.2.0: Access frequently used settings and system a
 pantheon-base/switchboard 8.0.2: Modular desktop settings hub
 pantheon-base/switchboard-plug-about 8.2.1: Switchboard plug to show system information
 pantheon-base/switchboard-plug-applications 8.1.0-r2: Application configuration management
-pantheon-base/switchboard-plug-bluetooth 8.0.1: Switchboard plug to setup bluetooth devices
+pantheon-base/switchboard-plug-bluetooth 8.0.2: Switchboard plug to setup bluetooth devices
 pantheon-base/switchboard-plug-datetime 8.1.0: Configure the date & time of the user
 pantheon-base/switchboard-plug-display 8.0.2: Switchboard plug to show displays information
 pantheon-base/switchboard-plug-keyboard 8.1.0: Adjust keyboard settings from Switchboard
