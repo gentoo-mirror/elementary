@@ -7,7 +7,7 @@ pantheon-base/applications-menu 8.0.1: A lightweight and stylish app launcher fo
 pantheon-base/bluetooth-daemon 1.1.0: Bluetooth daemon for Pantheon
 pantheon-base/pantheon-dock 8.1.2: A quick app launcher and window switcher for Pantheon
 pantheon-base/pantheon-files 7.1.4: A simple, powerful, sexy file manager for the Pantheon desktop
-pantheon-base/pantheon-greeter 8.0.1: LightDM Greeter for Pantheon
+pantheon-base/pantheon-greeter 8.0.1 9999: LightDM Greeter for Pantheon
 pantheon-base/pantheon-meta 8.0.0: Pantheon DE meta package
 pantheon-base/pantheon-settings 8.1.0: Default settings for the Pantheon Desktop Environment
 pantheon-base/pantheon-settings-daemon 8.3.1: Pantheon settings daemon
@@ -35,7 +35,7 @@ pantheon-base/switchboard-plug-sharing 8.0.2: Switchboard Sharing Plug
 pantheon-base/switchboard-plug-sound 8.0.1-r1: Switchboard Sound Plug
 pantheon-base/switchboard-plug-useraccounts 8.0.1: Switchboard User Accounts Plug.
 pantheon-base/switchboard-plug-wacom 8.0.1: Wacom settings
-pantheon-base/wingpanel 8.0.3-r1: Stylish top panel that holds indicators and spawns an application launcher
+pantheon-base/wingpanel 8.0.3-r1 9999: Stylish top panel that holds indicators and spawns an application launcher
 pantheon-base/wingpanel-indicator-a11y 1.0.2: Wingpanel Universal Access Indicator
 pantheon-base/wingpanel-indicator-bluetooth 8.0.0: Bluetooth indicator for Wingpanel
 pantheon-base/wingpanel-indicator-datetime 2.4.2-r1: Date & Time indicator for Wingpanel
@@ -74,4 +74,4 @@ x11-themes/elementary-refind-theme 0.0.1: an elementary theme for rEFInd
 x11-themes/elementary-sound-theme 1.1.0: A set of system sounds for elementary OS
 x11-themes/elementary-theme 8.2.1: The Gtk+ Stylesheet for elementary OS
 x11-themes/elementary-wallpapers 8.0.0: Wallpapers for elementary OS
-x11-wm/gala 8.2.5: Pantheon's Window Manager
+x11-wm/gala 8.2.5 9999: Pantheon's Window Manager
