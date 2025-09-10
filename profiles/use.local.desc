@@ -4,6 +4,7 @@
 
 app-editors/pantheon-code:plugins - Build and install additional plugins
 dev-libs/granite:demo - Install demo application
+media-libs/libshumate:sysprof - Enable sysprof-capture support for profiling
 pantheon-extra/bookworm:comics - Support comic ebooks
 pantheon-extra/pantheon-photos:plugins - Build and install additional plugins
 sys-apps/accountsservice:elogind - Use sys-auth/elogind for session tracking
