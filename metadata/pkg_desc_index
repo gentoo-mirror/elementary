@@ -5,7 +5,7 @@ dev-libs/malcontent 0.10.5: Parental controls support library
 media-fonts/inter 4.0: The Inter font family
 pantheon-base/applications-menu 8.0.1: A lightweight and stylish app launcher for Pantheon and other DEs
 pantheon-base/bluetooth-daemon 1.1.0: Bluetooth daemon for Pantheon
-pantheon-base/pantheon-dock 8.1.2: A quick app launcher and window switcher for Pantheon
+pantheon-base/pantheon-dock 8.2.0: A quick app launcher and window switcher for Pantheon
 pantheon-base/pantheon-files 7.1.4: A simple, powerful, sexy file manager for the Pantheon desktop
 pantheon-base/pantheon-greeter 8.0.1 9999: LightDM Greeter for Pantheon
 pantheon-base/pantheon-meta 8.0.0: Pantheon DE meta package
@@ -23,7 +23,7 @@ pantheon-base/switchboard-plug-display 8.0.2: Switchboard plug to show displays 
 pantheon-base/switchboard-plug-keyboard 8.1.0: Adjust keyboard settings from Switchboard
 pantheon-base/switchboard-plug-locale 8.0.2: Adjust Locale settings using Switchboard.
 pantheon-base/switchboard-plug-mouse-touchpad 8.0.2: Mouse and touchpad settings
-pantheon-base/switchboard-plug-network 8.1.0: Configure all available networks
+pantheon-base/switchboard-plug-network 8.2.0: Configure all available networks
 pantheon-base/switchboard-plug-notifications 8.0.0: Configure which apps should be allowed to show notifications
 pantheon-base/switchboard-plug-onlineaccounts 8.0.2: Switchboard plug for Online Accounts management
 pantheon-base/switchboard-plug-pantheon-shell 8.2.0: Configure the Pantheon desktop environment using Switchboard
