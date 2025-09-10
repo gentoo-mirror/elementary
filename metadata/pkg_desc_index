@@ -1,6 +1,6 @@
 app-accessibility/onboard 1.4.1: Onscreen keyboard for everybody who can't use a hardware keyboard
 app-editors/pantheon-code 8.1.1: Code editor designed for elementary OS
-dev-libs/granite 7.6.0: Elementary OS library that extends GTK+
+dev-libs/granite 7.6.0-r1: Elementary OS library that extends GTK+
 dev-libs/malcontent 0.10.5: Parental controls support library
 media-fonts/inter 4.0: The Inter font family
 pantheon-base/applications-menu 8.0.1: A lightweight and stylish app launcher for Pantheon and other DEs
