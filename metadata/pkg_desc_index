@@ -14,7 +14,7 @@ pantheon-base/pantheon-settings 8.1.0: Default settings for the Pantheon Desktop
 pantheon-base/pantheon-settings-daemon 8.3.1: Pantheon settings daemon
 pantheon-base/pantheon-shell 8.0.1-r1: Pantheon DE shell
 pantheon-base/pantheon-wayland 1.0.0: Wayland integration library to the Pantheon Desktop
-pantheon-base/quick-settings 1.2.0: Access frequently used settings and system actions
+pantheon-base/quick-settings 1.3.0: Access frequently used settings and system actions
 pantheon-base/switchboard 8.0.3: Modular desktop settings hub
 pantheon-base/switchboard-plug-about 8.2.1: Switchboard plug to show system information
 pantheon-base/switchboard-plug-applications 8.1.0-r2: Application configuration management
