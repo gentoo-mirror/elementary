@@ -1,6 +1,6 @@
 app-accessibility/onboard 1.4.1-r2 1.4.3.7: Onscreen keyboard for everybody who can't use a hardware keyboard
 app-editors/pantheon-code 8.1.1-r1: Code editor designed for elementary OS
-dev-libs/granite 7.6.0-r1: Elementary OS library that extends GTK+
+dev-libs/granite 7.7.0: Elementary OS library that extends GTK+
 dev-libs/malcontent 0.13.1: Parental controls support library
 media-fonts/inter 4.0: The Inter font family
 media-libs/libshumate 1.3.2 1.4.0: Shumate is a GTK toolkit providing widgets for embedded maps
