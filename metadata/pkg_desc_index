@@ -8,7 +8,7 @@ pantheon-base/applications-menu 8.0.1-r1: A lightweight and stylish app launcher
 pantheon-base/bluetooth-daemon 1.1.0-r1: Bluetooth daemon for Pantheon
 pantheon-base/pantheon-dock 8.2.0: A quick app launcher and window switcher for Pantheon
 pantheon-base/pantheon-files 7.1.5-r1: A simple, powerful, sexy file manager for the Pantheon desktop
-pantheon-base/pantheon-greeter 8.0.1-r1 9999: LightDM Greeter for Pantheon
+pantheon-base/pantheon-greeter 8.1.0 9999: LightDM Greeter for Pantheon
 pantheon-base/pantheon-meta 8.0.0: Pantheon DE meta package
 pantheon-base/pantheon-settings 8.1.0: Default settings for the Pantheon Desktop Environment
 pantheon-base/pantheon-settings-daemon 8.3.1-r1: Pantheon settings daemon
